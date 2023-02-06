@@ -1,6 +1,44 @@
 # Project Description
 
-Initial commit
+## Model Design
+
+As the main objective is to classify songs based on their ranking on the Billboard Hot 100, we will be training classification models and comparing the performance of at least two algorithms.
+
+### Class definitions
+
+It is nearly impossible to predict a song's exact ranking on the Billboard Hot 100 chart, however, a simpler approach is to create 11 ordinal buckets that characterize the range of rankings that a song could potentially fall into. Thus the classes will be defined as follows:
+
+| Class | Ranking                     |
+| ----- | --------------------------- |
+| 0     | 1-10                        |
+| 1     | 11-20                       |
+| 2     | 21-30                       |
+| 3     | 31-40                       |
+| 4     | 41-50                       |
+| 5     | 51-60                       |
+| 6     | 61-70                       |
+| 7     | 71-80                       |
+| 8     | 81-90                       |
+| 9     | 91-100                      |
+| 10    | Not ranked OR ranking > 100 |
+
+This necessitates that significant data preprocessing will be required to classify songs from the dataset into the proper classes as labeled here.
+
+### Model evaluation
+
+We decided to narrow our focus to compare the performance of two classification models: Random Forest Classifier (RFC) and Support Vector Machines (SVM).
+
+#### Random Forest Classifier (RFC)
+
+We chose the RFC model due to its relatively short training time, as RFCs are based on decision trees. However, RFCs are more immune to overfitting as it is the combined aggregate of multiple independent decision trees on the same dataset.
+
+#### Support Vector Machines (SVM)
+
+Despite the high performance of the SVM, its relatively longer training time make it a good target to compare against the RFC.
+
+#### Alternative models
+
+We are also considering other classification models such as Gradient Boost, XGBoost, and k-Nearest Neighbours (kNN).
 
 ## Data Description
 
