@@ -8,7 +8,7 @@ We set out to determine by first obtaining the following data:
 - Songs and their features (Artist, Album, etc.)
 - Their respective ranking on the Billboard charts
 
-From this, we'll correlate the two sets of data together.  We'll then divide our data into training and tests sets.  From the training data, we'll build our model(s) from this.  Then we'll proceed to test our model(s) with the test data in order to determine how accurate they are in predicting whether a given song is a hit or not.
+From this, we will correlate the two sets of data together.  We will then divide our data into training and test sets.  We will build our models from the training data and then compare performance using the test split.
 
 ## Model Design
 
