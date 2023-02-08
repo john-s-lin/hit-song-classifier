@@ -1,5 +1,15 @@
 # Project Description
 
+Our research question would be the following:
+
+_Given a list of songs with their attributes, can we correctly classify whether or not a song is a hit?_
+
+We set out to determine by first obtaining the following data:
+- Songs and their features (Artist, Album, etc.)
+- Their respective ranking on the Billboard charts
+
+From this, we will correlate the two sets of data together.  We will then divide our data into training and test sets.  We will build our models from the training data and then compare performance using the test split.
+
 ## Model Design
 
 As the main objective is to classify songs based on their ranking on the Billboard Hot 100, we will be training classification models and comparing the performance of at least two algorithms.
