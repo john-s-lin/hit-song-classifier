@@ -2,6 +2,13 @@
 
 SOEN-471 Group Project: Using classification to predict song rankings from the [Million Song Dataset](http://millionsongdataset.com/)
 
+| Group 22           | @GitHub             | ID       |
+| ------------------ | ------------------- | -------- |
+| John Lin           | @john-s-lin         | 40176227 |
+| Sephora Maltais    | @SephoraM           | 40151723 |
+| Steven Markandu    | @smarkandu          | 23740137 |
+| William Chittavong | @William-Chittavong | 40048632 |
+
 ## Rules
 
 The `main` branch is locked from modification. Please create a branch off `main` to add your changes and make a PR to main in order to merge your changes.
