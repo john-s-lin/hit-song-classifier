@@ -37,7 +37,7 @@ This necessitates that significant data preprocessing will be required to classi
 
 ### Identifying best features
 
-As mentioned in the project clinic, identifying the features that contribute most to the models might be a good sidequest to embark on. In order to do this, techniques such as Principal Component Analysis, Pearson's Coefficient and Jaccard Similarity Score can be used to identify the top features.
+As mentioned in the project clinic, identifying the features that contribute most to the models might be a good sidequest to embark on. In order to do this, techniques such as Principal Component Analysis, Pearson's Coefficient and Jaccard Similarity Score can be used to identify the top features. `sklearn` models also include `feature_importances_` as a relevant attribute to a model.
 
 ### Model evaluation
 
