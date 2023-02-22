@@ -5,10 +5,11 @@ Our research question would be the following:
 _Given a list of songs with their attributes, can we correctly classify whether or not a song is a hit?_
 
 We set out to determine by first obtaining the following data:
+
 - Songs and their features (Artist, Album, etc.)
 - Their respective ranking on the Billboard charts
 
-From this, we will correlate the two sets of data together.  We will then divide our data into training and test sets.  We will build our models from the training data and then compare performance using the test split.
+From this, we will correlate the two sets of data together. We will then divide our data into training and test sets. We will build our models from the training data and then compare performance using the test split.
 
 ## Model Design
 
@@ -33,6 +34,10 @@ It is nearly impossible to predict a song's exact ranking on the Billboard Hot 1
 | 10    | Not ranked OR ranking > 100 |
 
 This necessitates that significant data preprocessing will be required to classify songs from the dataset into the proper classes as labeled here.
+
+### Identifying best features
+
+As mentioned in the project clinic, identifying the features that contribute most to the models might be a good sidequest to embark on. In order to do this, techniques such as Principal Component Analysis, Pearson's Coefficient and Jaccard Similarity Score can be used to identify the top features.
 
 ### Model evaluation
 
