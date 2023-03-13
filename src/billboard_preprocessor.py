@@ -64,7 +64,7 @@ def classify_rankings(df: DataFrame) -> DataFrame:
 
 
 # removes a directory and all content
-def remove_directory(directory_path):
+def remove_directory(directory_path: str):
     print(f'removing directory {directory_path}')
     shutil.rmtree(directory_path)
 
