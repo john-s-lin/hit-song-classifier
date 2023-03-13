@@ -80,7 +80,8 @@ def write_csv(df: DataFrame, write_path: str):
     count = 1
     for file in os.listdir(write_path):
         if file.endswith(".csv"):
-            path = os.path.join(root_dir, 'data', f'charts{count}.csv')
+            filename = f'classified_billboard_songs{count}.csv'
+            path = os.path.join(root_dir, 'data', filename)
             os.rename(os.path.join(write_path, file), path)
             count += 1
     # remove write_path directory and all contained files
