@@ -34,10 +34,7 @@ def download_kaggle_dataset(k_path: str, k_filename: str, directory: str):
         zip_object.extractall(directory)
 
 
-'''
-Process the downloaded csv data,
-taking the top ranking for all years before 2011.
-'''
+# Process the downloaded csv data
 def process_csv(filename: str) -> DataFrame:
     spark = (
         SparkSession.builder
