@@ -33,15 +33,17 @@ def download_kaggle_dataset(k_path: str, k_filename: str, directory: str):
     with ZipFile(zip_path, 'r') as zip_object:
         zip_object.extractall(directory)
 
-
-# process the downloaded csv data, taking the top ranking for all years before 2011.
+'''
+Process the downloaded csv data, 
+taking the top ranking for all years before 2011.
+'''
 def process_csv(filename: str) -> DataFrame:
     spark = (
         SparkSession.builder
         .appName('Hot-Song-classifier')
         .getOrCreate()
     )
-    
+
     df = spark.read.csv(filename, header=True, mode='DROPMALFORMED')
     df = df.withColumn('rank', df['rank'].cast(IntegerType()))
     df = df.withColumn('date', df['date'].cast(DateType()))
@@ -72,9 +74,9 @@ def remove_directory(directory_path):
 # writes a dataframe to a csv file at the given path
 def write_csv(df: DataFrame, write_path: str):
     df.write.format("csv") \
-    .mode('overwrite') \
-    .option("header", "true") \
-    .save(write_path)
+        .mode('overwrite') \
+        .option("header", "true") \
+        .save(write_path)
 
     # rename file
     count = 1
