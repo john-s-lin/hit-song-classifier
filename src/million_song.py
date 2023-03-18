@@ -1,9 +1,13 @@
 import requests
 import os
 import tarfile
+import h5py
+from pyspark import SparkContext, SparkConf
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col
-from io import BytesIO
+import pandas as pd
+import dask.dataframe as dd
+import glob
 
 # Define the download function
 def download(download_url: str, local_file: str) -> str:
@@ -35,61 +39,93 @@ def download(download_url: str, local_file: str) -> str:
 #         tar.extractall("C:/Users/jach_/git_Repos/hit-song-classifier/src/data")
 
 
-# Define function to get all h5 files in a directory and its subdirectories
-def get_h5_files(path):
-    h5_files = []
-    for root, dirs, files in os.walk(path):
-        for file in files:
-            if file.endswith(".h5"):
-                h5_files.append(os.path.join(root, file))
-    return h5_files
+spark = SparkSession.builder.appName("MillionSongSubset").getOrCreate()
 
-# Set up Spark session
-spark = SparkSession.builder.appName("MyApp").getOrCreate()
 
-# Define path to MillionSongSubset directory
-subset_path = "C:/Users/jach_/git_Repos/hit-song-classifier/src/data/MillionSongSubset"
+parent_dir = r"C:\Users\jach_\git_Repos\hit-song-classifier\src"
 
-# Get list of all h5 files in MillionSongSubset and its subdirectories
-h5_files = get_h5_files(subset_path)
+h5_paths = list(glob.glob(parent_dir + "**/**/*.h5", recursive=True))
 
-# Read all h5 files into a list of Spark dataframes
+
+
+file = r"C:\Users\jach_\git_Repos\hit-song-classifier\src\data\MillionSongSubset\A\A\A\TRAAAAW128F429D538.h5"
+
+
+
+features = ['artist_name', 'title', 'year', 'danceability', 'duration', 'energy', 'key', 'loudness', 'song_hotttnesss', 'tempo', 'time_signature']
+
+h5_paths = h5_paths[:10]
+
+
+# dfs = []
+
+# for file_path in h5_paths:
+#     with h5py.File(file_path, "r") as f:
+#         h5_dfs = []
+#         group_names = list(f.keys())  # get all group names in the file
+#         for group_name in group_names:
+#             if "songs" in f[group_name]:
+#                 # Read data from the songs dataset in the current group and append to the list of DataFrames
+#                 df = dd.from_array(f[group_name]["songs"][()])
+#                 h5_dfs.append(df)
+
+#         # Concatenate all DataFrames into a single Dask DataFrame for this h5 file
+#         h5_df = dd.concat(h5_dfs)
+
+#         # Add this h5 file's dataframe to the list of dataframes
+#         dfs.append(h5_df)
+
+# # Concatenate all DataFrames from all h5 files into a single Dask DataFrame
+# df = dd.concat(dfs)
+
+import dask.dataframe as dd
+import pandas as pd
+import tables
+
+
+
 dfs = []
-for h5_file in h5_files:
-    df = spark.read.format("com.databricks.spark.avro").load(h5_file)
-    dfs.append(df)
 
-# Combine all dataframes into one dataframe
-spark_df = dfs[0]
-for df in dfs[1:]:
-    spark_df = spark_df.union(df)
+for h5_path in h5_paths:
+    # open the H5 file
+    with tables.open_file(h5_path, mode='r') as f:
+        # iterate over each group in the H5 file
+        for group in f.walk_groups():
+            # check if the group has a songs table
+            if 'songs' in group:
+                # read the songs table into a pandas dataframe
+                songs_df = pd.read_hdf(h5_path, key=group._v_pathname+'/songs')
+                # create an empty dask dataframe with the correct column names
+                columns = list(songs_df.columns)
+                df = dd.from_pandas(pd.DataFrame(columns=columns), npartitions=1)
+                # concatenate the single row of the songs table to the dask dataframe
+                df = dd.concat([df, dd.from_pandas(songs_df, npartitions=1)])
+                dfs.append(df)
 
-# Keep only selected features and drop rows with null values in any of the feature columns
-selected_cols = ["artist_name", "title", "year", "tempo", "duration", "end_of_fade_in", "key", "loudness", "mode", "start_of_fade_out"]
-spark_df = spark_df.select(selected_cols).dropna()
+# concatenate all the dask dataframes into one
+final_df = dd.concat(dfs)
+# persist the dask dataframe in memory for faster computations
+final_df = final_df.persist()
 
-# Save the preprocessed dataframe as a CSV file
-spark_df.write.format("csv").option("header", "true").save("C:/Users/jach_/git_Repos/hit-song-classifier/src/preprocessed_data.csv")
+df_filtered = final_df.loc[:, features]
+head_df = df_filtered.head(10, npartitions=20)
 
-# Show the first 5 rows of the preprocessed dataframe
-spark_df.show(5)
+print(head_df)
+print(df_filtered.isnull().sum().compute())
 
 
-# import requests
-# from pyspark.sql import SparkSession
 
-# # Set up Spark session
-# spark = SparkSession.builder.appName("Read MSD Subset Data").getOrCreate()
 
-# # Set URL for subset_msd_summary_file.csv
-# subset_url = "http://static.echonest.com/millionsongsubset_full/salami_subset/summary/salami_subset_msd_summary_file.csv"
 
-# # Stream data from URL using requests library
-# response = requests.get(subset_url, stream=True)
+# def process(df, columns_to_keep):
+   
+#     df_filtered = df.dropna(how = 'any')
+#     df_filtered = df.loc[:, columns_to_keep]
+#     return df_filtered
 
-# # Read data into PySpark DataFrame
-# spark_df = spark.read.option("header", "true").option("inferSchema", "true").csv(response.raw)
+# features = ['artist_name', 'title', 'year', 'danceability', 'duration', 'energy', 'key', 'loudness', 'song_hotness', 'tempo', 'time_signature']
 
-# # keep only required features
-# subset_df = spark_df.select("year", "duration", "tempo", "loudness", "key", "mode", "end_of_fade_in", "start_of_fade_out", "energy")
-# subset_df.show(5)
+# process_df = process(df, features)
+
+# # write the Dask DataFrame to a CSV file
+# process_df.to_csv('million_song.csv', index=False)
