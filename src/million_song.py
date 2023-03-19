@@ -2,13 +2,14 @@ import requests
 import os
 import tarfile
 import h5py
-from pyspark import SparkContext, SparkConf
+
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col
-import pandas as pd
 import dask.dataframe as dd
 import glob
 
+
+#to do: make a data directory in the route directory and download the data there
 # Define the download function
 def download(download_url: str, local_file: str) -> str:
     """
@@ -21,11 +22,12 @@ def download(download_url: str, local_file: str) -> str:
     else:
         print(f"Downloading {download_url}...")
         response = requests.get(download_url, stream=True)
-        with open(local_file, 'wb') as f:
+        with open(local_file, "wb") as f:
             for chunk in response.iter_content(chunk_size=1024):
                 if chunk:
                     f.write(chunk)
         return local_file
+
 
 # Download and extract the subset
 # download_link = "http://labrosa.ee.columbia.edu/~dpwe/tmp/millionsongsubset.tar.gz"
@@ -42,90 +44,76 @@ def download(download_url: str, local_file: str) -> str:
 spark = SparkSession.builder.appName("MillionSongSubset").getOrCreate()
 
 
-parent_dir = r"C:\Users\jach_\git_Repos\hit-song-classifier\src"
-
-h5_paths = list(glob.glob(parent_dir + "**/**/*.h5", recursive=True))
-
-
-
-file = r"C:\Users\jach_\git_Repos\hit-song-classifier\src\data\MillionSongSubset\A\A\A\TRAAAAW128F429D538.h5"
-
-
-
-features = ['artist_name', 'title', 'year', 'danceability', 'duration', 'energy', 'key', 'loudness', 'song_hotttnesss', 'tempo', 'time_signature']
-
-h5_paths = h5_paths[:10]
-
-
-# dfs = []
-
-# for file_path in h5_paths:
-#     with h5py.File(file_path, "r") as f:
-#         h5_dfs = []
-#         group_names = list(f.keys())  # get all group names in the file
-#         for group_name in group_names:
-#             if "songs" in f[group_name]:
-#                 # Read data from the songs dataset in the current group and append to the list of DataFrames
-#                 df = dd.from_array(f[group_name]["songs"][()])
-#                 h5_dfs.append(df)
-
-#         # Concatenate all DataFrames into a single Dask DataFrame for this h5 file
-#         h5_df = dd.concat(h5_dfs)
-
-#         # Add this h5 file's dataframe to the list of dataframes
-#         dfs.append(h5_df)
-
-# # Concatenate all DataFrames from all h5 files into a single Dask DataFrame
-# df = dd.concat(dfs)
-
-import dask.dataframe as dd
-import pandas as pd
-import tables
-
-
-
 dfs = []
 
-for h5_path in h5_paths:
-    # open the H5 file
-    with tables.open_file(h5_path, mode='r') as f:
-        # iterate over each group in the H5 file
-        for group in f.walk_groups():
-            # check if the group has a songs table
-            if 'songs' in group:
-                # read the songs table into a pandas dataframe
-                songs_df = pd.read_hdf(h5_path, key=group._v_pathname+'/songs')
-                # create an empty dask dataframe with the correct column names
-                columns = list(songs_df.columns)
-                df = dd.from_pandas(pd.DataFrame(columns=columns), npartitions=1)
-                # concatenate the single row of the songs table to the dask dataframe
-                df = dd.concat([df, dd.from_pandas(songs_df, npartitions=1)])
-                dfs.append(df)
+# TODO try not to use for loops for this
+# you can create a multi df from
+# analysis_songs = dd.read_hdf('*/data/MillionSongSubset/**/**/*.h5', 'analysis/songs') # For one set
+# meta_songs = dd.read_hdf('*/data/MillionSongSubset/**/**/*.h5', 'metadata/songs') # For another set
+# music_songs = dd.read_hdf('*/data/MillionSongSubset/**/**/*.h5', 'musicbrainz/songs') # For another set
 
-# concatenate all the dask dataframes into one
-final_df = dd.concat(dfs)
-# persist the dask dataframe in memory for faster computations
-final_df = final_df.persist()
 
-df_filtered = final_df.loc[:, features]
-head_df = df_filtered.head(10, npartitions=20)
+import os
+import dask.dataframe as dd
 
-print(head_df)
-print(df_filtered.isnull().sum().compute())
+# current_dir = os.path.dirname(os.path.abspath(__file__))
+# data_dir = os.path.join(current_dir, 'data/MillionSongSubset')
+
+# analysis_songs = dd.read_hdf('*/data/MillionSongSubset/*.h5', 'analysis/songs') # For one set
+# meta_songs = dd.read_hdf('*/data/MillionSongSubset/*.h5', 'metadata/songs') # For another set
+# music_songs = dd.read_hdf('*/data/MillionSongSubset/*.h5', 'musicbrainz/songs') # For another set
 
 
 
 
 
-# def process(df, columns_to_keep):
-   
-#     df_filtered = df.dropna(how = 'any')
-#     df_filtered = df.loc[:, columns_to_keep]
-#     return df_filtered
+def process(df, columns_to_keep):
 
-# features = ['artist_name', 'title', 'year', 'danceability', 'duration', 'energy', 'key', 'loudness', 'song_hotness', 'tempo', 'time_signature']
+    df_filtered = df.dropna(how = 'any')
+    df_filtered = df.loc[:, columns_to_keep]
+    return df_filtered
+
+# TODO make sure the feature names are correct
+
+# features = ['artist_name', 'title', 'year', 'danceability', 'duration', 'energy', 'key', 'loudness', 'song_hotttness', 'tempo', 'time_signature']
 
 # process_df = process(df, features)
 
 # # write the Dask DataFrame to a CSV file
 # process_df.to_csv('million_song.csv', index=False)
+
+
+def main():
+   
+    features = [
+        "artist_name",
+        "title",
+        "year",
+        "danceability",
+        "duration",
+        "energy",
+        "key",
+        "loudness",
+        "song_hotttnesss",
+        "tempo",
+        "time_signature",
+    ]
+    parent_dir = ".\src"
+    h5_files = list(glob.glob(parent_dir + "**/**/*.h5", recursive=True))
+    analysis_songs = dd.read_hdf(h5_files, key='analysis/songs')
+    meta_songs = dd.read_hdf(h5_files, key='metadata/songs')
+    music_songs = dd.read_hdf(h5_files, key='musicbrainz/songs')
+
+    print(analysis_songs.head(n=10))
+
+    merged = dd.concat([analysis_songs, meta_songs, music_songs], axis=1)
+    merged = merged.repartition(npartitions=10)
+    filtered = process(merged,features)
+    print(merged.head(n=10))
+    filtered.to_csv('million_songs.csv', index=False)
+    # print("merged:")
+    # print(merged.head(n=10))
+
+
+if __name__ == "__main__":
+    main()
