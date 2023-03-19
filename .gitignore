@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MacOS
+*.DS_Store
+
+# Intermediate data storage
+**.tar.gz
+**.h5
