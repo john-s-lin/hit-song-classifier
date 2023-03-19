@@ -104,12 +104,11 @@ def main():
     meta_songs = dd.read_hdf(h5_files, key='metadata/songs')
     music_songs = dd.read_hdf(h5_files, key='musicbrainz/songs')
 
-    print(analysis_songs.head(n=10))
-
+   
     merged = dd.concat([analysis_songs, meta_songs, music_songs], axis=1)
     merged = merged.repartition(npartitions=10)
     filtered = process(merged,features)
-    print(merged.head(n=10))
+    print(filtered.head(npartitions=5,n=5))
     filtered.to_csv('million_songs.csv', index=False)
     # print("merged:")
     # print(merged.head(n=10))

@@ -1,0 +1,1001 @@
+artist_name,title,year,danceability,duration,energy,key,loudness,song_hotttnesss,tempo,time_signature
+Otis Spann,Must Have Been The Devil,1990,0.0,160.83546,0.0,9,-13.389,,99.463,4
+Kool Moe Dee,I Go To Work,1989,0.0,281.33832,0.0,6,-8.762,,83.856,3
+Lee Ritenour,Is It You?,1979,0.0,274.72934,0.0,0,-9.727,0.5989895579810494,164.594,4
+Big John Greer,Bottle It Up And Go,1992,0.0,145.73669,0.0,7,-7.265,0.0,159.939,1
+Jaguares,El Momento,2001,0.0,302.8371,0.0,9,-9.795,0.4072330149011048,119.09,4
+Oak Ridge Boys,My Saviour Is Lord,0,0.0,125.83138,0.0,0,-12.135,,105.044,1
+The Tragically Hip,Country Day,2009,0.0,318.87628,0.0,9,-5.48,0.46054128135865785,122.926,4
+Carman featuring Commissioned & The Christ Church Choir,Let The Church Rise,0,0.0,326.26893,0.0,7,-9.464,,135.507,4
+Reni,Nema Dana Ni Meseca,0,0.0,191.52934,0.0,5,-2.785,,130.027,4
+Raphael,Cantares,0,0.0,198.86975,0.0,7,-6.862,,120.101,4
+Sammi Cheng,Sa La Re Wo Di Luo Mi Qu Yu Zhu Li Ye,0,0.0,294.47791,0.0,10,-5.597,,119.101,4
+Fiona,Why,0,0.0,215.06567,0.0,10,-8.005,0.3277443093263581,157.759,4
+Cargo Cult,Helium,2004,0.0,240.09098,0.0,0,-7.76,,95.995,5
+Lord Sterling,Poison Lips,2004,0.0,315.16689,0.0,6,-6.8,,141.769,4
+Forensics,I Need To Talk To Hank Hank,0,0.0,415.45098,0.0,4,-24.25,0.21508031850922793,137.883,3
+Gerard Lenorman,Soldats Ne Tirez Pas,1989,0.0,191.73832,0.0,11,-5.53,0.21508031850922793,112.192,4
+Cama,Walk With You,2009,0.0,183.562,0.0,4,-5.516,,185.981,1
+Anat Ben David,Robot Kid,0,0.0,132.93669,0.0,11,-4.662,0.0,110.579,4
+Arturo Sandoval,Almendra,1997,0.0,271.43791,0.0,5,-12.246,0.26695518627553855,139.944,1
+Novika,Mikawa Miya,2006,0.0,268.90404,0.0,0,-9.655,0.5632303756862997,90.017,4
+Eldar,Dat Dere,0,0.0,579.13424,0.0,2,-17.112,0.0,140.608,4
+Oldelaf et Monsieur D,Rue de Nantes,2006,0.0,249.41669,0.0,7,-9.985,0.0,127.605,5
+Eason Chan,Ren Lai Ren Wang,0,0.0,271.09832,0.0,7,-14.155,,73.438,4
+The Fabulous Thunderbirds,Please Don't Lie To Me,1996,0.0,127.68608,0.0,6,-8.692,0.2707759989463275,148.452,4
+Hey Colossus,45 Pounds,2007,0.0,251.81995,0.0,5,-9.711,,104.819,4
+Sonora Carruseles,Chela,1999,0.0,220.78649,0.0,8,-11.079,0.0,60.159,4
+Eddy Raven,I Know That Car,0,0.0,201.63873,0.0,10,-14.586,,105.966,4
+Finntroll,Kitteldags,2001,0.0,125.46567,0.0,1,-5.059,0.6547345372368608,110.972,4
+Tanto Metro & Devonte,The Story (get It On),0,0.0,209.03138,0.0,1,-8.726,0.0,87.697,4
+Bounty Killer,Coppershot,2001,0.0,221.70077,0.0,9,-8.043,,142.749,4
+Mobb Deep featuring Nate Dogg,Dump,2004,0.0,195.65669,0.0,6,-3.813,0.4961753356732933,91.562,4
+DJ Spinn and DJ Rashad,Like It's Hot,0,0.0,209.94567,0.0,6,-13.306,0.0,160.04,4
+Jose Luis Perales,El Amor,1979,0.0,253.12608,0.0,2,-10.744,,98.679,4
+El Poder del Norte,Negocio Prohibido,0,0.0,223.05914,0.0,0,-10.566,,171.849,4
+Tony Matterhorn,Dutty Wine,2006,0.0,183.53587,0.0,10,-5.953,0.6853982601238167,127.493,4
+Story Of The Year,Won Threw Ate,2010,0.0,224.41751,0.0,7,-3.487,0.6282179645794025,143.837,7
+Brazilian Tropical Orchestra,Baby,0,0.0,198.32118,0.0,2,-16.031,,135.894,5
+Kisha,Why?,1998,0.0,225.38404,0.0,7,-4.799,,199.917,7
+Ana Nikolic,Sizofrenija(duet Ana Nikolic&Aca Lukas),0,0.0,263.00036,0.0,1,-5.402,0.0,145.893,4
+Tyrone Taylor,Happiness Is Loving You,0,0.0,178.15465,0.0,4,-6.536,,159.728,4
+4 Skins,Bread Or Blood (Single),0,0.0,170.52689,0.0,7,-9.089,,101.962,4
+Robben Ford,The Champ,1997,0.0,312.92036,0.0,2,-9.925,0.5996603576264808,114.681,3
+White Heart,Hold On,0,0.0,221.20444,0.0,1,-10.383,0.42744657148843085,125.881,4
+Zapp,Rock Star (LP Version),0,0.0,244.53179,0.0,11,-11.655,0.3522322250053423,110.444,4
+Ximena Sarinana,Mediocre (Version original),0,0.0,218.04363,0.0,1,-11.689,0.5076694722644626,169.105,3
+Busta Rhymes,Taste It,2002,0.0,226.32444,0.0,10,-7.958,,146.971,5
+Fontella Bass,You've Lost That Lovin' Feelin',1992,0.0,204.35546,0.0,5,-10.269,0.42744657148843085,101.469,4
+Rhinostar,Einfach,0,0.0,206.99383,0.0,3,-5.021,0.0,89.954,4
+Old Man's Child,Towards Eternity,1998,0.0,317.12608,0.0,7,-6.748,0.5452302938983613,95.138,1
+Red Hot Chili Peppers,Emit Remmus (Album Version),1999,0.0,240.19546,0.0,0,-2.267,0.7345132497062585,112.961,4
+Patty Griffin,Moses,1996,0.0,208.32608,0.0,4,-7.852,0.5466354885721183,95.738,4
+Satan's Host,Infernal Calling,2006,0.0,412.1073,0.0,7,-3.92,0.0,136.474,4
+Aeoliah,For Your Passion My Love,2007,0.0,307.09506,0.0,9,-15.226,0.26586104921065007,126.976,4
+Eric Demarsan,Valérie,0,0.0,91.45424,0.0,3,-24.436,,108.11,1
+Mississippi Mass Choir,Having You There,0,0.0,333.5571,0.0,8,-5.743,0.37598430150044215,163.35,4
+Space Opera,Awake IV,0,0.0,82.18077,0.0,11,-8.601,,95.736,4
+Through the Eyes of the Dead,Outro,2005,0.0,41.482,0.0,1,-31.982,0.6030301447935913,97.802,3
+Johnny Otis,Lovers Lane Boogie,0,0.0,160.60036,0.0,8,-15.506,,94.961,5
+Finest Dearest,Naming Ceremony,2008,0.0,299.75465,0.0,6,-7.34,0.21508031850922793,121.03,7
+Jazz Gillum,Gillum Blues,0,0.0,137.82159,0.0,0,-12.455,,179.269,1
+Neema,Goodfellas,0,0.0,227.02975,0.0,6,-6.697,,136.223,4
+Sound 5,Ala Kaboo (Idjut Boy's H-Bar Mix),0,0.0,469.62893,0.0,2,-11.315,,243.994,3
+Jorgen Ingmann,Oceans Of Love (LP Version),0,0.0,129.01832,0.0,9,-8.768,,160.451,4
+Sean Callery,Jack and Benton,2008,0.0,212.84526,0.0,5,-29.331,0.42744657148843085,121.153,4
+Jesus Otero - Luny Tunes,Nivel De Mafia,0,0.0,191.76444,0.0,1,-5.552,,96.024,4
+Gran Coquivacoa,Hechizo,0,0.0,188.89098,0.0,9,-9.764,,137.939,1
+Fergie,London Bridge,0,0.0,208.95302,0.0,1,-5.93,0.7415744234679955,91.02,4
+The Doors,Strange Days ( LP Version ),1967,0.0,186.56608,0.0,11,-6.772,,121.744,4
+Erick Sermon,Safe Sex,1993,0.0,223.4771,0.0,1,-9.436,0.4051157216913865,197.741,4
+40 Grit,A Part Of Me,2003,0.0,250.67057,0.0,11,-8.951,0.4051157216913865,148.234,4
+Bob Azzam,Guarda Che Luna,0,0.0,107.31057,0.0,5,-5.382,0.0,121.649,1
+Scott Glasgow,Space Station Liberty,2007,0.0,222.82404,0.0,6,-14.15,,77.115,1
+Poncho Sanchez,Manteca,1987,0.0,350.27546,0.0,5,-15.82,,221.81,4
+Livingston Taylor,Tell Jesus [To Come To My House],0,0.0,285.88363,0.0,0,-13.559,0.4293691765253594,153.033,4
+Papa Wemba,Zero,1992,0.0,265.76934,0.0,10,-11.73,,134.201,3
+Fortitude,He's Alright (Album Version),0,0.0,260.46649,0.0,10,-6.464,,88.025,4
+R. Carlos Nakai,In A Distant Place (World),0,0.0,238.13179,0.0,0,-22.812,0.2700670304890448,158.152,4
+Onyx,Wet The Club,2002,0.0,255.50322,0.0,1,-6.305,0.4444017145228514,164.981,4
+Jennifer Lopez,Por Arriesgarnos,2007,0.0,211.80036,0.0,4,-10.447,0.541551997892655,201.792,4
+Joe Grushecky,A Fool's Advice,0,0.0,253.04771,0.0,11,-13.54,,109.997,4
+THE CHIFFONS,One Fine Day,1963,0.0,129.67138,0.0,6,-8.23,,88.808,4
+Spitfire,Tanzen,0,0.0,200.09751,0.0,10,-3.73,0.5571877675186344,155.056,4
+Equilibrium,Prolog auf Erden,0,0.0,219.03628,0.0,2,-3.901,0.6573105785331762,180.12,4
+Martha Wainwright,Who Was I Kidding,2005,0.0,251.16689,0.0,2,-10.512,0.6362872244273321,153.396,3
+The Rolling Stones,Rocks Off,1972,0.0,272.43057,0.0,9,-8.242,0.7351686692630743,141.808,1
+Ms. Dynamite,Unbreakable,2005,0.0,208.5873,0.0,2,-8.226,0.4733465411087876,109.287,1
+Ronny Eriksson,Spritlåten,0,0.0,160.1824,0.0,5,-12.417,,115.079,4
+Kat DeLuna,Run The Show featuring Don Omar [en Espanol],0,0.0,213.4722,0.0,10,-5.919,,104.986,4
+Atom,Strikes-3,0,0.0,439.06567,0.0,11,-9.36,0.0,126.953,4
+Artie Fishel & The Promised Band,Watermelon Man (What A Mellow Goy),0,0.0,145.76281,0.0,10,-7.008,0.0,155.329,4
+Johnny Horton,Got The Bull By The Horns,1996,0.0,131.81342,0.0,6,-11.011,,87.653,4
+Fat Joe,Words With Fat Joe,0,0.0,37.642,0.0,1,-15.329,,172.279,1
+Jerry Yan,Pei Chen Pin,0,0.0,277.18485,0.0,0,-6.954,,125.506,4
+L.A. Guns,Some Lie For Love,1992,0.0,215.82322,0.0,9,-9.767,0.5996603576264808,133.624,4
+Demonbreed,Lifewalk,0,0.0,308.81914,0.0,8,-5.028,0.21508031850922793,164.137,4
+XLNC,Vaisakhi Wala Mela,0,0.0,241.42322,0.0,2,-14.803,,187.926,3
+Champion Jack Dupree With TS McPhee,No Meat Blues,0,0.0,192.15628,0.0,3,-10.688,,87.062,3
+Enrique Iglesias,Si Juras Regresar,1995,0.0,263.81016,0.0,9,-7.06,0.46818107091845745,141.22,4
+Britt Nicole,Don't Worry Now (Performance Track In Key Of Db Without Background Vocals),0,0.0,245.81179,0.0,1,-13.053,0.0,160.015,4
+Esa Pakarinen,Lentävä kalakukko,1990,0.0,202.86649,0.0,2,-15.202,0.4471357962861778,171.876,1
+Claire Hamill,Sidney Gorgeous,0,0.0,116.29669,0.0,9,-18.206,0.0,122.693,4
+The Plasmatics,Summer Nite,1981,0.0,286.9024,0.0,11,-4.907,0.536032111708468,119.38,4
+Connie Smith,If I Talk To Him,2001,0.0,146.33751,0.0,10,-13.232,,141.553,4
+Scalplock,Protagonist (Album Version),0,0.0,66.0371,0.0,5,-5.3,,110.499,1
+The Grease Band,Willie And The Pig,1971,0.0,254.85016,0.0,9,-17.604,0.2028318912578596,174.96,4
+Amy Lambert,Because He Loves Me,0,0.0,288.67873,0.0,4,-11.603,,108.533,3
+Torcuato Mariano,Black and Blue,2006,0.0,295.02649,0.0,2,-11.878,0.26586104921065007,180.191,3
+Dobby Dobson,A True Friend,0,0.0,193.56689,0.0,9,-7.303,0.24390466835385802,163.957,4
+Baby Bash / Grimm,Changed My Life,2003,0.0,231.07873,0.0,2,-5.179,,89.478,4
+Chops,Give It To 'Em,0,0.0,171.2322,0.0,1,-3.326,0.0,181.747,1
+Carl Smith,Loose Talk,1990,0.0,152.42404,0.0,2,-26.045,,113.726,4
+Rise Against,Intro/Chamber The Cartridge,2006,0.0,214.88281,0.0,8,-4.504,0.774014062267062,109.45,3
+Martriden,Blank Eye Stare,2006,0.0,355.94404,0.0,0,-4.701,0.46961928681004506,83.914,4
+Fredi,Laula kanssain,1977,0.0,243.722,0.0,3,-10.613,0.26695518627553855,121.117,4
+Sandy Lam,Wei Liang,0,0.0,213.91628,0.0,4,-4.934,0.4996648621311711,98.991,4
+Patsy Cline,I Cried All The Way To The Altar,1995,0.0,148.40118,0.0,7,-9.38,,91.637,3
+All Leather,We're Skrewed (Otto Von Schirach My Supernatural Motorcycle Gang Will Knife U Open Piss & Shit All Over Your Organic Starbucks =iPhone Bank Account Lifeless Lifestyle Remix),0,0.0,249.5473,0.0,8,-5.282,,150.982,4
+D:Fuse,Living The Dream,2004,0.0,352.93995,0.0,2,-12.982,,131.877,1
+Janet Jackson,Hold On Baby,1993,0.0,10.34404,0.0,10,-32.742,0.25055171998902936,61.878,7
+Dokken,Judgement Day,2008,0.0,242.85995,0.0,8,-4.938,0.4348380902608562,124.285,4
+James Newton Howard,U North,2007,0.0,108.35546,0.0,2,-30.893,0.3775316449767025,129.113,4
+Daryl Hall & John Oates,Everything Your Heart Desires,1988,0.0,299.49342,0.0,5,-7.414,0.5447509131829931,99.973,4
+Bad Company,Valerie (LP Version),1986,0.0,208.87465,0.0,2,-12.217,0.41398331203709726,127.592,1
+Max Steiner,Main Title / The Searchers,0,0.0,94.27546,0.0,9,-14.759,0.0,144.404,4
+Angel Romero,Prelude No. 2 (2000 Digital Remaster),0,0.0,110.05342,0.0,4,-30.894,0.0,78.281,3
+Humble Pie,Lonely No More,0,0.0,193.54077,0.0,10,-13.339,0.24000475233246882,120.563,1
+Gaetano Donizetti,Donizetti: Roberto Devereux: Ah! Ritorna qual ti spero....,0,0.0,164.362,0.0,7,-18.524,,122.423,4
+Incubus,Warning,2001,0.0,291.81342,0.0,11,-6.084,,161.697,4
+Juliette & The Licks,Shelter Your Needs,2005,0.0,241.37098,0.0,2,-5.199,0.6067635298719581,156.523,4
+Aesop Rock,Limelighters (feat. Camp Lo) / Flunkadelic Interlude,2003,0.0,273.60608,0.0,10,-8.011,0.5778887778428028,57.332,1
+Paul Avgerinos,Gnosis,2006,0.0,423.60118,0.0,9,-23.03,0.26586104921065007,119.897,1
+Phil Collins,You Can't Hurry Love  (LP Version),0,0.0,172.93016,0.0,7,-11.813,,97.649,4
+Bangalafumenga,Baile Da Pesada,0,0.0,188.89098,0.0,4,-8.239,0.21508031850922793,77.41,3
+Bryan Ferry,Wildcat Days (1999 Digital Remaster),1994,0.0,274.28526,0.0,10,-7.158,,125.978,4
+Angels,Tulip,0,0.0,221.41342,0.0,7,-6.335,,102.967,4
+Barbara Fairchild,I'll Meet You In The Morning,0,0.0,193.09669,0.0,8,-8.596,,115.126,3
+The Balustrade Ensemble,Crushed Pears,2007,0.0,226.76853,0.0,2,-24.802,,118.311,3
+Prince,Escape ( LP Version),0,0.0,210.70322,0.0,4,-9.754,0.49271363957256076,119.956,4
+Santana,Let It Shine,0,0.0,342.83057,0.0,11,-12.896,,107.542,4
+Diego Verdaguer,Todos mentimos,0,0.0,171.04934,0.0,6,-8.368,0.37598430150044215,120.03,4
+Teenage Fanclub,The World'll Be OK,2003,0.0,266.89261,0.0,4,-8.198,0.5183103193207527,120.271,4
+Cavo,Over Again (Album Version),0,0.0,207.0722,0.0,8,-4.044,0.3016817567316363,121.029,4
+Bruisers,Never Fall,0,0.0,103.75791,0.0,2,-10.352,0.49783321457002905,114.61,4
+The Highwaymen,Daughters & Sons,0,0.0,260.91057,0.0,7,-11.595,0.2350293816094551,153.04,4
+Joselito,En Un Pueblito Español,0,0.0,198.76526,0.0,2,-5.767,0.24140323522643595,98.096,1
+Bill Laswell,Slow Murder,0,0.0,347.402,0.0,1,-16.297,,137.934,4
+AFI,Summer Shudder,2006,0.0,187.03628,0.0,1,-4.183,0.8586304584012816,170.046,4
+Lil Mz. 313 featuring DJ Rashad,Suk The Blood,0,0.0,231.73179,0.0,10,-7.432,,160.084,4
+Juan Carlos Baglietto,Fui Mujer,0,0.0,262.922,0.0,4,-12.142,0.0,120.101,5
+Hatebreed (int License),Beholder of Justice (Album Version),2003,0.0,164.20526,0.0,5,-3.856,0.6459428371297138,134.804,4
+La Portuaria,Explorador,2005,0.0,291.13424,0.0,7,-8.853,0.22914410371660274,120.006,4
+Conjunto Clasico,Mi Suegra,0,0.0,244.74077,0.0,0,-10.05,0.26586104921065007,91.871,4
+Snowgoons,Been Fighting Devilz,2009,0.0,240.45669,0.0,10,-6.249,,94.146,4
+Warren Barfield,Unleashed,2006,0.0,216.81587,0.0,4,-6.352,,196.13,4
+Ayo,Welcome Into My World,2006,0.0,264.56771,0.0,4,-11.522,0.0,185.89,4
+Vitamin C,Girls Against Boys (LP Version),1999,0.0,256.83546,0.0,1,-6.024,0.4733465411087876,117.198,4
+Jah Legacy,What is the best,0,0.0,262.21669,0.0,7,-8.089,0.0,105.985,4
+R. Carlos Nakai,Canyon People (World),0,0.0,276.50567,0.0,6,-32.339,0.4454545254934259,157.381,1
+Bob Marley,Corner Stone,1996,0.0,135.49669,0.0,0,-11.575,,201.953,1
+Margaret Becker,Cave It In,0,0.0,260.75383,0.0,0,-7.329,0.37598430150044215,121.147,4
+The Cufflinks,Sally Ann,0,0.0,167.00036,0.0,7,-15.402,0.23221455417550246,138.425,1
+Rolfe Kent,Bill's Speech - A New Kind of Warrior,0,0.0,100.30975,0.0,5,-24.516,,92.244,4
+Dimitri Tiomkin,Villagers Galloping To Battle,0,0.0,192.7571,0.0,9,-13.419,,84.926,1
+Pheeroan Aklaff,Oooh_ Pooh,0,0.0,81.91955,0.0,7,-18.379,,207.409,3
+Moraes Moreira,Agradeça Ao Pelô,0,0.0,232.07138,0.0,8,-9.832,,185.327,4
+Olivia Ruiz,Vitrier,2005,0.0,252.86485,0.0,5,-8.328,0.5359538016656614,241.892,3
+Richard Burton,Camelot,0,0.0,149.28934,0.0,5,-15.545,0.42530424172042486,112.144,4
+The Roots,Essaywhuman?!!,0,0.0,315.01016,0.0,10,-3.05,0.4137398358601097,74.162,3
+The Pharcyde,Homegrown,2004,0.0,138.50077,0.0,7,-9.628,0.4574471670851005,130.019,3
+The Doors,Albinoni's Adagio In G Minor (LP Version),0,0.0,272.45669,0.0,0,-13.473,0.6083390068705503,97.035,3
+Janet Jackson,When I Think Of You,1986,0.0,235.41506,0.0,8,-11.761,,116.195,4
+Rick Snel,Metanoia,0,0.0,465.99791,0.0,1,-8.744,0.21204540548371908,133.0,4
+Erick Sermon,Stay Real,1993,0.0,235.51955,0.0,4,-9.356,,97.544,4
+Chris Brown,So Glad,0,0.0,177.89342,0.0,10,-7.098,0.624061571285285,100.969,4
+Butthole Surfers,Ulcer Breakout,1996,0.0,154.85342,0.0,2,-3.865,0.7152801055797262,122.125,4
+Isabel Pantoja,Porque Me Gusta A Morir,1993,0.0,317.36118,0.0,2,-11.88,0.23962909777363708,163.922,4
+Soul Asylum,Freaks (Album Version),1986,0.0,206.75873,0.0,2,-10.294,0.3725300393660796,191.226,4
+Michèle Bernard,Monsieur qui s'engraisse,2002,0.0,212.13995,0.0,7,-12.882,,109.974,3
+Raymond Lefèvre,"Générique - ""le gendarme et les gendarmettes",0,0.0,114.99057,0.0,5,-9.831,0.0,112.445,3
+Chanta Vielma,Rio Grnade,0,0.0,244.24444,0.0,4,-12.652,0.0,81.585,3
+Helen Love,Atomic Beat Boy (Album Version),0,0.0,216.76363,0.0,3,-9.699,0.36727341580934564,142.004,4
+Undertakin' Daddies,Two Wheels In the Ditch,0,0.0,146.02404,0.0,7,-9.269,0.0,122.358,4
+2raumwohnung,Rette Mich Später (Michael Ilbert Radio Mix),2010,0.0,234.34404,0.0,1,-5.239,0.46048484498641545,124.992,4
+Papoose,Intro,2006,0.0,46.47138,0.0,1,-10.951,0.39200877147130697,95.147,1
+Andy & Lucas,Dime Si Me Quieres,2008,0.0,213.52444,0.0,2,-4.85,0.48456252996792964,97.786,4
+Plump DJs,Contact 00,2003,0.0,348.55138,0.0,9,-7.881,0.5225281303758282,138.046,4
+Konstantinos Galanos,Oso Ego Kanenas,0,0.0,293.8771,0.0,10,-5.019,,136.495,4
+Astrovamps,Monsters In Tinsel Town,0,0.0,235.72853,0.0,0,-7.807,0.3871017370082594,145.26,1
+THE CHIFFONS,Did You Ever Go Steady,1963,0.0,138.762,0.0,9,-6.863,0.3943948561005826,122.939,4
+Jimmy Durante,Amen (Album Version),0,0.0,233.37751,0.0,10,-14.751,0.0,124.656,4
+Jackie Wilson,I'm Wanderin',1958,0.0,160.78322,0.0,5,-12.534,,108.248,3
+Raphaël,La Mémoire Des Jours,2003,0.0,255.65995,0.0,4,-12.924,0.30416950343527516,85.949,4
+Intars Busulis,8:00,0,0.0,208.16934,0.0,1,-3.698,,140.029,4
+Sao Paris,Jap,0,0.0,279.43138,0.0,7,-11.554,,129.903,4
+The Meatmen,Slum Goddess (Originally Performed by The Fugs),0,0.0,218.5922,0.0,2,-7.257,,149.034,5
+Quadro Nuevo,Swing Vagabond,2006,0.0,272.92689,0.0,8,-11.437,0.4348380902608562,105.069,1
+Zeca Baleiro,Não Adianta,2006,0.0,246.49098,0.0,2,-15.145,0.41375242159798564,122.174,4
+Alexis HK,Le Diable,0,0.0,167.28771,0.0,4,-9.885,0.30416950343527516,116.099,4
+Porcupine Tree,Remember Me Lover (Album Version),2009,0.0,454.16444,0.0,9,-10.321,0.8399088879538184,132.972,4
+Jimmy Nelson,Little Miss Teasin' Brown,0,0.0,178.78159,0.0,3,-9.625,,106.964,3
+Jacques Dutronc,Transes-Dimanche,1968,0.0,128.33914,0.0,9,-8.573,,137.119,1
+Less Than Jake,Antidote For The Underdog,2008,0.0,147.48689,0.0,9,-5.072,0.4432913119053975,120.697,4
+Deep Forest,Hunting,1992,0.0,397.76608,0.0,1,-9.314,0.7775964783734547,145.464,4
+Lollipop Lust Kill,No Answer (Outro),2002,0.0,211.90485,0.0,8,-16.794,0.3347065490692206,126.747,1
+Hotwire,Not Today,2003,0.0,200.33261,0.0,2,-4.522,0.37598430150044215,141.741,4
+The Gufs,Last Goodbye,0,0.0,232.98567,0.0,4,-4.297,0.42530424172042486,166.057,4
+Eagles,Last Good Time In Town,2007,0.0,427.36281,0.0,9,-6.991,0.5589973270385168,115.277,1
+Basement Jaxx,Jump N Shout Featuring Slarta John (Radio Edit),1999,0.0,218.14812,0.0,11,-4.984,0.6454425456753486,126.805,5
+Prozak,Why??? featuring TECH N9NE & Twista,0,0.0,207.85587,0.0,10,-5.534,0.46899778764525596,113.534,4
+Mark Wills,That's A Woman,2003,0.0,162.37669,0.0,4,-11.528,0.5859797661092777,69.222,3
+Weirdos_ The,I Want What I Want,1978,0.0,161.27955,0.0,11,-9.4,0.0,139.913,1
+S.U.P,Back From The Garden (Live),2001,0.0,320.02567,0.0,0,-10.849,,147.983,4
+Tree,Try,0,0.0,172.90404,0.0,0,-7.971,,101.409,4
+DAVE MATTHEWS BAND,The Space Between,2001,0.0,293.66812,0.0,6,-5.21,0.8252329946050212,85.141,4
+BT,Ver de Feliz,2006,0.0,311.90159,0.0,8,-17.729,0.4574471670851005,110.002,4
+Goldfinger,Get By (Disconnection Notice Bonus Track),0,0.0,191.29424,0.0,7,-4.985,0.0,151.036,4
+George Jones,Still Hurtin',0,0.0,124.29016,0.0,9,-7.854,0.26695518627553855,158.955,3
+John Berry,She's Taken A Shine,0,0.0,221.88363,0.0,10,-9.612,0.6068072928412985,118.096,4
+John Williams,Bach Suite No. 1 In G Major (Gigue),0,0.0,115.12118,0.0,11,-26.589,,117.971,1
+Abijah,The Rock,2003,0.0,283.68934,0.0,8,-9.787,,119.029,4
+Agnostic Front,Undertow,1992,0.0,179.09506,0.0,4,-5.439,0.6089329463779882,110.791,5
+Sick Of It All,Death Or Jail,2010,0.0,171.07546,0.0,10,-2.388,0.74842460448203,113.198,1
+Très,Color of Seasons,0,0.0,430.0273,0.0,1,-10.868,,125.983,4
+Kenny G,Don't Make Me Wait For Love,1986,0.0,285.98812,0.0,4,-12.853,,84.825,4
+Shirley Caesar,Cornerstone,0,0.0,314.30485,0.0,8,-5.74,0.0,103.8,3
+Kevin Burke,Brendan McGlinchey's Reel (Splendid Isolation) / Sweeney's Buttermilk (medley),0,0.0,149.39383,0.0,9,-17.604,,214.424,3
+Sean Quinn,Skyline,0,0.0,217.52118,0.0,2,-11.743,,111.442,4
+Nicola Fasano feat. Paula B.,Missing,0,0.0,218.27873,0.0,9,-9.462,,126.282,4
+Oscar Pettiford,Judy's Jaunt,0,0.0,151.92771,0.0,7,-14.36,0.0,144.49,4
+Fuel,The Name Is...,1995,0.0,159.42485,0.0,7,-7.128,,190.631,4
+Marc Lavoine,C'est La Vie,1989,0.0,224.39138,0.0,3,-10.322,0.5135170285371385,122.503,4
+Frederick Knight,I've Been Lonely (For So Long),2000,0.0,198.81751,0.0,7,-8.482,0.6362872244273321,96.534,1
+Radiohead,Stop Whispering (US Version),1993,0.0,250.8273,0.0,2,-14.748,0.6070366907455167,122.428,4
+Phantom Planet,Leader (Album Version),2008,0.0,169.84771,0.0,4,-4.373,0.0,179.51,4
+Mario Rosenstock,The Best Of Radio Roy 1 (Best of 2009),0,0.0,195.70893,0.0,1,-9.279,,81.65,5
+Russ Morgan,I Heard You Cry,0,0.0,145.76281,0.0,2,-19.61,,142.657,4
+Aerosmith,On The Road Again,0,0.0,217.23383,0.0,11,-11.719,0.4432913119053975,148.358,1
+Hoods,Another Lesson (Album Version),0,0.0,143.5424,0.0,6,-6.351,0.4454545254934259,118.947,1
+Grand Funk,Please Me (24-Bit Digitally Remastered 02),0,0.0,217.73016,0.0,2,-5.791,0.0,114.934,4
+Carl Doy,Wave,0,0.0,233.58649,0.0,9,-17.08,0.0,147.51,1
+Mothers Pride,Your Bad Heart,0,0.0,187.92444,0.0,9,-6.318,,89.881,4
+Geier Sturzflug,Und die Zeit vergeht,0,0.0,231.96689,0.0,7,-6.051,,160.24,4
+Workhorse,Serus,2007,0.0,349.6224,0.0,0,-6.581,0.0,122.858,1
+Knack,Everything I Do,0,0.0,230.71302,0.0,2,-6.467,,150.08,4
+Deep Puddle Dynamics,June 26th_ 1999 - Slight,1999,0.0,353.07057,0.0,1,-5.756,0.4584828122437755,177.876,4
+Zebra,Take Your Fingers From My Hair  (LP Version),1983,0.0,441.52118,0.0,2,-10.155,0.313941330683188,138.831,4
+Naseebo Lal,Dang Pyar Da ,0,0.0,247.562,0.0,9,-13.749,,87.03,3
+The Irish Rovers,Green Grows the Laurel,0,0.0,240.32608,0.0,7,-11.518,0.4857227160468989,165.53,3
+A Tundra,The Doug McComb Over,2010,0.0,271.3073,0.0,2,-9.698,0.26695518627553855,177.958,3
+Juana Molina,Micael,2006,0.0,183.64036,0.0,7,-12.055,0.6524366550596181,123.278,3
+Hank Penny & Sue Thompson,Walkin' In The Snow,0,0.0,119.58812,0.0,3,-14.441,,140.151,3
+Jeff And Sheri Easter,Praise His Name (Low Key-Studio Track w/o Background Vocals),0,0.0,279.84934,0.0,1,-13.04,,122.023,4
+JennyAnyKind,Didn't You Notice,0,0.0,251.01016,0.0,7,-5.536,,117.416,4
+Winds Of Plague,Soldiers Of Doomsday ,2009,0.0,246.04689,0.0,2,-3.263,0.6272025955607587,140.238,7
+Al Duvall,Dark Inside,0,0.0,167.28771,0.0,6,-12.287,0.0,118.029,4
+Johnny Osbourne,Folly Ranking,2007,0.0,202.03057,0.0,0,-13.637,,136.72,1
+Britt Nicole,Good Day,2007,0.0,203.78077,0.0,1,-3.092,0.5216592580484611,132.021,4
+Tyrone Taylor,Midnight Hour,0,0.0,224.65261,0.0,10,-9.58,,81.936,3
+Poncho Sanchez,Co Co My My,2002,0.0,307.09506,0.0,5,-12.995,,211.806,4
+Dead Kennedys,The Man with the Dogs,1979,0.0,182.04689,0.0,5,-4.058,0.7988956524829298,223.62,1
+Modern Lovers,She cracked,1976,0.0,260.62322,0.0,7,-12.502,0.8000789858441315,142.857,4
+Paul Taylor,Apogee (ft. TechTonic),0,0.0,453.58975,0.0,11,-7.49,0.0,144.005,4
+Los Auténticos Decadentes,Que Vas A Hacer Conmigo,2004,0.0,205.37424,0.0,0,-5.634,0.48456252996792964,133.821,4
+Atreyu,The Remembrance Ballad (Album Version),2004,0.0,267.17995,0.0,0,-4.6,,151.64,4
+Luiz Bonfa,Santeleco,2005,0.0,141.40036,0.0,2,-15.263,0.3231121208952123,194.099,4
+Shelly Manne,Get Me To The Church On Time,1996,0.0,255.39873,0.0,7,-18.623,,121.871,3
+Washboard Sam,Washboard Swing,0,0.0,184.78975,0.0,0,-14.727,0.24906579485370342,95.666,4
+Amil,Anyday,2000,0.0,248.5024,0.0,0,-8.183,0.0,165.967,4
+Skeeter Davis,Am I That Easy To Forget,1995,0.0,125.77914,0.0,11,-12.945,0.4733465411087876,120.689,3
+DJ Godfather,Intro,1998,0.0,53.21098,0.0,1,-14.853,,97.075,7
+Thrice,The Earth Will Shake,2005,0.0,329.7171,0.0,9,-9.458,0.8382866746695105,126.947,7
+Fehlfarben,Magnificent Obsession,1983,0.0,291.13424,0.0,2,-8.978,0.439202489315343,122.754,4
+The Real Kids,Some Love Like Yours,0,0.0,256.15628,0.0,4,-8.549,,124.616,4
+Andres Calamaro,Un vestido y un amor (en vivo),0,0.0,271.59465,0.0,4,-10.747,0.3277366831778408,76.908,7
+Hey Colossus,The Book of Disquiet,2007,0.0,420.07465,0.0,9,-10.017,,84.518,4
+The London Pops Orchestra,Moon River,0,0.0,162.0371,0.0,5,-22.102,,92.26,5
+Goatwhore,Gravedom,2000,0.0,205.63546,0.0,1,-8.644,0.41967427880955327,113.557,4
+Snow Patrol,Just Say Yes,2009,0.0,284.1073,0.0,9,-5.519,0.9459946798220403,107.998,4
+Inspiral Carpets,Commercial Reign,1990,0.0,283.32363,0.0,2,-4.422,0.56142851762879,113.608,4
+Eric Burdon,Ghetto Child,1997,0.0,318.37995,0.0,2,-11.164,,86.833,3
+Kruger,Peyte Pivo Pennoe (present for A. Trofimov),0,0.0,181.15873,0.0,8,-6.305,0.0,154.637,4
+Albert Préjean,Dede De Montmartre,0,0.0,169.482,0.0,3,-20.754,,210.636,3
+Lonestar,Amie,1997,0.0,245.7073,0.0,9,-7.786,0.30416950343527516,92.025,3
+Erick Sermon,Freak Out,0,0.0,187.42812,0.0,6,-8.821,0.5946794489150473,88.878,4
+Freddie McGregor,Cover For Me,0,0.0,249.18159,0.0,4,-7.423,,92.972,4
+Amber Nicholson,Tonight It's Just Me,0,0.0,252.55138,0.0,8,-8.669,0.27074649435019904,95.061,4
+Circle Jerks,Paid Vacation,1980,0.0,88.89424,0.0,1,-7.545,0.7795271682900937,156.605,1
+Arctic Monkeys,Dancing Shoes,2004,0.0,141.13914,0.0,1,-4.526,,144.955,4
+Sierra Maestra,No Me Llores Más,1994,0.0,318.56281,0.0,2,-10.11,0.0,117.766,1
+James Newton Howard,Photographs,1999,0.0,54.96118,0.0,2,-37.456,0.4330050772745855,189.037,3
+Kofi,Don't Let Go,0,0.0,231.33995,0.0,0,-10.258,0.24047374606428715,59.957,1
+Gene Simmons,Bad Boy Willie,0,0.0,112.06485,0.0,0,-11.603,,140.148,4
+Tex Williams,Just A Pair Of Blue Eyes,0,0.0,147.82649,0.0,0,-15.965,,168.879,4
+SANSHIRO,Morgane regarde le ciel,0,0.0,272.95302,0.0,5,-10.267,,147.395,4
+Death SS,The Healer,2006,0.0,258.29832,0.0,3,-7.009,0.26695518627553855,102.126,4
+Bessie Smith,Gin House Blues,2007,0.0,195.70893,0.0,11,-21.782,,75.316,1
+Lou Reed,Intro,0,0.0,111.15057,0.0,7,-23.367,0.46054128135865785,65.896,4
+Daniel Chan,Duo Liu Yi Hui,0,0.0,222.14485,0.0,5,-9.162,,161.986,4
+Jerry Lewis,Borgia Liquor,0,0.0,132.98893,0.0,4,-17.399,,122.786,1
+Alain-François,En silence,0,0.0,213.99465,0.0,5,-6.523,,160.046,3
+Los Rumberos Catalanes,Yo Te Camelo,0,0.0,140.19873,0.0,8,-15.933,,66.064,4
+Cam'Ron,Do Ya Thing (Remix) (Explicit Album Version),2006,0.0,174.88934,0.0,2,-5.797,,101.883,4
+Randy Travis,I Am Going (Album Version),0,0.0,228.75383,0.0,11,-11.366,,99.141,4
+Michelle & Vickie,Ai De Ka Luo Li,0,0.0,194.21995,0.0,4,-4.991,,120.014,3
+Arco Iris,Canción del Arco Iris,0,0.0,199.96689,0.0,11,-9.132,,105.157,4
+Paulo Flores,Belina,0,0.0,282.85342,0.0,4,-13.615,0.24906579485370342,101.767,3
+Philly's Most Wanted,Y'all Can't Never Hurt Us (Clean Version),2001,0.0,242.25914,0.0,11,-6.355,,96.037,4
+Phantomsmasher,Bishop Hopping,2002,0.0,382.14485,0.0,3,-6.291,0.4287022625232594,88.05,3
+George Lopez,Kids Now,2006,0.0,215.7971,0.0,6,-14.401,,113.131,3
+Bas-Sheva,Lust (1995 Digital Remaster),0,0.0,178.65098,0.0,10,-16.858,0.5503263361932494,111.504,4
+Hélio Ziskind,Galopar,0,0.0,140.32934,0.0,0,-13.075,,93.753,4
+Mikey Dread,The Jumping Master,1981,0.0,309.83791,0.0,1,-7.325,0.5361150919759297,144.144,4
+Big Star,Morpha Too [Alternate Mix],0,0.0,88.00608,0.0,0,-13.717,0.5225561390012063,58.393,1
+30 Seconds To Mars,Night of the Hunter (Static Revenger Remix),2009,0.0,297.53424,0.0,6,-5.157,0.5072692514802313,122.924,4
+Grandpa Jones,Falling Leaves,1995,0.0,158.71955,0.0,9,-11.145,0.3786863888453627,65.93,1
+Cross Country,Tastes So Good To Me,2009,0.0,189.962,0.0,3,-8.165,0.0,185.623,4
+Jack Miles,Nuits Orientales,0,0.0,174.34077,0.0,7,-6.309,0.20228308212741833,120.005,4
+The Marx Brothers,Everyone says i love you,0,0.0,179.12118,0.0,7,-24.838,,172.809,3
+Bug Mafia,Poezie De Strada / Street Poetry,0,0.0,279.77098,0.0,1,-5.121,0.0,186.006,4
+Hatebreed,Boxed In (Subzero),2009,0.0,179.17342,0.0,0,-4.011,0.5537788460632537,136.021,4
+Converge,Dark Horse,2009,0.0,174.75873,0.0,1,-3.373,0.7489605697326203,156.924,4
+Philip Glass,The Kiss: Golden Coins,0,0.0,161.51465,0.0,8,-26.597,,120.003,3
+Drexel,Blood On The Snow,0,0.0,226.32444,0.0,4,-9.053,0.0,137.333,1
+Mons Leidvin Takle,Gud Har Ein Plan Med Ditt Liv,0,0.0,208.32608,0.0,5,-9.823,0.0,83.057,4
+Cool Connection,I'm Your Boogie Man,0,0.0,274.31138,0.0,0,-10.66,,119.957,4
+Falco,Junge Römer,1991,0.0,271.09832,0.0,8,-5.928,,112.352,5
+Taylor Swift,Should've Said No,2006,0.0,245.78567,0.0,4,-4.954,,167.97,4
+Rainbow,Rainbow Eyes,1978,0.0,454.1122,0.0,5,-23.44,,135.206,4
+Nancy Walker,Boy! What Love Has to Me!,0,0.0,185.44281,0.0,10,-12.172,,47.682,4
+Misfits,Helena 2 (Album Version),0,0.0,201.82159,0.0,5,-6.444,0.6270558107474156,135.801,7
+Jane Winther,Om,0,0.0,345.0771,0.0,0,-21.779,,19.657,1
+Jyve V,Maria Morena,0,0.0,191.92118,0.0,10,-6.435,,132.082,4
+Shamen,Phorever People,1992,0.0,292.28363,0.0,1,-11.197,0.6888954610344974,125.749,4
+Eko Fresh,Hart(z) IV,0,0.0,238.13179,0.0,1,-1.714,0.4072330149011048,86.928,4
+Janis Joplin,Down On Me,1972,0.0,183.14404,0.0,7,-11.864,,137.368,1
+Wilks,Still feel pain,0,0.0,264.48934,0.0,2,-9.224,,90.007,4
+Enrique Iglesias,Do You Know? (The Ping Pong Song),2007,0.0,222.14485,0.0,8,-5.01,,114.983,4
+Kali,No. 284,0,0.0,601.99138,0.0,2,-11.335,0.0,128.999,4
+Neil Sedaka,Superbird,0,0.0,256.9922,0.0,4,-17.289,0.37598430150044215,159.184,1
+Joy Division,A Means To An End [Live at Birmingham University] [2007 Re-mastered],0,0.0,241.08363,0.0,5,-11.524,0.46630483075728635,133.331,4
+Ino,Silence tells you all,0,0.0,392.35873,0.0,0,-11.32,,124.997,5
+Jennifer Lopez,Play,2001,0.0,211.56526,0.0,6,-1.81,0.8047496937743612,104.796,4
+Cherish The Ladies,The Shaskeen / Gan Ainm,1999,0.0,134.81751,0.0,2,-16.831,,118.182,5
+Jerry Butler,Let It Be Me(with Betty Everrett),0,0.0,164.70159,0.0,9,-15.685,,71.171,4
+Eason Chan,Been Sick Lung,0,0.0,226.55955,0.0,0,-6.005,,119.977,4
+Nicole C. Mullen,Shooby (Live Version),0,0.0,237.16526,0.0,8,-5.643,,104.039,4
+Eden's Bridge,By My Spirit  (),0,0.0,337.13587,0.0,2,-16.311,0.0,79.13,5
+Eagles,I Don't Want To Hear Any More,2007,0.0,261.17179,0.0,5,-6.182,0.5676565867681245,92.186,4
+Edmundo Ros,Congo,0,0.0,168.88118,0.0,0,-15.05,,199.894,1
+Abbott & Chambers,Where Are You,0,0.0,434.15465,0.0,7,-6.581,,129.956,4
+Al DiMeola,July,1992,0.0,319.84281,0.0,1,-10.176,,206.101,4
+Twista & The Speedknot Mobstaz,Warm Embrace (LP Version),0,0.0,377.86077,0.0,8,-6.893,0.2445107017236493,121.957,4
+The Revolutionary Ensemble,911-544,0,0.0,1253.92934,0.0,2,-11.973,,74.183,4
+Leroy Van Dyke,If A Woman Answers,1962,0.0,124.52526,0.0,0,-18.57,0.0,163.942,1
+John Mayall & The Bluesbreakers,All Your Love,1966,0.0,214.69995,0.0,2,-8.441,,107.458,4
+Peggy Lee,If You Build A Better Mousetrap,0,0.0,185.0771,0.0,3,-11.824,0.4733465411087876,144.099,1
+Lightnin' Slim,My Babe,1997,0.0,177.68444,0.0,7,-16.554,,94.721,3
+Les Hurlements D'leo,10 $ Bill,0,0.0,334.13179,0.0,9,-7.75,,163.317,4
+Mykill Miers,Knuckle Up,0,0.0,252.94322,0.0,4,-7.699,0.0,106.221,3
+Bad Brains,At The Atlantis,1996,0.0,118.04689,0.0,11,-8.435,0.5763152923787652,135.415,4
+Dora The Explorer,ABC (The Alphabet Song),0,0.0,32.1824,0.0,7,-8.431,0.5187598979970994,107.201,4
+Randy Stonehill,Get Together - Album Version,0,0.0,229.90322,0.0,2,-11.724,0.0,121.437,4
+Los Iracundos,Candilejas,0,0.0,228.30975,0.0,10,-9.91,,102.534,4
+Shirley Caesar,It's In The Book (Album Version),0,0.0,232.09751,0.0,2,-11.922,,127.686,4
+Pursuit Of Happiness,No Safe Place,0,0.0,190.04036,0.0,4,-10.368,0.3347065490692206,127.987,4
+Bézu,Le rire du sergent,0,0.0,186.64444,0.0,11,-3.574,,122.968,4
+Mathey,Ballo,0,0.0,262.19057,0.0,2,-8.988,,108.024,4
+Elli Kokkinou,Sex (French Version),0,0.0,284.65587,0.0,6,-5.971,0.0,93.022,4
+Mark Lowry,All Mama Ever Wanted  (Album),0,0.0,553.27302,0.0,8,-15.37,0.0,122.166,3
+David Arkenstone,Over The Rainbow,0,0.0,241.99791,0.0,0,-15.757,0.0,81.952,4
+Johnny Pearson,Boss-Eyed Whelk,0,0.0,144.48281,0.0,0,-11.101,0.0,125.41,4
+Agnostic Front,United Blood (Album Version),0,0.0,98.2722,0.0,11,-5.197,0.579038701159863,130.869,4
+Pierre Perret,Le poulet,1994,0.0,90.46159,0.0,5,-11.372,0.0,135.487,4
+Pursuit Of Happiness,Killed By Love,1988,0.0,245.10649,0.0,2,-9.623,0.4454545254934259,131.04,4
+Ben Sidran,See You On The Other Side,0,0.0,278.7522,0.0,7,-9.399,0.0,160.976,4
+Soilent Green,Daydreaming the Color of Blood,2001,0.0,180.32281,0.0,2,-5.958,0.4477840511958349,100.917,1
+Long Beach Dub Allstars,Kablammin' It,2001,0.0,282.61832,0.0,7,-3.834,,69.737,4
+New York Dolls,Don't Mess With Cupid (1972 demo),0,0.0,186.09587,0.0,10,-12.668,0.0,122.03,4
+Kelly Clarkson,Never Again,2007,0.0,368.92689,0.0,5,-7.562,,131.991,5
+3 Way Funk,Real Playaz,0,0.0,210.25914,0.0,7,-6.027,0.0,190.14,4
+Freddie Roulette,Everybody Wants To Go To Heaven,0,0.0,232.85506,0.0,2,-12.004,,103.064,1
+Noel Harrison,The Last Thing On My Mind (Previously Unissued),0,0.0,157.09995,0.0,11,-15.717,,176.761,4
+JennyAnyKind,In A Village Square,0,0.0,224.80934,0.0,6,-10.824,,169.991,4
+Redman,Jam 4 U,1992,0.0,185.83465,0.0,0,-7.184,0.6710405679094954,94.146,4
+Skeeter Davis,Ladder Of Success,0,0.0,128.67873,0.0,3,-8.46,0.5187598979970994,134.931,1
+Liquid Stranger,We Meet at Last,2007,0.0,551.54893,0.0,5,-11.582,0.38293509007501925,93.328,4
+Spok Frevo Orquestra,Passo De Anjo,2007,0.0,269.73995,0.0,2,-6.719,,71.156,4
+Percy Faith And His Orchestra,The Song From Moulin Rouge,1953,0.0,220.15955,0.0,7,-14.837,,55.233,4
+Bob Newhart,Herb Philbrick - Counter Spy ( LP Version ),1961,0.0,72.33261,0.0,10,-12.043,,133.721,3
+Boney James And Rick Braun,Shake It Up (Album Version),2000,0.0,243.48689,0.0,9,-5.58,0.0,96.136,3
+Beastie Boys,Shadrach,1989,0.0,247.7971,0.0,9,-15.059,,100.788,4
+Academy/Marriner,Andante Cantabile (String Quartet No 1 In D Major,0,0.0,377.10322,0.0,10,-29.793,,118.712,3
+Teena Marie,Help Youngblood Get To the Freaky Party,1984,0.0,345.67791,0.0,6,-12.23,0.26695518627553855,99.978,3
+Daouda,Mon coeur balance,0,0.0,208.37832,0.0,2,-10.466,,104.72,4
+Marc Shaiman,We're New Yorkers Now!,1999,0.0,154.122,0.0,2,-17.548,,131.615,4
+John Berry,Let's Fall In Love This Christmas,0,0.0,239.20281,0.0,7,-8.139,0.2554967787540802,126.533,4
+Ace Da Vinci,D Solo,0,0.0,269.68771,0.0,11,-9.255,0.0,211.059,4
+Andrae Crouch,Ive Got Confidence,0,0.0,174.602,0.0,7,-4.101,,164.647,1
+BT,Mercury & Solace,2000,0.0,506.27873,0.0,6,-11.59,0.4348380902608562,136.003,4
+Skeeter Davis,My Last Date (With You),1988,0.0,153.49506,0.0,0,-10.487,0.5428987432910862,98.663,3
+The Bug Featuring Ricky Ranking,Judgement,2008,0.0,309.28934,0.0,8,-9.376,0.5531667535007925,143.812,4
+All Girl Summer Fun Band,Rewind,2008,0.0,138.97098,0.0,2,-14.927,0.4471357962861778,76.455,4
+Madonna,Jump [Jacques Lu Cont Edit],2006,0.0,320.1824,0.0,7,-7.288,0.46054128135865785,130.003,4
+Sugar Minott,More Than I Can Take,0,0.0,223.21587,0.0,7,-12.914,,159.715,4
+Silverstein,BLEEDS NO MORE (Live Version),2006,0.0,256.46975,0.0,7,-3.573,0.3603705827121406,132.962,4
+The Elders,Buzz's Jig,0,0.0,282.43546,0.0,7,-8.2,0.5317220984213001,129.903,1
+Louisa Mark,Keep It Like It Is,2003,0.0,156.52526,0.0,5,-14.29,0.46627088999174937,128.304,1
+Pumpkin Buzzard,Death Adventure,0,0.0,122.40934,0.0,6,-5.94,,119.984,3
+Gonzalo Rubalcaba,Infantil (Dedicated to John McLaughlin),2008,0.0,424.51546,0.0,9,-12.205,0.4454545254934259,187.406,4
+Cookie Crew,"Got To Keep On (12"" Version)",1989,0.0,282.33098,0.0,8,-10.713,0.0,85.962,5
+Evergreen Terrace,Please Hammer Don't Hurt 'Em,2002,0.0,143.882,0.0,7,-5.983,0.7092378856009028,166.03,4
+Michael Salgado,Surfriendo El Castigo,0,0.0,221.64853,0.0,7,-6.693,,206.637,4
+Brainchoke,1st World Hypocrisy,0,0.0,91.01016,0.0,6,-2.874,,127.171,4
+Tania Maria,Come With Me,1983,0.0,325.66812,0.0,11,-12.861,,176.18,4
+Placebo,The Never-Ending Why,2009,0.0,221.6224,0.0,7,-5.176,,118.956,4
+Alice Stuart,Woman Blue,0,0.0,305.73669,0.0,0,-12.28,0.0,83.456,3
+León Gieco,Ruta Del Coya,2002,0.0,266.762,0.0,2,-10.423,0.26695518627553855,120.023,3
+Moving Ninja,Lost Tribe,2005,0.0,287.00689,0.0,6,-8.717,0.26695518627553855,90.167,3
+2raumwohnung,Lachen und weinen,2001,0.0,335.17669,0.0,11,-9.322,0.6675061388345216,111.016,4
+Sex Pistols,Pretty Vacant,1977,0.0,194.58567,0.0,2,-6.758,0.7981136570635993,144.573,4
+Twista,It Feels So Good (Album Version),1997,0.0,368.03873,0.0,1,-6.828,0.46054128135865785,120.389,4
+KT Tunstall,Boo Hoo,2005,0.0,295.07873,0.0,7,-7.272,0.6079086329842557,137.806,1
+Hound Dog Taylor and The Houserockers,Rock Me Baby - Live,0,0.0,335.28118,0.0,4,-12.02,,95.48,1
+Tony Mathews,(Coming With) Loving on My Mind,0,0.0,281.80853,0.0,1,-17.154,0.23148849455515036,70.26,4
+La Billo_ Los Melódicos,Para Que Recordar,0,0.0,195.29098,0.0,2,-9.085,,163.566,3
+Screaming Lord Sutch,Son of Jack the Ripper,0,0.0,231.44444,0.0,9,-8.02,0.0,130.76,4
+Sylvia Tosun,Head Over Heels,2004,0.0,575.79057,0.0,8,-6.319,,127.968,4
+Kings Of Leon,Day Old Blues,2004,0.0,212.97587,0.0,4,-10.831,0.7247888139301647,85.855,4
+Pinch,Joyride,0,0.0,315.84608,0.0,6,-9.847,0.4408264404988793,139.994,7
+Dave Weckl,Just An Illusion,1994,0.0,311.01342,0.0,0,-11.638,0.40003965695463956,93.502,4
+Atreyu,Ex's And Oh's (Instrumental Version),0,0.0,214.07302,0.0,4,-4.964,0.0,160.153,4
+Grant Geissman,Chaco (Album Version),1993,0.0,307.40853,0.0,0,-11.143,0.0,192.301,3
+Ed Ames,Our Love Is A Living Thing,0,0.0,132.93669,0.0,2,-12.399,,127.408,3
+Uphill Battle,Memory,2002,0.0,210.36363,0.0,8,-6.472,,137.911,5
+Foo Fighters,Next Year,1999,0.0,274.65098,0.0,7,-4.203,0.8043189455143651,173.983,4
+Loretta Lynn,Away in a Manger,0,0.0,197.58975,0.0,4,-10.694,,83.976,3
+Jacky Cheung,Zai Ai Shang Ni,0,0.0,267.44118,0.0,8,-12.299,,148.073,4
+DeGarmo & Key,Don't Stop The Music (Streetlight Album Version),0,0.0,220.02893,0.0,7,-11.462,,161.846,4
+Usher,I Need Love,1999,0.0,32.41751,0.0,5,-14.434,,118.237,1
+Moraes Moreira,Boca Do Balao / Preta Pretinha / Juazeiro,0,0.0,185.44281,0.0,9,-7.498,,145.047,4
+The Real Kids,Happens All The Time,0,0.0,192.15628,0.0,0,-7.046,,175.626,4
+Rance Allen Group,The Painter,2006,0.0,201.27302,0.0,0,-11.202,0.0,100.332,4
+Patrick Bruel,L'Appart,1991,0.0,263.94077,0.0,9,-17.855,,140.696,4
+Gran Coquivacoa,Frente A Tu Altar,0,0.0,185.0771,0.0,6,-8.914,,81.255,4
+Grayson Capps,Give It To Me,2006,0.0,124.18567,0.0,2,-7.109,0.49770580953734467,101.076,4
+Tracy Byrd,Take Me Fishin',0,0.0,190.27546,0.0,9,-11.036,,137.528,4
+Café Quijano,Poesía De Amor,1998,0.0,262.37342,0.0,11,-9.37,0.4051157216913865,102.677,4
+Brian Free & Assurance,The Coming Of The King,0,0.0,207.04608,0.0,11,-5.296,0.2667313241101505,108.565,4
+Nirvana,Nevermind_ It's An Interview,0,0.0,1061.79873,0.0,4,-19.304,,131.056,4
+The Misfits,She (1997 Digital Remaster),1996,0.0,82.1024,0.0,2,-8.294,,185.615,1
+Sex Pistols,Seventeen,1977,0.0,129.93261,0.0,8,-6.458,0.7048527132188785,129.722,1
+Carl Smith,If You Don't Somebody Else Will,0,0.0,107.62404,0.0,4,-13.51,0.0,109.449,4
+"Clarence ""Gatemouth"" Brown",Up Jumped The Devil,0,0.0,325.19791,0.0,2,-8.338,0.42744657148843085,136.38,1
+Mighty Diamonds,Free Africa,0,0.0,256.7571,0.0,10,-9.188,0.26586104921065007,85.043,4
+James Carter,Dodo's Bounce,2008,0.0,366.0273,0.0,8,-18.826,0.47212111953959446,140.666,4
+The London Theatre Orchestra,Babylon 5,0,0.0,78.94159,0.0,5,-9.276,0.25967810700914495,107.662,3
+Atari Teenage Riot,Revolution Action,1999,0.0,249.46893,0.0,2,-5.547,0.21508031850922793,100.341,4
+DJ Isaac,The Hardway,0,0.0,274.18077,0.0,10,-6.282,,172.133,1
+X-tv,Skate alone,0,0.0,279.14404,0.0,7,-11.49,,146.037,4
+Scott Weiland,The Date ( LP Version ),1998,0.0,321.01832,0.0,5,-5.328,0.49271363957256076,112.68,4
+Beto y sus Canarios,Noche Eterna,0,0.0,197.72036,0.0,10,-8.184,0.6128610945061752,120.546,1
+Kris Kristofferson,Killer Barracuda,1995,0.0,183.06567,0.0,7,-17.312,0.21508031850922793,138.094,4
+Bravehearts,Sensations,2003,0.0,209.03138,0.0,6,-10.212,,199.07,7
+Primordial,The Burning Season (Live),1998,0.0,508.3424,0.0,3,-10.141,0.21508031850922793,118.196,4
+Jason Mraz,Did You Get My Message?  (Live From Shubas),2007,0.0,336.43057,0.0,6,-10.26,0.4479154431459249,104.296,4
+Robin Fox,It's Gonna Be Okay (Original Mix),0,0.0,398.52363,0.0,8,-8.701,,135.993,4
+Deborahe Glasgow,Give Me That Touch (The Touch Up Mix),0,0.0,390.32118,0.0,4,-11.695,0.22689469123221734,166.579,4
+2 Minutos,Como Caramelo De Limón,1994,0.0,129.48853,0.0,1,-11.504,,146.275,1
+Jope Ruonansuu,Työnnä kännykkä hanuriin,2002,0.0,175.41179,0.0,9,-5.136,,134.109,4
+Jimmy Cliff,Let's Seize The Time,1973,0.0,301.71383,0.0,0,-7.449,0.26586104921065007,122.773,1
+Bill Laswell,Digitaria,1996,0.0,381.30893,0.0,2,-9.232,0.3867901771390143,172.955,4
+Snowgoons,Real World,2007,0.0,212.32281,0.0,9,-4.751,0.5480056205197228,85.138,4
+Sammi Cheng,Liu Zi Zhen Yan,0,0.0,248.2673,0.0,2,-6.412,,103.982,4
+The Statler Brothers,White Christmas,1994,0.0,140.69506,0.0,0,-12.361,,99.66,5
+Vex'd,Canyon,2005,0.0,365.03465,0.0,11,-7.566,0.5836782956078961,149.96,4
+The Kings,Who Do You Love,0,0.0,191.21587,0.0,4,-15.59,,100.65,3
+Daler Mehndi,Teri Nau Ke Paune Teen,2000,0.0,245.49832,0.0,0,-4.462,0.0,146.856,4
+Mannheim Steamroller,Battle Hymn Of The Republic,0,0.0,285.6224,0.0,0,-9.635,,130.052,4
+Hatebreed,Supertouch/shitfit (Bad Brains),2009,0.0,141.50485,0.0,0,-4.571,0.5751035013329954,175.363,1
+Lil' Romeo,Don't Want To,0,0.0,211.82649,0.0,11,-7.076,,95.991,4
+Noel Harrison,Sparrow (Remastered Album Version),0,0.0,166.73914,0.0,10,-12.876,0.0,146.688,4
+Shunza,Dear Friend,0,0.0,278.38649,0.0,6,-8.737,,141.733,4
+Ray Charles,Heartbreaker,0,0.0,170.00444,0.0,1,-8.733,,154.332,4
+Annie Blanchard,Sur L'autre rive,2007,0.0,260.80608,0.0,0,-11.841,0.2244905180055423,101.868,3
+Seal,The Beginning (Giro E Giro Mix),1991,0.0,368.06485,0.0,6,-12.1,,123.795,4
+La Bergère,(Et puis) Elle allait,0,0.0,243.80036,0.0,7,-11.451,,123.437,1
+CoCo Lee,Each Time I Think Of You,0,0.0,264.01914,0.0,5,-8.414,,146.284,4
+The Chap,What's Love Got to Do With It,2008,0.0,216.2673,0.0,4,-7.507,0.39200877147130697,181.863,4
+Naughty By Nature,Guard Your Grill (LP Version),0,0.0,279.90159,0.0,6,-7.805,,93.925,4
+Jason Mraz,No Stopping Us [Eagles Ballroom Live Version],0,0.0,369.94567,0.0,1,-4.196,0.7001520951218247,119.234,4
+Janet Paschal,Take This Trail Trip Beside Me (The Best Of Janet Paschal),0,0.0,213.78567,0.0,4,-9.793,0.2642229797786855,146.807,3
+Vanessa Daou,Joe Sent Me,0,0.0,225.59302,0.0,10,-11.642,0.0,86.743,1
+Memphis La Blusera,Amigo mío,2001,0.0,221.64853,0.0,7,-6.246,0.21204540548371908,132.023,4
+Venice,All My Life (LP Version),1990,0.0,301.08689,0.0,0,-8.38,0.0,104.556,4
+Frank Chacksfield,Beginner's Luck,0,0.0,108.61669,0.0,8,-19.634,,84.789,1
+Séamus Egan,Poultry in the Parlour / Rolling the Ryegrass,0,0.0,198.84363,0.0,9,-13.152,,201.512,1
+Photek,Terminus,2000,0.0,326.922,0.0,9,-7.272,0.6014710267758299,104.98,4
+Cotton Candy,The Windsor Tap Recap,0,0.0,149.9424,0.0,9,-11.052,,106.836,1
+KRS-One,The Devils Crown,0,0.0,256.57424,0.0,1,-7.618,,146.06,4
+The Doors,Rock Me (Live In Boston_ 1970) (1st Show),0,0.0,434.15465,0.0,2,-12.869,,86.051,3
+Agnostic Front,Rock Star,1999,0.0,94.6673,0.0,9,-3.199,0.6622511543018803,116.438,1
+The Last Days Of Jesus,Life In Line,2004,0.0,209.55383,0.0,8,-6.248,0.40148671142756037,125.126,4
+Dyango,De Mi Enamorate,0,0.0,246.09914,0.0,2,-9.088,0.0,99.003,4
+Ty Herndon,A Man Holdin' On (To A Woman Lettin' Go),1998,0.0,217.15546,0.0,2,-8.809,0.6961832265744288,128.087,4
+The Knife,The Captain,0,0.0,368.79628,0.0,4,-11.194,,105.02,4
+Chris Jagger,Still Waters,0,0.0,248.92036,0.0,7,-17.955,,99.547,4
+Jimmy Witherspoon,Better Love Next Time Part 2,0,0.0,149.73342,0.0,0,-11.542,,45.582,4
+R. Carlos Nakai,Tibetan Turquoise (World),0,0.0,296.51546,0.0,1,-20.698,0.0,107.963,1
+A-FS,Get it Right,0,0.0,205.94893,0.0,11,-10.15,,98.254,4
+Kieran,Best Friends,0,0.0,219.84608,0.0,8,-5.155,,87.572,5
+Gabriel Yared,Ship in a Painting,2007,0.0,100.0224,0.0,4,-15.417,0.21204540548371908,137.149,3
+Curtis Mayfield,Superfly (Single Mix Version),0,0.0,188.21179,0.0,4,-6.724,0.541551997892655,119.811,4
+REX ALLEN JR.,Don't Say Goodbye (Album Version),0,0.0,165.04118,0.0,7,-11.647,0.21204540548371908,80.242,4
+Jimmy McGriff,Cumayon,0,0.0,210.33751,0.0,8,-8.901,0.26586104921065007,95.87,4
+Céline Dion,"Because You Loved Me (Theme from ""Up Close and Personal"")",1996,0.0,274.57261,0.0,1,-7.722,,120.047,4
+Danny Davis & The Boys,The Golden Sea,0,0.0,169.19465,0.0,2,-10.977,,132.674,4
+Sugar Ray,Mean Machine (Remastered LP Version),2005,0.0,161.82812,0.0,11,-4.068,0.563246899280654,92.299,4
+The Jeff Healey Band,My Little Girl,1988,0.0,223.92118,0.0,9,-7.457,0.6781611089416552,126.16,4
+Dakis,Tha Mino Pia Sto Parelthon (2005 Digital Remaster),0,0.0,134.39955,0.0,7,-9.878,,164.947,4
+DJ Omega,Pop dat shit,0,0.0,217.05098,0.0,7,-14.363,,160.043,4
+Viki Mosholiou,Kimisou Palikari (TH' Allaxi To Feggari) (2004 Digital Remaster),0,0.0,274.80771,0.0,1,-10.688,,91.919,3
+Year Long Disaster,Show Me Your Teeth (Radio Edit),0,0.0,228.15302,0.0,0,-4.671,0.2565745157294869,113.978,4
+Joy Division,Digital [Live at Birmingham University] [2007 Re-mastered],0,0.0,218.56608,0.0,2,-12.941,0.4471357962861778,162.394,4
+The All-American Rejects,Bite Back,2005,0.0,279.71873,0.0,9,-5.071,0.5578803889070679,147.998,4
+Blind Willie Johnson,Jesus Is Coming Soon,1989,0.0,193.20118,0.0,7,-17.85,,139.866,1
+Vox Dei,A Nadie Le Interesa Si Quedás Atrás (Total Que...),1974,0.0,197.04118,0.0,9,-14.03,0.21508031850922793,154.475,1
+Anti-Flag,Tearing Everyone Down,1998,0.0,175.25506,0.0,6,-2.255,0.5997150152258715,110.134,1
+Tony Ashton & Friends,Roadrunner / My Generation,0,0.0,278.25587,0.0,6,-3.201,,125.523,4
+Dorothy Norwood,Near The Cross,0,0.0,287.03302,0.0,5,-9.006,0.3589765264395974,151.215,3
+Sinch,Plasma (Album Version),2002,0.0,300.72118,0.0,2,-7.397,0.6112146226111387,135.895,3
+MIMS,Cop It,2007,0.0,181.28934,0.0,11,-4.186,0.5297306072289015,105.393,4
+Rick Astley,You Move Me,1987,0.0,225.4624,0.0,8,-12.585,0.5319831933414861,128.171,4
+RUN-DMC,Can I Get A Witness,1993,0.0,216.65914,0.0,6,-12.274,0.4715782477005801,102.176,4
+Chimaira,Left For Dead (Album Version),2005,0.0,342.36036,0.0,7,-3.16,0.6120549539686252,93.513,4
+Sui Generis,Zapando Con La Gente,1975,0.0,269.84444,0.0,7,-12.685,0.21204540548371908,129.761,1
+The James Taylor Quartet,The Obsession,2003,0.0,283.37587,0.0,4,-5.415,0.41313322902175287,204.791,7
+Pedro Luis e a Parede,In The Rain,1997,0.0,151.92771,0.0,7,-15.508,,92.065,1
+Cindy Morgan,Need (LP Version),0,0.0,210.70322,0.0,9,-12.22,0.4116700907181356,111.379,4
+Joe Grushecky,A Good Life,0,0.0,231.57506,0.0,7,-8.071,0.319565986882865,139.066,4
+The Clancy Brothers;Tommy Makem,In This Windy Old Weather,0,0.0,186.53995,0.0,3,-15.732,,82.653,3
+Big Star,Till The End Of The Day (Alternate Mix),2009,0.0,133.45914,0.0,2,-6.097,0.6994743254368799,144.717,4
+Double Image,Three Romances_ Op. 22: III,0,0.0,262.922,0.0,7,-24.012,,88.183,5
+Gorki,Morse,0,0.0,209.31873,0.0,4,-8.596,0.37598430150044215,150.117,4
+Kitty Wells,Makin' Believe,1990,0.0,165.61587,0.0,9,-10.323,,117.815,4
+The Mars Volta,Eriatarka,2003,0.0,380.42077,0.0,6,-3.183,0.9060777414827839,158.34,3
+Isabel Pantoja,Adelante,2002,0.0,181.65506,0.0,0,-7.618,,95.673,4
+The Highwaymen,Shaggy Dog Songs,0,0.0,150.85669,0.0,7,-20.845,0.0,181.968,5
+Lynn August,Trust In The Lord,0,0.0,262.5824,0.0,2,-12.125,,115.848,4
+Snow Patrol,Just Say Yes,2009,0.0,255.60771,0.0,9,-4.815,,89.347,1
+FFH,Why Do I,2000,0.0,277.62893,0.0,0,-7.721,0.4454545254934259,163.96,4
+Beastie Boys,Get It Together,1994,0.0,245.7073,0.0,11,-8.127,,101.044,4
+Sandy Lam,San Geng Ye Ban,0,0.0,248.97261,0.0,2,-6.918,,125.251,4
+POLINA,Tora,0,0.0,203.49342,0.0,2,-9.05,,129.915,4
+Karlheinz Stockhausen,02'-15',0,0.0,277.18485,0.0,9,-31.109,,95.13,3
+Beatnuts,No Escapin' This,0,0.0,257.54077,0.0,9,-6.803,,92.115,4
+Sugar Minott,Make It With You,2007,0.0,207.90812,0.0,0,-12.692,,148.382,1
+Billie Jo Spears,Permanently Lonely,0,0.0,180.61016,0.0,6,-14.72,0.0,105.445,4
+Philip Glass,Left Alone...,2007,0.0,93.33506,0.0,9,-33.662,,69.979,1
+Prince,Baby (LP Version),1978,0.0,190.06649,0.0,9,-17.1,,138.165,4
+Sierra Maestra,Abandonada / Blancas azucenas,1992,0.0,295.99302,0.0,2,-13.822,0.0,141.121,1
+Nicola Fasano,Been a Long Time (feat. Paula B) [Club Radio],0,0.0,215.77098,0.0,1,-7.773,,130.04,4
+The Perrys,I'm Living In Canaan Now,0,0.0,125.962,0.0,9,-7.097,0.0,111.959,4
+Public Image Ltd,The Suit,1979,0.0,209.3971,0.0,8,-23.949,0.7034022195100851,124.494,4
+Jennifer Clarke,It's Alright,0,0.0,213.21098,0.0,1,-13.45,,71.233,4
+The Gufs,Sunday Driver  (LP Version),0,0.0,232.41098,0.0,9,-6.138,0.2538347361322313,156.527,4
+brokeNCYDE,Schitzo,2008,0.0,262.89587,0.0,4,-4.656,,113.361,5
+Richie McDonald,If Every Day Could Be Christmas,2009,0.0,290.69016,0.0,5,-4.385,,99.784,3
+Alexandre Desplat,Le Chagrin de Coco,2009,0.0,177.42322,0.0,5,-21.011,0.4782769949300473,170.024,4
+Barenaked Ladies,This Is Where It Ends (Album Version),1996,0.0,173.19138,0.0,7,-11.835,,120.969,4
+Nightswimmer,A Brief Moment In The Sun,0,0.0,281.80853,0.0,0,-10.803,0.0,119.826,4
+Mink DeVille,Heaven Stood Still,1980,0.0,173.92281,0.0,7,-20.055,0.5033812362063191,41.945,4
+Ms. Dynamite,All I Ever,2002,0.0,269.81832,0.0,9,-11.136,,150.567,4
+99 Posse,Rafaniello,1992,0.0,351.34649,0.0,7,-12.492,,101.849,4
+Sugar Minott,Devil Pickney,0,0.0,284.73424,0.0,10,-5.807,,161.353,4
+Rocio Jurado,Noe Cuando El Diluvio (Sevillanas Biblicas),0,0.0,217.67791,0.0,2,-8.123,0.0,87.533,5
+Ms. Dynamite / Bounty Killer,Put Him Out,2002,0.0,241.37098,0.0,8,-4.999,,105.201,4
+Jazz Gillum,You're Laughing Now,1997,0.0,165.85098,0.0,9,-16.855,,107.669,1
+Babbie Mason,Who In the World (Album Version),0,0.0,210.59873,0.0,5,-12.647,0.0,199.762,1
+Pierre Boulez,"Pli Selon Pli (""fold according to fold"")/IV.  Improvisation sur Mallarmé III",0,0.0,956.60363,0.0,0,-18.628,,47.794,1
+Assassin,Quarter P.O.D.,0,0.0,155.16689,0.0,10,-6.703,0.0,174.005,4
+Britt Nicole,Set The World On Fire,2007,0.0,220.36853,0.0,4,-4.58,0.6833732483660871,120.008,4
+Richard Souther,Red River Falling /O rubor sanguinis,0,0.0,283.27138,0.0,10,-16.481,0.0,107.005,5
+Doug Sahm,Sometimes (LP Version),0,0.0,159.42485,0.0,5,-13.873,0.0,104.618,3
+Steve Vai,Fire,2001,0.0,363.36281,0.0,2,-7.856,0.47212111953959446,163.692,4
+Max Stalling,Girl by the Lake,0,0.0,167.65342,0.0,7,-8.999,0.2375544915400997,190.485,4
+Deepest Blue,Is It A Sin,2004,0.0,514.45506,0.0,6,-6.368,0.6331973791884784,130.013,1
+Cactus,Parchman Farm (LP Version),0,0.0,186.69669,0.0,7,-5.872,0.0,133.227,1
+Jan Wayne,Hello,2010,0.0,381.28281,0.0,6,-5.62,,127.968,4
+Bob Cheevers,Under The Bayou Moon,0,0.0,204.38159,0.0,7,-9.816,,116.729,4
+Chris Farlowe,What You Gonna Do - Original,0,0.0,181.36771,0.0,11,-9.917,,103.342,4
+James Taylor,Everyday,0,0.0,197.11955,0.0,4,-8.736,0.560091603263992,101.967,4
+Goatwhore,A Closure in Infinity,2003,0.0,224.86159,0.0,7,-5.559,0.46054128135865785,97.073,1
+Wesley Tuttle,With Tears In My Eyes,1992,0.0,175.22893,0.0,2,-15.019,0.26586104921065007,71.705,4
+Toni Braxton,He Wasn't Man Enough,2000,0.0,262.08608,0.0,11,-3.825,0.7963491564987717,175.959,4
+Jimmy Riley,Simple Communication,0,0.0,229.58975,0.0,11,-5.01,,157.137,4
+David Summers,2.000 Kilometros,1998,0.0,247.77098,0.0,7,-16.104,,111.063,4
+Dolly Parton,When Jesus Comes Calling For Me,1998,0.0,166.24281,0.0,1,-10.915,0.3016817567316363,139.981,3
+Smash Palace,It's All Because,0,0.0,276.81914,0.0,4,-5.135,,136.164,4
+Brice Kapel,Aloha,0,0.0,297.09016,0.0,7,-4.107,,128.229,4
+DJ Deeon,Dik N Ballz,0,0.0,260.30975,0.0,0,-13.286,,134.88,4
+J.J. Cale & Eric Clapton,Sporting Life Blues (Album Version),0,0.0,211.17342,0.0,5,-14.259,0.43675176268158095,113.151,3
+Jacky Cheung,Man Man,0,0.0,283.71546,0.0,6,-10.305,,99.144,1
+Van Halen,Panama (Album Version),0,0.0,212.63628,0.0,8,-5.338,,141.325,1
+The Nelons,Revival In The Land (Album),0,0.0,170.55302,0.0,9,-10.674,,164.828,4
+Lionel Richie,In My Dreams,2004,0.0,296.09751,0.0,4,-9.163,0.43965465970686407,84.821,4
+Arctic Monkeys,From The Ritz To The Rubble,2004,0.0,193.43628,0.0,9,-5.325,0.7718889141564897,184.023,3
+Fehlfarben,The Tarnished Angels (remastered),1991,0.0,330.65751,0.0,7,-8.351,,91.097,3
+The Rascals,I'm So Happy Now (Single Version),0,0.0,170.63138,0.0,9,-10.953,0.5297574502950253,124.335,1
+Workhorse,My Friend the Blind,2007,0.0,276.37506,0.0,7,-6.787,0.0,132.093,4
+Mighty Diamonds,I Say No,0,0.0,242.23302,0.0,9,-8.03,0.0,171.377,4
+Yiannis Tassios,Ti Patheno,0,0.0,208.1171,0.0,7,-7.399,,190.035,4
+Leonardo Favio,Sera Cuestion De Conversar,0,0.0,229.25016,0.0,11,-13.879,,102.392,3
+MICHAEL WHITE,Dirty Dancer  (LP Version),0,0.0,239.64689,0.0,3,-13.54,0.23906288705968087,124.237,4
+Jackie Edwards,Ali Ba Ba,0,0.0,178.46812,0.0,10,-14.635,,158.322,4
+Sophie Tucker,Down South,0,0.0,121.20771,0.0,10,-11.345,,95.514,4
+Raze,Always And Forever (Bff)  (Power Album Version),0,0.0,938.00444,0.0,5,-7.227,,102.606,5
+Quinteto Violado,A Burrinha,1999,0.0,136.77669,0.0,0,-12.863,,134.654,4
+Ricardo Lemvo,Yiri Yiri Bon,1997,0.0,292.12689,0.0,5,-8.491,0.46833383497402453,175.43,4
+Joe Bataan,Keep The Change,2005,0.0,199.3922,0.0,10,-8.648,0.5692756506754788,104.801,4
+Tito Puente,China,1972,0.0,295.05261,0.0,7,-12.469,0.349166902124596,88.384,4
+Spooky Tooth,Evil Woman,1969,0.0,545.74975,0.0,7,-9.465,0.7737388148604206,142.646,4
+Larytta,Just in time,0,0.0,278.12526,0.0,1,-13.017,,96.064,3
+Jane Winther,Kyrie Eleison,0,0.0,159.84281,0.0,11,-20.931,0.0,0.0,1
+Juana Molina,Isabel,2004,0.0,262.89587,0.0,3,-16.764,0.6193058811154868,108.504,4
+Kuba,We'll Learn,0,0.0,402.65098,0.0,5,-12.138,0.5604903763615894,168.004,4
+Reginaldo Bessa,O Smaba Que Eu Não Fiz,0,0.0,132.54485,0.0,3,-11.688,,91.684,4
+John Hammond,How Many More Years (LP Version),2002,0.0,196.362,0.0,7,-12.441,0.26174824190410645,105.36,4
+Brice Kapel,Lo,0,0.0,225.61914,0.0,11,-4.097,,79.468,1
+Rick Ross,Trouble in Mind,0,0.0,199.8624,0.0,7,-9.713,,75.634,4
+Bersuit Vergarabat,Bolivian Surf,1996,0.0,180.11383,0.0,7,-6.179,0.2707759989463275,126.531,4
+Patrick St-Eloi,Anvi Viv?,0,0.0,310.41261,0.0,2,-5.922,0.0,180.017,4
+Vangelis,Preparation,2004,0.0,101.8771,0.0,4,-19.662,0.6461512337882942,125.028,4
+Charles Williams,From the East,0,0.0,89.12934,0.0,6,-14.676,,102.739,4
+Mazz,Calla,0,0.0,221.1522,0.0,9,-10.381,,106.955,4
+Catupecu Machu,Abstracto,0,0.0,322.35057,0.0,3,-9.285,0.3562019159234967,130.008,4
+Grayson Capps,I See You,2005,0.0,242.18077,0.0,0,-13.012,,186.886,4
+Asure,Ugly MF,0,0.0,215.11791,0.0,7,-1.026,,99.886,4
+Cracker,Dr. Bernice,1992,0.0,380.86485,0.0,2,-19.164,0.5428987432910862,116.805,3
+Jorge Alfano,Cuycha,0,0.0,166.76526,0.0,9,-21.515,0.0,51.142,1
+Stefon Harris,And This Too Shall Pass,0,0.0,511.21587,0.0,1,-17.68,0.40860938443984274,134.83,4
+D.A.R.,Quiere Novio,0,0.0,220.73424,0.0,2,-7.216,,90.997,4
+White Heart,In His Name,0,0.0,260.46649,0.0,7,-14.275,,82.533,3
+Junior Parker,Love Ain't Nothing But a Business Goin On,0,0.0,202.55302,0.0,0,-16.238,0.3589765264395974,151.273,4
+Cheri Keaggy,The Cross That Bears His Name,1994,0.0,262.24281,0.0,7,-14.173,,97.977,7
+Cassidy,Take It,0,0.0,180.11383,0.0,7,-6.866,0.2707759989463275,114.959,4
+The Shamrock Singers,You Made Me The Thief Of Your Heart,0,0.0,393.76934,0.0,6,-14.383,,106.865,4
+Jessica Simpson featuring Lil Bow Wow,Irresistible,2001,0.0,215.66649,0.0,1,-6.288,,93.08,4
+The Mars Volta,Take The Veil Cerpin Taxt,2003,0.0,521.63873,0.0,9,-3.741,0.8247177707649386,174.792,5
+Uman,On Fait Ce Qu'on Peut,0,0.0,213.02812,0.0,0,-7.91,0.0,85.992,4
+Burning Spear,Tumble Down,1991,0.0,217.93914,0.0,8,-14.241,0.4072330149011048,101.799,1
+Irma Thomas,I Gave You Everything,0,0.0,173.26975,0.0,6,-13.332,0.37598430150044215,130.839,1
+João Gilberto,Meditacao,0,0.0,333.89669,0.0,7,-32.331,0.3347065490692206,76.953,5
+fIREHOSE,For The Singer Of R.E.M.,0,0.0,201.22077,0.0,9,-14.582,0.0,179.008,4
+The Black Crowes,Ballad In Urgency,1994,0.0,339.25179,0.0,2,-5.365,0.5940795853731886,117.706,4
+Electronic pig,Electro nicpig,2005,0.0,218.53995,0.0,9,-6.513,,137.938,4
+Grayson Capps,Mermaid,2006,0.0,236.59057,0.0,9,-9.072,,132.684,3
+Neil Innes,Come Out Into The Open,1995,0.0,222.87628,0.0,2,-9.85,,140.069,1
+Eduardo Fernandez / Norbert Blume / English Chamber Orchestra / George Malcolm,1. Allegro,0,0.0,341.05424,0.0,2,-25.127,,131.816,1
+Jane's Addiction,Stop! [Demo],0,0.0,240.01261,0.0,9,-7.915,0.3725300393660796,123.015,4
+Noisettes,Don't Upset The Rhythm (Go Baby Go),2009,0.0,218.46159,0.0,3,-3.936,,145.1,4
+Maysa,I Put A Spell On You,0,0.0,313.93914,0.0,6,-8.316,0.37598430150044215,101.439,3
+Pete Miser,On The Rhyme (Featuring DJ Pete Miser),0,0.0,224.02567,0.0,7,-9.559,0.1926477122338821,179.965,4
+Line Renaud,Il Y A Des Anges,1994,0.0,140.30322,0.0,1,-12.755,0.0,117.537,3
+Katie Armiger,Movin On,0,0.0,204.22485,0.0,9,-5.231,0.42744657148843085,150.085,4
+Marc Lavoine,Si Tu Veux Le Savoir,1995,0.0,190.6673,0.0,4,-13.354,,140.424,4
+Mungo Jerry,Alright_ Alright_ Alright,0,0.0,167.26159,0.0,0,-9.698,,175.048,4
+Stephy Tang,Zi You Zi Zai,2006,0.0,205.06077,0.0,0,-9.151,,148.252,1
+Grup Knar,Burma Diginin Eger Er,0,0.0,106.63138,0.0,5,-10.709,,156.239,3
+Andrew W.K.,Long Live The Party,2003,0.0,240.40444,0.0,4,-4.008,0.6354178563299412,191.144,4
+Jim Kweskin,If You're A Viper (LP Version),0,0.0,122.33098,0.0,4,-12.528,0.2579500637754611,182.773,1
+Amilcar,L4-L5,0,0.0,277.7073,0.0,0,-14.631,0.0,87.882,1
+Basement Jaxx,Sfm,2001,0.0,161.85424,0.0,7,-4.665,0.5954787482467339,130.862,7
+Commander Cody And His Lost Planet Airmen,Hawaii Blues (Album Version),0,0.0,185.44281,0.0,4,-8.353,,123.713,4
+Wyclef Jean,Heaven's In New York,2007,0.0,287.50322,0.0,6,-6.748,,85.964,4
+Thomas Dolby,Screen Kiss,1984,0.0,328.72444,0.0,11,-17.428,0.6474542104780152,88.928,4
+Blind Lemon Jefferson,Long Distance Moan,2007,0.0,201.79546,0.0,10,-28.197,,106.798,1
+The Distillers,Oh Serena,2000,0.0,152.68526,0.0,3,-4.048,0.7670748422311303,162.727,4
+Dan Shen_ Gruppo Vocale Cantemus_ Ensemble Airone_ Luigi Marzola,Miserere: XVII. Quoniam Si Voluisses,0,0.0,56.71138,0.0,11,-25.063,,47.421,1
+Moraes Moreira,Bateu No Paladar,0,0.0,249.23383,0.0,11,-7.622,,215.595,3
+Smidi Beats,All Shook Up,0,0.0,199.18322,0.0,6,-14.497,0.0,98.128,4
+The Robert Cray Band,Bad Influence,1983,0.0,173.322,0.0,1,-7.933,0.6711085610781358,127.373,4
+Juan Carlos Baglietto,Como Boomerang,1986,0.0,205.84444,0.0,7,-11.54,0.0,131.724,4
+Jacques Higelin,Quand j'improvise sur mon piano,1973,0.0,163.05587,0.0,9,-10.829,,120.203,1
+Kool Moe Dee,How Ya Like Me Now,1987,0.0,336.43057,0.0,6,-7.0,,104.171,4
+Alternative TV,Lemons_ For Kevin,1994,0.0,237.08689,0.0,2,-13.846,,136.964,4
+Abbott & Chambers,Where Are You,0,0.0,496.06485,0.0,7,-6.466,,138.012,4
+Indica,Ihmisen Lento,0,0.0,210.85995,0.0,7,-6.676,0.5324827075077003,112.795,4
+Danny Wright,Walking in Faith_ Reprise,0,0.0,109.03465,0.0,0,-17.471,0.0,108.718,4
+Bad Azz,Tha Stand,1998,0.0,211.30404,0.0,10,-5.108,0.0,86.979,4
+Pagan Wanderer Lu,Knight -> King 4,2006,0.0,346.25261,0.0,7,-7.523,,134.909,3
+Little Eva,Up On The Roof (LP Version),0,0.0,171.78077,0.0,1,-7.517,0.425339880254588,120.026,4
+Eduardo Dusek,Nostradamus,2000,0.0,160.7571,0.0,2,-7.667,0.4744965757128489,111.802,3
+Alfredo Gutiérrez,Linda mariposa,0,0.0,133.95546,0.0,0,-6.013,,95.971,4
+Why?,Miss Ohio's Nameless,0,0.0,173.68771,0.0,0,-6.913,0.5746932970850078,132.462,1
+Amil,Get Down,2000,0.0,269.19138,0.0,7,-6.875,0.3347065490692206,90.894,4
+Pepper,Musical 69,2008,0.0,172.87791,0.0,9,-5.935,,98.173,3
+Hi-Tack,Say Say Say (Waiting 4 U) (Tocadisco's Not Guilty Remix),2006,0.0,345.96526,0.0,7,-7.908,0.3231121208952123,129.146,4
+Alex Gopher,Keep on dancin' (Last man standin'),0,0.0,684.79955,0.0,7,-12.114,,125.147,3
+Kékélé,Dido,2001,0.0,264.12363,0.0,9,-6.112,0.3347065490692206,139.243,5
+Hank Penny,Steel Guiter Stomp,2008,0.0,170.47465,0.0,1,-12.361,,117.726,4
+Dealership,I Don't Want Your Love,2004,0.0,103.52281,0.0,10,-7.403,0.35513930220333156,107.002,4
+Frankie Howard,Three Little Fishes,0,0.0,198.73914,0.0,8,-18.75,0.0,165.903,5
+Freakhouse,Submit,0,0.0,204.06812,0.0,7,-3.638,0.0,78.019,3
+The Smashing Pumpkins,Rocket,1993,0.0,246.93506,0.0,0,-11.253,0.7137499442479839,115.938,3
+Starski and Clutch,Belle Isle Players,0,0.0,239.80363,0.0,1,-13.248,,165.252,4
+Sunnyland Slim,Hard Times (feat. Floyd Jones),0,0.0,148.47955,0.0,9,-14.101,0.21508031850922793,106.545,1
+The Highwaymen,Abilene,0,0.0,277.83791,0.0,7,-20.803,0.25140787815686916,154.188,3
+Juan Carlos Baglietto,Amor Siciliano,0,0.0,225.33179,0.0,0,-11.06,0.24906579485370342,86.794,4
+Gaither Vocal Band,Passin' The Faith Along,0,0.0,180.92363,0.0,7,-9.324,0.43854502856067085,86.249,4
+Big Mountain,Where Do The Children Play? (LP Version),0,0.0,216.05832,0.0,2,-7.885,,149.169,4
+Simon & Garfunkel,A Simple Desultory Philippic (Or How I Was Robert McNamara'd Into Submission),1966,0.0,138.70975,0.0,2,-10.222,,181.41,4
+Professor Longhair,No Buts - No Maybes,1993,0.0,127.37261,0.0,3,-7.992,0.42744657148843085,164.648,4
+Kommunity FK,Junkies 1984,0,0.0,213.75955,0.0,3,-6.667,0.0,91.312,1
+Richi M.,Wake Me Up,1998,0.0,590.00118,0.0,1,-8.729,,136.826,4
+Stevie Ray Vaughan And Double Trouble,Come On (Pt. III),0,0.0,256.13016,0.0,4,-9.716,,158.136,1
+Foghat,Three Wheel Cadillac,1983,0.0,235.75465,0.0,9,-6.961,,187.314,4
+Slim Whitman,Cattle Call,1993,0.0,152.42404,0.0,0,-11.271,,106.637,3
+Brian Auger's Oblivion Express,Voices Of Other Times,1999,0.0,360.30649,0.0,0,-12.601,0.37598430150044215,107.053,4
+Unearth,Crow Killer,2008,0.0,197.25016,0.0,7,-5.071,0.6460422706820783,77.399,4
+Tim Hughes,Dance,2007,0.0,268.2771,0.0,0,-7.205,0.6998677427291583,145.962,4
+DJ Icey,A Little Louder,2003,0.0,325.98159,0.0,11,-6.705,,132.986,4
+King Curtis,Misty,0,0.0,169.01179,0.0,5,-18.199,,43.211,4
+The Black Crowes,Locust Street (Album Version),0,0.0,254.74567,0.0,7,-7.183,,98.176,1
+Scott Krippayne,The Main Thing (LP Version),0,0.0,230.00771,0.0,1,-7.82,0.0,96.0,4
+El Gran Silencio,Ayer,0,0.0,300.09424,0.0,7,-6.195,0.2538347361322313,143.947,4
+Der Moderne Man,Sinnloz/ Anakonda (live),0,0.0,195.18649,0.0,5,-8.702,,148.244,4
+Babbu Maan,Kudian Kudian,0,0.0,227.7873,0.0,4,-7.159,0.0,94.986,4
+Yuppie Pricks,Prick For President,0,0.0,134.50404,0.0,11,-1.83,0.0,106.662,4
+Erik Berglund,Ave Maria,0,0.0,354.66404,0.0,10,-9.473,,79.632,5
+Rodney O & Joe Cooley,Supercuts,1995,0.0,346.22649,0.0,6,-13.262,0.3867901771390143,118.933,4
+Mando Diao,Annie's Angle,2004,0.0,182.282,0.0,9,-4.8,0.6442200776822847,150.276,4
+The Hit Factory,Explode (Instrumental),0,0.0,233.76934,0.0,9,-7.027,0.0,133.29,4
+Ramón Vargas,Dal labbro il canto,0,0.0,255.21587,0.0,8,-28.536,,126.07,4
+Barbara Jones,You Are Always On My Mind,0,0.0,224.91383,0.0,2,-7.055,,165.754,4
+Schoolyard Heroes,Dreidel_ Dreidel_ Dreidel_ Dreidel!,0,0.0,103.41832,0.0,6,-5.898,0.0,86.409,1
+Arturo Sandoval,Waheera,1995,0.0,315.48036,0.0,5,-11.105,0.40790171721807383,200.42,1
+Christie Hennessy,The All-Ireland,0,0.0,180.76689,0.0,7,-16.183,,130.588,1
+Sirka Ragnar,Port now!,2007,0.0,177.94567,0.0,7,-5.076,0.4116221516199565,160.03,4
+Richard Walters,All at sea,0,0.0,193.93261,0.0,10,-9.627,,127.719,3
+It Dies Today,Sixth of June,2007,0.0,184.24118,0.0,6,-3.337,0.7084867188414631,160.126,4
+Richie Ray & Bobby Cruz,El Gallo Y La Vaca,2005,0.0,209.162,0.0,7,-2.348,,109.505,4
+Les Paul_ Mary Ford,Goofus,0,0.0,158.40608,0.0,11,-8.148,,200.562,1
+Little Brother,Second Chances feat. Bilal & Darien Brockington,2010,0.0,245.28934,0.0,11,-7.534,0.6753342101240023,100.415,4
+Vaggelis Perpiniadis,To Diazigio,0,0.0,174.52363,0.0,2,-10.42,,108.556,1
+Olivier Messiaen,Les Corps Glorieux (7 Visions De La Vie Des Ressuscités) (1939) : VII Le Mystère De La Sainte-Trinité,0,0.0,462.0273,0.0,2,-42.472,,131.619,4
+Charlie Byrd Trio,Travellin' On,0,0.0,267.4673,0.0,7,-21.115,,161.694,1
+Herb Alpert And The Tijuana Brass,Flowers On The Wall,0,0.0,126.79791,0.0,2,-9.144,0.0,184.279,1
+Tim Exile,Family Galaxy,2009,0.0,305.55383,0.0,10,-6.628,0.5500083601193787,116.795,4
+Glen Ricks,Fall In Love,0,0.0,218.87955,0.0,4,-11.442,,84.994,4
+Chango Spasiuk,Autores Anonimos,1998,0.0,36.20526,0.0,5,-19.65,0.24906579485370342,84.212,1
+Black Messiah,Gullveig,2009,0.0,488.41098,0.0,2,-5.461,0.5971087960725365,124.037,4
+Eric Burdon,Motorcycle girl,2004,0.0,232.64608,0.0,2,-7.111,0.3603705827121406,145.858,4
+unloco,Reckoning (Album Version),2001,0.0,205.73995,0.0,6,-5.673,0.7215726608393865,155.793,4
+Gene Chandler,Festival Of Love,1994,0.0,148.11383,0.0,5,-15.631,0.25587266802926767,92.293,3
+Little Milton,You Were On The Right Street,0,0.0,193.85424,0.0,10,-7.049,,162.226,5
+Bobby Vee,I Wouldnt Change A Thing,0,0.0,258.61179,0.0,7,-12.387,,115.185,4
+The Misfits,Halloween II,1981,0.0,133.27628,0.0,2,-9.742,0.7379276517071015,83.953,1
+GG Allin,Garbage Dump,1999,0.0,143.59465,0.0,10,-12.186,0.38293509007501925,140.97,1
+Tanya Chua,Zuo Li Bu An,0,0.0,254.24934,0.0,8,-6.217,,147.892,4
+The Cutting Edge,Cutting Edge,0,0.0,481.07057,0.0,1,-13.075,0.0,147.173,4
+Natalie MacMaster,Father John Macleod's Jig,1999,0.0,175.49016,0.0,2,-10.359,0.42744657148843085,109.097,3
+Southside Johnny Lyon,Please Come Home For Christmas**,0,0.0,160.93995,0.0,4,-23.94,0.3277366831778408,94.938,3
+EPMD,Please Listen To My Demo,1989,0.0,181.39383,0.0,7,-11.199,,122.838,1
+Patti Smith,Lo and Beholden,2000,0.0,283.19302,0.0,2,-8.342,0.680554011009267,97.147,4
+Jaime Urrutia,Caray! (con Loquillo_ directo Enjoy 07),0,0.0,214.43873,0.0,5,-5.97,,133.01,4
+Dean Martin,Pennies From Heaven,1997,0.0,134.94812,0.0,5,-13.296,,63.16,3
+Danny Diablo feat. Puerto Rican Myke,31 - 40,0,0.0,281.49506,0.0,11,-13.483,,94.335,4
+Mudhoney,When Tomorrow Hits (Album),0,0.0,159.58159,0.0,1,-15.959,0.5445140018788506,83.122,4
+Faithless,Take The Long Way Home,1998,0.0,275.12118,0.0,0,-7.852,,130.002,4
+Demonbreed,Blood Will Fall,0,0.0,329.40363,0.0,6,-6.392,0.2707759989463275,121.487,5
+Blackfoot,Train_ Train (LP Version),0,0.0,177.8673,0.0,9,-12.347,0.3091429553732331,121.483,4
+Smiley,Come On Shake My Feelin',0,0.0,186.06975,0.0,9,-7.789,0.0,110.043,4
+Grizzly Bear,Deep Blue Sea (Daniel Rossen home recording),2008,0.0,351.50322,0.0,9,-14.372,,85.003,4
+GARFIELD,Garfield - A Tail Of Two Kitties: Mirror Dance,0,0.0,53.86404,0.0,10,-22.386,,81.646,3
+André Verchuren,Maria Morena,1989,0.0,139.62404,0.0,0,-10.062,,120.643,1
+George Dalaras,Ammohostos,0,0.0,164.77995,0.0,7,-14.618,,47.447,4
+Stephen Marley / Damian Marley,The Mission,2008,0.0,273.89342,0.0,9,-7.842,0.4072330149011048,115.823,4
+Manolis Famellos & I Podilates,Vals '89,0,0.0,162.58567,0.0,0,-11.719,,94.301,3
+Blondie,Rapture (Us Disco Version) (1999 Digital Remaster),0,0.0,431.75138,0.0,0,-10.448,,215.006,4
+Emperor,In the Wordless Chamber,0,0.0,334.68036,0.0,0,-5.315,,169.423,3
+Darcelys,Un Petit Cabanon Pas Plus Grand Qu'Un Mouchoir De Poche,0,0.0,152.842,0.0,0,-15.412,,166.935,3
+Annie Blanchard,La vérité,2007,0.0,252.44689,0.0,5,-10.021,0.0,113.287,4
+Uriah Heep,Ghost of the Ocean (Live),0,0.0,214.25587,0.0,7,-8.151,0.2501995579405101,149.921,4
+Akon / Kardinal Offishall,Belly Dancer (Bananza) Remix ft. Kardinal Offishall,0,0.0,207.20281,0.0,10,-6.583,0.0,100.364,4
+Gal Costa,Me Recuso,1977,0.0,252.02893,0.0,9,-17.225,0.3603705827121406,149.039,4
+Alain-François,The frog song,0,0.0,169.87383,0.0,2,-5.91,,136.044,7
+Facto Delafe y las flores azules,Lametavolante,2005,0.0,127.79057,0.0,7,-5.726,0.4719711717935417,194.012,4
+Red Foley,Old Shep,1936,0.0,192.80934,0.0,4,-10.697,,38.443,4
+Jaime Urrutia,Azzurro,2005,0.0,278.96118,0.0,8,-5.688,0.21508031850922793,120.464,4
+Radiohead,Bullet Proof ... I Wish I Was (Acoustic),1995,0.0,214.7522,0.0,7,-18.146,0.699770063001443,153.08,4
+The Weegs,Petticoat,0,0.0,177.18812,0.0,10,-7.215,0.0,159.041,5
+Plasmatics,Sometimes I,1979,0.0,230.66077,0.0,2,-11.425,0.4944895175021134,113.11,4
+Maria Callas/Giuseppe di Stefano/Orchestra del Teatro alla Scala_ Milano/Gianandrea Gavazzeni,Un ballo in maschera (2002 Digital Remaster)_ Act 2: Oh_ qual soave brivido (Riccardo/Amelia),0,0.0,233.40363,0.0,4,-16.618,,76.731,3
+Yvette,Je me sens libre,0,0.0,405.002,0.0,11,-6.103,,130.03,4
+Tanika Turner,Compatible,0,0.0,232.72444,0.0,6,-8.073,,95.039,4
+Mark Wills,How Bad Do You Want It,2003,0.0,210.33751,0.0,2,-5.849,0.5033812362063191,96.071,4
+Grupo Batuque,Ole Ola,1998,0.0,270.39302,0.0,1,-4.411,,0.0,7
+Computer Paul,Cuts (Bobby's Still In Williamsburg),0,0.0,577.48853,0.0,11,-7.972,,127.983,4
+Tony Joe White,I've Got A Thing About You Baby (Album Version),0,0.0,162.0371,0.0,7,-15.733,,89.102,4
+The Elders,Moore Street Girls,0,0.0,231.00036,0.0,9,-7.3,,108.04,4
+Dan Shen_ Gruppo Vocale Cantemus_ Ensemble Airone_ Luigi Marzola,Miserere: IV. Quoniam Iniquitatem,0,0.0,16.40444,0.0,11,-34.162,,30.553,1
+Tomash Gee,Bad,0,0.0,373.75955,0.0,1,-4.198,,146.999,4
+Yuridia,Estar Junto A Ti (Angel),0,0.0,265.92608,0.0,2,-14.612,0.5917541605957845,116.629,1
+Gloria Lasso,Le Pull Over,0,0.0,162.16771,0.0,9,-11.685,,109.509,4
+Claw Hammer,Speak Softly,0,0.0,293.8771,0.0,2,-8.85,,167.156,1
+The Weegs,Slivery,0,0.0,192.20853,0.0,6,-7.008,,148.735,4
+Bizzy Bone,A Song For You (Feat. DMX and Chris Notez),0,0.0,238.21016,0.0,8,-5.066,0.450992311636255,84.971,4
+Debra Laws,On My Own (LP Version),0,0.0,257.48853,0.0,0,-8.219,0.23962909777363708,119.697,4
+Der Plan,Alter Mann,0,0.0,136.82893,0.0,9,-15.478,0.0,54.468,4
+Christian Quast,You Are!,0,0.0,466.33751,0.0,6,-13.431,,125.049,4
+Chapta_ Stage McCloud_ SupaStarr & Tony Manshino,Get F#%ked Up,0,0.0,274.38975,0.0,10,-4.733,0.0,78.612,3
+The Monroes,Arabian Night,1983,0.0,219.61098,0.0,4,-4.07,0.0,132.369,4
+Red Stick Ramblers,Why_ Now Baby?,2000,0.0,194.0371,0.0,2,-9.265,0.0,101.235,1
+Cece Winans,The Wind (Tears For You),1998,0.0,288.91383,0.0,11,-8.998,0.38393468427870303,124.766,4
+Mobb Deep,(The Grave Prelude),1995,0.0,50.15465,0.0,10,-13.662,0.5943624888400596,93.785,4
+KT Tunstall,Boo Hoo,2005,0.0,308.63628,0.0,7,-10.997,,128.205,4
+Milk Inc.,Losing Love (DJ Wout Remix),1999,0.0,430.65424,0.0,0,-10.674,0.21508031850922793,140.023,4
+Doyle Bramhall,Ooh Wee Baby,2007,0.0,252.36853,0.0,2,-7.194,0.0,89.922,3
+ÄI-TIEM,All das mag ich,1993,0.0,323.3171,0.0,7,-10.948,,93.978,4
+Doc & Merle Watson,Three Times Seven,0,0.0,140.5122,0.0,4,-16.522,0.3347065490692206,100.483,4
+Sasha,Owner Of My Heart (Album Version),0,0.0,220.99546,0.0,7,-6.282,,95.962,4
+Berrogüetto,Navicularia,0,0.0,363.31057,0.0,0,-10.413,0.3231121208952123,166.431,3
+DMX / Dyme,Good Girls_ Bad Guys,1999,0.0,233.40363,0.0,2,-4.422,0.5159636307203983,119.579,4
+The Gone Jackals,Janus (Riff Monster - topical),0,0.0,207.33342,0.0,10,-5.817,0.37598430150044215,142.801,4
+The Jackson Southernaires,Jesus Can Work It Out,0,0.0,187.32363,0.0,1,-6.749,,110.709,4
+William Goldstein,Bartholdi's Dream,0,0.0,115.74812,0.0,0,-24.188,,112.328,4
+Danger Danger,Rock America,1989,0.0,292.85832,0.0,4,-7.866,0.7729066963364655,164.171,4
+Legacy Five,Wy Wouldn't I,0,0.0,168.12363,0.0,8,-10.088,,156.131,4
+Clay Crosse,Givin' My Love,0,0.0,256.33914,0.0,3,-9.817,0.26586104921065007,143.245,3
+Coldplay,Don't Panic,1999,0.0,139.12771,0.0,0,-8.501,0.7819321705817204,122.291,4
+Josh White,My Soul Is Gonna Live With God,0,0.0,181.49832,0.0,8,-18.449,,133.972,1
+José Roberto Bertrami,Sheds And Weeds (Barracos E Arbustos),0,0.0,204.87791,0.0,7,-15.439,,103.277,1
+30 Seconds To Mars,Hunter,2005,0.0,234.73587,0.0,10,-10.807,0.7920426026457137,106.525,3
+Elizete Cardoso,Cancáo Do Amor Demais,0,0.0,103.18322,0.0,1,-18.276,,63.621,1
+Eddie Money,Runnin' Away,1983,0.0,213.68118,0.0,0,-10.633,0.27842636093081025,120.581,4
+Orquesta Harlow,El Terror,0,0.0,281.59955,0.0,9,-9.076,,124.001,4
+Belle and Sebastian,Like Dylan In The Movies,1996,0.0,250.69669,0.0,1,-10.504,,104.494,1
+Little Milton,Who Can Handle Me Is You,0,0.0,185.36444,0.0,8,-13.336,,142.739,1
+Steven Halpern,Bamboo Blue,0,0.0,264.82893,0.0,6,-16.663,0.0,144.544,4
+Thrice,The Earth Will Shake,2005,0.0,268.17261,0.0,9,-5.257,,125.019,4
+Silverstein,MY CONSOLATION (LP Version),2006,0.0,242.83383,0.0,9,-6.818,0.594923657153153,202.068,5
+Mando Diao,All My Senses,2004,0.0,251.03628,0.0,6,-5.403,0.6459827035844169,119.346,4
+The Russell Family,Tatter Jack Walsh,0,0.0,96.86159,0.0,4,-31.127,,117.005,3
+Shakira,Ojos Así,1998,0.0,409.99138,0.0,6,-7.936,,87.054,5
+Ya Boy,How U Want It?,0,0.0,208.14322,0.0,2,-10.649,0.0,117.66,1
+The Harvey Averne Dozen,The Think Drink Theme,1967,0.0,166.81751,0.0,10,-15.489,,92.082,1
+Taking Back Sunday,Spin (Album Version),2006,0.0,219.79383,0.0,11,-4.164,0.849306119804728,95.254,4
+The Clash,Lose This Skin,1980,0.0,308.50567,0.0,9,-5.49,0.6002206398644243,120.223,4
+RUN-DMC,Run's House,1988,0.0,201.82159,0.0,0,-5.068,,198.564,4
+Mystic Revelation of Rastafari,Ethiopian Serenade,0,0.0,250.90567,0.0,5,-18.933,0.0,118.132,4
+Joshua Rifkin,Réjouissance [I'll Cry Instead],0,0.0,111.46404,0.0,2,-15.007,,90.318,1
+Flora Purim,Latinas,1994,0.0,222.9024,0.0,4,-20.831,0.3347065490692206,136.234,3
+Danny Elfman,The Kingdom - Titles,2007,0.0,269.7922,0.0,3,-14.107,,85.807,5
+Suzy Thompson,Drunken's Man's Dream,0,0.0,196.91057,0.0,7,-11.846,,151.576,4
+Behemoth,No Sympathy For Fools,2002,0.0,229.40689,0.0,1,-5.117,,118.817,5
+Mary Black,Katie,1987,0.0,283.61098,0.0,10,-11.691,0.5997102956385507,116.673,4
+Dolores Keane,Dangerous Dance,0,0.0,249.93914,0.0,7,-16.454,0.21204540548371908,180.532,3
+Keb' Mo',I Am Your Mother Too,2001,0.0,242.80771,0.0,7,-16.239,0.48456252996792964,86.631,3
+Mart'nália,Cabide,2006,0.0,157.07383,0.0,7,-9.602,0.5986884527656058,144.548,1
+George Lopez,Dogs,2003,0.0,297.22077,0.0,10,-15.149,,75.114,1
+Opiate For The Masses,21st Century Time Bomb,2008,0.0,233.11628,0.0,9,-3.3,,80.006,3
+Quincy Jones,Exodus,1988,0.0,204.82567,0.0,11,-12.328,,109.86,1
+Ministry of Sound,Bitesize - Electro Beats Mix,0,0.0,1686.7522,0.0,1,-7.661,0.5317220984213001,85.958,3
+Bow Wow Wow,C30 C60 C90 Go,2003,0.0,182.9873,0.0,10,-10.137,,231.725,1
+Pascal Obispo,La Machine,2006,0.0,246.56934,0.0,6,-8.909,0.34092275586437804,130.057,4
+Kamelo Punto Semos,No tendrás casa,0,0.0,258.84689,0.0,4,-6.86,,133.036,4
+Les Brown,Harlem Nocturne,2007,0.0,172.87791,0.0,1,-14.319,,86.441,1
+Sister Hazel,Think About Me,1997,0.0,188.62975,0.0,7,-5.15,0.7071724242905096,138.581,1
+Barbara Jones,Moonlight Lover,0,0.0,242.20689,0.0,6,-9.375,,176.932,4
+Rooney,Get Away,2007,0.0,171.93751,0.0,11,-3.324,0.5159636307203983,119.406,4
+8Ball & MJG,Pimpin' Don't Fail Me Now [Featuring Jazze Pha and Juvenile] (Explicit Album Version),2007,0.0,236.93016,0.0,1,-5.674,0.0,170.046,4
+Timothy Byram-Wigfield,Les Corps Glorieux: III. L'Ange aux parfums,2002,0.0,473.46893,0.0,0,-32.934,,112.238,3
+Atreyu,Nevada's Grace (Album Version),2004,0.0,227.99628,0.0,8,-5.512,0.8280875088447087,128.639,4
+Jazz Crusaders,Top Of The World,0,0.0,406.07302,0.0,1,-9.718,0.0,96.617,1
+Madonna,Bedtime Story (Album Version),1994,0.0,248.55465,0.0,7,-13.603,,111.958,4
+Scott Wesley Brown,This Little Child (Brown),0,0.0,350.11873,0.0,10,-14.696,,111.915,4
+Ashes to Ashes,Pass The Earplugs,0,0.0,215.40526,0.0,1,-6.125,,110.005,4
+Faith Hill,Silent Night_ Holy Night! (Album Version),2008,0.0,189.67465,0.0,6,-16.402,0.637148190775511,37.656,4
+Forensics,Crappy Shop (50 Cent Diss Track),0,0.0,381.33506,0.0,11,-12.995,0.0,96.528,1
+The Rolling Stones,Fortune Teller,1963,0.0,116.92363,0.0,2,-6.999,,173.845,1
+Amoral,Metamorphosis,2001,0.0,306.38975,0.0,7,-5.306,0.4574471670851005,129.962,4
+Tony Martin,Ebb Tide,0,0.0,216.24118,0.0,7,-26.928,,80.609,1
+Kool Moe Dee,Way Way Back,1987,0.0,272.8224,0.0,1,-11.151,0.5973390427828504,110.153,4
+Fudge Tunnel,Spanish Fly,1991,0.0,325.72036,0.0,4,-13.702,,140.638,3
+DJ Nasty,Southern Fried,0,0.0,195.13424,0.0,11,-15.386,,149.956,4
+Dusminguet,Africa,1998,0.0,173.97506,0.0,7,-9.688,0.349166902124596,106.073,4
+Taylor Swift,The Way I Loved You,2008,0.0,245.36771,0.0,5,-4.536,0.8538288927988172,160.786,4
+Roger Williams,The High and The Mighty,0,0.0,161.95873,0.0,10,-21.186,,86.721,4
+France D' Amour,Je n'irai pas ailleurs,0,0.0,229.79873,0.0,3,-4.858,,95.068,4
+Nancy Walker,Ya Got Me,0,0.0,162.79465,0.0,0,-14.12,,75.77,5
+The Paul Butterfield Blues Band,All In A Day (Live @ The Troubadour_ LosAngeles),0,0.0,490.84036,0.0,5,-9.839,0.254463665642525,200.105,7
+Aeoliah,The Passion (Regular),0,0.0,262.53016,0.0,5,-26.236,0.37598430150044215,99.21,5
+Tony Martin,Where in the World,0,0.0,192.54812,0.0,3,-16.643,0.0,66.568,3
+Kiss,Domino,0,0.0,240.45669,0.0,2,-8.471,0.6320809374994478,91.413,1
+Glen Washington,Love the One You're With,0,0.0,203.75465,0.0,1,-11.97,,158.242,4
+Miguel Gallardo,Dedicado,0,0.0,227.60444,0.0,10,-10.369,0.26586104921065007,108.789,4
+Dionne Warwick,Just One Of Those Things,0,0.0,210.96444,0.0,7,-13.765,0.37952332442218817,101.421,3
+The Jackson Southernaires,Keep On Doing What I'm Doing,0,0.0,193.25342,0.0,7,-11.703,,115.262,3
+Jah Cure,To Your Arms of Love,2007,0.0,210.85995,0.0,8,-3.362,,168.979,4
+Swallow The Sun,...and Heavens Cried Blood,2009,0.0,377.75628,0.0,0,-6.317,0.6493981130367088,71.758,4
+Janet Jackson,Again,1993,0.0,227.082,0.0,0,-10.252,,129.542,4
+Bare Jr.,Tobacco Spit,1998,0.0,230.05995,0.0,7,-7.837,0.3347065490692206,91.973,4
+João Gilberto,Eu E Meu Coracao,1991,0.0,312.05832,0.0,2,-22.083,0.5317220984213001,55.596,4
+Basement Jaxx,Twerk (feat. Yo Majesty),2009,0.0,210.20689,0.0,0,-5.2,0.637592628509215,85.332,5
+Nightwish,Sleepwalker,2000,0.0,175.80363,0.0,9,-5.921,0.6629861610396057,78.006,5
+Stanley Clarke & George Duke,Finding My Way,1990,0.0,339.09506,0.0,11,-14.253,0.5367819289636,132.465,4
+Plump DJs,Creepshow Remixes (Soul Of Man Mix),0,0.0,490.55302,0.0,11,-8.564,,129.961,4
+Jean-Jacques Goldman,Comme Toi (Live),1991,0.0,327.65342,0.0,2,-14.457,0.30416950343527516,120.704,4
+Dennis Brown,Go Now - Original,0,0.0,205.24363,0.0,1,-10.999,,157.619,4
+Faith Hill,There Will Come A Day (Album Version),2001,0.0,253.1522,0.0,11,-9.031,0.5717290089239234,154.434,4
+Estopa,Exiliado En El Lavabo,1999,0.0,195.83955,0.0,11,-12.359,0.5466354885721183,142.869,4
+Lee Michaels,Fell In Love Today,1968,0.0,118.88281,0.0,7,-11.723,0.0,101.015,1
+The London Pops Orchestra,Smile,0,0.0,204.2771,0.0,6,-16.755,,67.6,4
+The Police,Voices Inside My Head,1980,0.0,233.45587,0.0,7,-13.425,,108.565,4
+Despina Vandi,Kalanta,0,0.0,307.87873,0.0,9,-7.865,0.46048484498641545,87.965,3
+Mark Feldman_ John Taylor_ Anders Jormin_ Tom Rainey,Everafter,0,0.0,527.82975,0.0,8,-27.513,0.0,86.175,4
+Frank Stokes,Nehi Mamma Blues,1995,0.0,190.92853,0.0,2,-16.079,,172.348,4
+John Wesley Ryles,Living Again,0,0.0,183.95383,0.0,2,-15.878,,101.348,4
+Bobby Broom,Where Is The Love?,0,0.0,382.98077,0.0,8,-14.856,0.26586104921065007,124.883,4
+Bill & Gloria Gaither,Farther Along (Favorite Hymns Sung By The Homecoming Friends Album Version),0,0.0,216.18893,0.0,3,-9.489,0.0,111.321,3
+Max Steiner,Presenting The Eight Wonder Of The World,1993,0.0,24.13669,0.0,0,-15.511,,134.759,3
+Alfredo Kraus,La Alegria Del Batallon,0,0.0,135.13098,0.0,8,-17.667,,92.409,1
+Carman featuring Commissioned & The Christ Church Choir,The Same God,0,0.0,247.14404,0.0,9,-7.914,0.0,149.978,4
+Junie,Rappin' About Rappin' (Uh-Uh-Uh),0,0.0,243.69587,0.0,11,-8.71,0.2998774882739778,102.682,4
+Freddie McGregor,Walls Of Jericho (Album Version),0,0.0,210.52036,0.0,11,-9.44,,124.088,4
+Los Amigos Invisibles,Ultra-Funk,1998,0.0,218.67057,0.0,9,-6.505,0.5690490346799796,109.35,4
+Byron Cage featuring Tye Tribbett,In The Midst,0,0.0,240.43057,0.0,1,-4.681,0.26586104921065007,119.194,4
+Moonspell,Sacred,1997,0.0,313.46893,0.0,1,-7.145,0.6931497400562711,120.064,4
+Vickie Winans,You Turn Me,2008,0.0,347.42812,0.0,5,-8.139,,179.934,4
+Dolly Parton,It's All Wrong_ But It's All Right,0,0.0,193.54077,0.0,7,-10.691,,143.804,4
+Frederic Galliano,Nomades Monades,1997,0.0,1394.75546,0.0,10,-20.282,,81.983,4
+Room 5,Hidden Sun,2003,0.0,403.01669,0.0,4,-7.611,0.3347065490692206,127.99,4
+Lambda,Hold On Tight,1996,0.0,180.79302,0.0,1,-7.944,,128.07,3
+Statues,The Last Stand,2006,0.0,127.73832,0.0,9,-5.39,0.4051157216913865,182.195,4
+Zeromancer,Mosquito Coil,2003,0.0,277.81179,0.0,2,-8.704,,93.001,4
+Gang Starr,The Planet (Explicit),1994,0.0,316.02893,0.0,7,-10.518,0.5911614254407315,209.396,4
+Al Denson,Rain Love,1999,0.0,249.67791,0.0,9,-8.7,0.0,80.137,4
+Buckwheat Zydeco,Buck's Going Downtown (Album Version),0,0.0,416.23465,0.0,0,-10.165,,124.325,3
+Strata,Trio (1932)_ Movement 3: Moderato,2004,0.0,409.83465,0.0,7,-20.406,0.0,91.854,3
+Poncho Sanchez,Lip Smacker,2004,0.0,372.37506,0.0,5,-11.951,,111.985,7
+Leona Naess,Heavy Like Sunday,2008,0.0,179.74812,0.0,8,-9.042,0.6836135414428284,147.256,4
+Phil Collins,Dance Into The Light (LP Version),1996,0.0,262.00771,0.0,7,-6.548,0.6485574713757069,87.871,3
+Roger Subirana,Un Res Pyr,2002,0.0,288.07791,0.0,8,-14.015,0.0,116.866,4
+Natural Elements,NE Thang,0,0.0,220.83873,0.0,4,-12.141,0.0,76.76,7
+Kathy Mattea,Standing Knee Deep In a River (Dying Of Thirst),1992,0.0,250.33098,0.0,0,-9.352,0.43703620411161354,132.335,4
+Vilma E Vampiros Palma,Se Puede Salir,1995,0.0,265.32526,0.0,7,-7.724,,127.879,4
+Albert King,I'm Gonna Move To The Outskirts Of Town - Live,0,0.0,454.84363,0.0,9,-13.004,,96.804,3
+Frankie Negron,Comerte A Besos (Bachata Version),0,0.0,260.8322,0.0,11,-6.035,0.6153722556990726,125.007,4
+Seamus Egan,The Munster Cloak,0,0.0,184.2673,0.0,7,-15.717,0.0,98.355,1
+Tiny Tim,Sweet And Lovely,0,0.0,236.77342,0.0,5,-13.265,0.25485038068656474,87.895,4
+N.E.R.D.,Intro / Time For Some Action,2008,0.0,222.6673,0.0,11,-5.795,,113.034,4
+Naughty By Nature,The Hood Comes First (LP Version),1993,0.0,216.60689,0.0,6,-12.711,0.439202489315343,199.652,4
+React,Fabrication,0,0.0,131.082,0.0,4,-10.158,0.0,126.412,1
+Tresenlesen,Das Gelübde,1998,0.0,239.46404,0.0,4,-12.119,0.0,174.332,5
+The All American Rejects,Jack's Lament,2008,0.0,195.18649,0.0,2,-9.322,0.6204583740756491,109.697,5
+Malefaction,Drowning In Public Approval,0,0.0,76.90404,0.0,5,-3.807,0.0,151.379,3
+Los Van Van,Appapas Del Calabar,1999,0.0,268.042,0.0,7,-5.801,0.39200877147130697,202.153,4
+Washboard Sam,I'm On My Way Blues,0,0.0,169.22077,0.0,0,-16.597,,92.574,1
+Viktor Krauss,Side Street,0,0.0,243.1473,0.0,10,-21.361,0.2538347361322313,93.394,4
+Dan Cummins,Chocolate Squirrelador (Album Version),0,0.0,140.43383,0.0,5,-13.605,,112.194,1
+Willy DeVille,Cadillac Walk (Album Version),2009,0.0,439.30077,0.0,2,-5.883,0.0,143.592,1
+Pescado Rabioso,Aguas Claras De Olimpos,1973,0.0,526.21016,0.0,7,-13.209,0.3231121208952123,80.754,1
+Justin Timberlake,What Goes Around...Comes Around,2007,0.0,254.1971,0.0,11,-3.773,,127.952,1
+Hall & Oates,Perkiomen,1993,0.0,158.40608,0.0,3,-9.926,,105.314,1
+Plump DJs,Weighed Down,2003,0.0,304.45669,0.0,9,-6.934,0.5835712631362558,134.113,4
+Billy Bragg,This Guitar Says Sorry,1984,0.0,153.88689,0.0,7,-9.341,0.5339103725510771,176.447,4
+Sugar Minott,Try Love,1977,0.0,290.35057,0.0,1,-11.107,0.37952332442218817,158.051,4
+Sasha,Jour De Chance (Lucky Day),0,0.0,199.23546,0.0,7,-5.275,0.0,101.05,4
+"Ricky Martin Feat. La Mari de ""Chambao",Tu Recuerdo,2008,0.0,247.87546,0.0,0,-6.41,0.6011547871312662,83.891,4
+Bukka White,My Baby,0,0.0,880.92689,0.0,4,-13.206,0.0,114.268,4
+White Willow,The Reach,2000,0.0,659.46077,0.0,6,-12.518,0.0,101.341,3
+Los Barón De Apodaca,Ese Que Traes A Tu Lado,0,0.0,213.7073,0.0,9,-12.442,,199.046,4
+Ten Wheel Drive,No Next Time,0,0.0,272.84853,0.0,5,-11.723,0.0,113.866,4
+Bob Carlisle,I Will Shelter You,0,0.0,252.00281,0.0,0,-7.853,,147.576,4
+Scalplock,Safe in Numbers (Album Version),0,0.0,52.03546,0.0,5,-8.704,,98.032,5
+The Jackson Southernaires,It's All In The Word,0,0.0,281.25995,0.0,7,-8.038,,110.167,4
+Smut Peddlers,"Nova (originally from ""failure"")",0,0.0,104.93342,0.0,2,-6.052,0.0,160.147,1
+Nerf Herder,Nervous Breakdown,2002,0.0,167.44444,0.0,7,-2.885,0.48512236410182064,189.995,4
+Bryan Ferry,"Slave To Love (7"" Version) (2009 Digital Remaster)",0,0.0,240.03873,0.0,11,-7.664,0.2707759989463275,147.421,4
+Moon Mullican,Mona Lisa,0,0.0,170.52689,0.0,0,-17.881,,74.6,4
+2 Minutos,1987,1997,0.0,64.39138,0.0,0,-7.653,,186.495,4
+Spok Frevo Orquestra,Folião Ausente,2007,0.0,286.04036,0.0,5,-8.431,0.0,102.164,4
+Vinícius de Moraes,A volta da mulher morena,0,0.0,157.30893,0.0,5,-16.216,0.0,103.682,3
+Santana,Persuasion,0,0.0,317.09995,0.0,2,-4.27,,109.464,4
+Huey Dunbar,Sin Poderte Hablar,0,0.0,200.80281,0.0,11,-7.024,0.5375039041917102,100.029,4
+Hot Chip,No,2007,0.0,182.15138,0.0,5,-8.208,0.439202489315343,146.035,4
+Behemoth,He Who Breeds Pestilence,2009,0.0,341.2371,0.0,8,-2.735,0.6769185181037616,129.829,4
+Sylver,Sympathy,2004,0.0,170.50077,0.0,9,-9.122,,138.935,4
+Dead Hearts,In Our Hands_ Once Again,0,0.0,44.30322,0.0,4,-5.053,0.4697124313189556,136.714,1
+Klubbingman feat. Beatrix Delgado,Another Day Another Night,0,0.0,333.21751,0.0,3,-5.395,,145.004,4
+Mawatari Matsuko,Hohoemi No Bakudan (YUUYUUHAKUSO Opening Theme),0,0.0,253.77914,0.0,0,-4.834,0.647247126954782,86.765,5
+Harry Diboula,Rendez-Vous,0,0.0,249.88689,0.0,9,-9.522,,167.952,3
+Scott Matthews,Underlying Lies,2009,0.0,325.48526,0.0,5,-8.599,0.6536286823546584,100.008,4
+Tito Puente,"Carnival (from ""Black Orpheus"")",0,0.0,273.81506,0.0,0,-13.906,0.22914410371660274,102.308,4
+Graham Central Station,It's Alright,1975,0.0,229.27628,0.0,8,-9.783,0.48828987603734525,119.633,4
+Jacques Dutronc,Les Femmes Des Autres,1969,0.0,192.33914,0.0,11,-11.899,,122.233,1
+Pennywise,Dying to Know (Album Version),0,0.0,185.5473,0.0,7,-5.163,0.2882379435645541,171.516,4
+Gustavo Santaolalla,Endless Flight,0,0.0,276.21832,0.0,4,-21.463,0.3347065490692206,156.446,1
+Shakira,Poem To A Horse,2001,0.0,246.43873,0.0,7,-6.025,0.7731945003032438,93.982,4
+JK,You Make Me Feel Good ,2003,0.0,361.16853,0.0,6,-14.475,0.0,125.991,4
