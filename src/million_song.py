@@ -4,6 +4,8 @@ import tarfile
 import dask.dataframe as dd
 import glob
 
+SUBSET_URL = "http://labrosa.ee.columbia.edu/~dpwe/tmp/millionsongsubset.tar.gz"
+
 
 def download(url: str) -> None:
     """Download file from url
@@ -35,7 +37,6 @@ def process(df: dd, columns_to_keep: list[str]) -> dd:
 
 
 def main():
-    SUBSET_URL = "http://labrosa.ee.columbia.edu/~dpwe/tmp/millionsongsubset.tar.gz"
     if not os.path.exists("data"):
         os.mkdir("data")
     if not os.path.exists("data/millionsongsubset.tar.gz"):
@@ -55,9 +56,7 @@ def main():
         "tempo",
         "time_signature",
     ]
-    parent_dir = "./data"
-    h5_files = list(glob.glob(parent_dir + "**/**/*.h5", recursive=True))
-
+    h5_files = list(glob.glob("../data/**/**/*.h5", recursive=True))
     analysis_songs = dd.read_hdf(h5_files, key="analysis/songs")
     meta_songs = dd.read_hdf(h5_files, key="metadata/songs")
     music_songs = dd.read_hdf(h5_files, key="musicbrainz/songs")
