@@ -28,12 +28,7 @@ def extract_file(filepath: str) -> None:
 
 
 def process(df: dd, columns_to_keep: list[str]) -> dd:
-    """The filtered Dask DataFrame with specified columns and no NaN values.
-    Args:
-        dd: dask dataframe
-        columns_to_keep: features that won't be removed from the input dask dataframe.
-    Returns: dask dataframe with only specified columns and null values removed.
-    """
+    """The filtered Dask DataFrame with specified columns and no NaN values."""
     df_filtered = df.loc[:, columns_to_keep]
     df_filtered = df_filtered.dropna(how="any")
     return df_filtered
@@ -60,7 +55,7 @@ def main():
         "tempo",
         "time_signature",
     ]
-    parent_dir = ".\src"
+    parent_dir = "./data"
     h5_files = list(glob.glob(parent_dir + "**/**/*.h5", recursive=True))
 
     analysis_songs = dd.read_hdf(h5_files, key="analysis/songs")
