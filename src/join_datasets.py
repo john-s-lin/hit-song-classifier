@@ -9,7 +9,7 @@ def join_datasets():
 
     df2 = spark.read.csv("./data/million_songs.csv", header=True, mode="DROPMALFORMED")
     df2 = df2.withColumnRenamed("title", "song")  \
-          .withColumnRenamed("artist_name", "artist") \
+        .withColumnRenamed("artist_name", "artist") \
 
     df3 = df1.join(df2, ['song', 'artist'])
     # df3 = df1.join(df2, ['song']).orderBy('song')
