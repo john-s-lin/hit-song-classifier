@@ -134,3 +134,4 @@ dmypy.json
 # Intermediate data storage
 **.tar.gz
 **.h5
+.idea/
