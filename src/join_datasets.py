@@ -11,8 +11,7 @@ def join_datasets():
     df2 = df2.withColumnRenamed("title", "song")  \
         .withColumnRenamed("artist_name", "artist") \
 
-    df3 = df1.join(df2, ['song', 'artist'])
-    # df3 = df1.join(df2, ['song']).orderBy('song')
+    df3 = df1.join(df2, ['song', 'artist']).orderBy('song')
 
     return df3
 
