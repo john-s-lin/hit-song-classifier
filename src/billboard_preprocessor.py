@@ -59,6 +59,7 @@ def classify_rankings(df: DataFrame) -> DataFrame:
     classified_df = (
         classified_df.select('*', floor(col('class_f')).alias('class'))
         .select([col(c) for c in ['song', 'artist', 'class']])
+        .orderBy(col('song'))
     )
     return classified_df
 
