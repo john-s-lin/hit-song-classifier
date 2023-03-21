@@ -4,7 +4,8 @@ from utilities.pyspark_utilities import write_csv, rename_csv, init_spark
 def join_datasets():
     spark = init_spark("join-datasets")
 
-    df1 = spark.read.csv("./data/classified_billboard_songs1.csv", header=True, mode="DROPMALFORMED")
+    df1 = spark.read.csv("./data/classified_billboard_songs1.csv",
+                         header=True, mode="DROPMALFORMED")
 
     df2 = spark.read.csv("./data/million_songs.csv", header=True, mode="DROPMALFORMED")
     df2 = df2.withColumnRenamed("title", "song")  \
