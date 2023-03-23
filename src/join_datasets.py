@@ -14,7 +14,8 @@ def join_datasets():
     million_song_df = million_song_df.withColumnRenamed("title", "song") \
         .withColumnRenamed("artist_name", "artist")
 
-    # Perform the join on the "right" side to get everything of Million Songs along with the joined info
+    # Perform the join on the "right" side to get everything of Million Songs along with the
+    # joined info from Billboard
     join_df = billboard_df.join(million_song_df, ['song', 'artist'], 'right').orderBy('song')
 
     # Replace empty "class" record with a class label of 10
