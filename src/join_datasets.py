@@ -1,19 +1,28 @@
 from utilities.pyspark_utilities import write_csv, rename_csv, init_spark
+from pyspark.sql.functions import col, when
 
 
 def join_datasets():
     spark = init_spark("join-datasets")
 
-    df1 = spark.read.csv("./data/classified_billboard_songs1.csv",
-                         header=True, mode="DROPMALFORMED")
+    # Put Billboard CSV in dataframe
+    billboard_df = spark.read.csv("./data/classified_billboard_songs1.csv",
+                                  header=True, mode="DROPMALFORMED")
 
-    df2 = spark.read.csv("./data/million_songs.csv", header=True, mode="DROPMALFORMED")
-    df2 = df2.withColumnRenamed("title", "song")  \
-        .withColumnRenamed("artist_name", "artist") \
+    # Put Million Song CSV in dataframe.  Rename common columns for join
+    million_song_df = spark.read.csv("./data/million_songs.csv", header=True, mode="DROPMALFORMED")
+    million_song_df = million_song_df.withColumnRenamed("title", "song") \
+        .withColumnRenamed("artist_name", "artist")
 
-    df3 = df1.join(df2, ['song', 'artist']).orderBy('song')
+    # Perform the join on the "right" side to get everything of Million Songs along with the joined info
+    join_df = billboard_df.join(million_song_df, ['song', 'artist'], 'right').orderBy('song')
 
-    return df3
+    # Replace empty "class" record with a class label of 10
+    join_df = join_df.withColumn('class',
+                                 when(col('class').isNull(), "10")
+                                 .otherwise(col('class')))
+
+    return join_df
 
 
 df_join = join_datasets()
