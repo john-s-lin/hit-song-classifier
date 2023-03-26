@@ -45,3 +45,16 @@ def rename_csv(old_dir: str, new_dir, filename_prefix: str):
 def remove_directory(directory_path: str):
     print(f'removing directory {directory_path}')
     shutil.rmtree(directory_path)
+
+
+def split_multiple_csvs(csv_file_to_read: str, write_path: str, filename_prefix: str):
+    spark = init_spark("split-multiple-csvs")
+
+    df = spark.read.csv(csv_file_to_read, header=True, mode="DROPMALFORMED")
+    temp_dir = os.path.join(write_path, "temp")
+    write_csv(df, temp_dir);
+    rename_csv(temp_dir, write_path, filename_prefix)
+
+
+split_multiple_csvs("C:\\SQLite\\sqlite-tools-win32-x86-3410100\\sqlite_metadata.csv",
+                    ".\\data\\sqlite_metadata", "sqlite_metadata")
