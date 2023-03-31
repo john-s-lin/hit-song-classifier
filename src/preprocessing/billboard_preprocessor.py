@@ -18,12 +18,12 @@ kaggle_path = 'dhruvildave/billboard-the-hot-100-songs'
 kaggle_filename = 'charts.csv'
 
 # Paths
-root_dir = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
+root_dir = os.path.realpath(os.path.join(os.path.dirname(__file__), '..', '..'))
 temp_dir = os.path.join(root_dir, 'data', 'temp', '')
 
 
-# kaggle API fetch and extract dataset
-def download_kaggle_dataset(k_path: str, k_filename: str, directory: str):
+def download_kaggle_dataset(k_path: str, k_filename: str, directory: str) -> None:
+    '''kaggle API fetch and extract dataset'''
     api = KaggleApi()
     api.authenticate()
 
@@ -33,28 +33,32 @@ def download_kaggle_dataset(k_path: str, k_filename: str, directory: str):
     with ZipFile(zip_path, 'r') as zip_object:
         zip_object.extractall(directory)
 
-
-# Process the downloaded csv data
-def process_csv(filename: str) -> DataFrame:
+def spark_init()-> None:
+    '''initialize spark session'''
     spark = (
         SparkSession.builder
         .appName('Hot-Song-classifier')
         .getOrCreate()
     )
+    return spark
+
+def process_csv(filename: str, year_limit: str) -> DataFrame:
+    '''Process the downloaded csv data'''
+    spark = spark_init()
 
     df = spark.read.csv(filename, header=True, mode='DROPMALFORMED')
     df = df.withColumn('rank', df['rank'].cast(IntegerType()))
     df = df.withColumn('date', df['date'].cast(DateType()))
     max_rank_df = (
-        df.where(col('date') < '2011')
+        df.where(col('date') < year_limit)
         .groupBy('song', 'artist')
         .agg(min('rank').alias('top_rank'))
     )
     return max_rank_df
 
 
-# classify top rankings into buckets ranging from 0 to 9
 def classify_rankings(df: DataFrame) -> DataFrame:
+    '''classify top rankings into buckets ranging from 0 to 9'''
     classified_df = df.withColumn('class_f', ((df.top_rank-1)/10))
     classified_df = (
         classified_df.select('*', floor(col('class_f')).alias('class'))
@@ -64,14 +68,14 @@ def classify_rankings(df: DataFrame) -> DataFrame:
     return classified_df
 
 
-# removes a directory and all content
-def remove_directory(directory_path: str):
+def remove_directory(directory_path: str) -> None:
+    '''removes a directory and all content'''
     print(f'removing directory {directory_path}')
     shutil.rmtree(directory_path)
 
 
-# writes a dataframe to a csv file at the given path
-def write_csv(df: DataFrame, write_path: str):
+def write_csv(df: DataFrame, write_path: str, output_filename: str) -> None:
+    '''writes a dataframe to a csv file at the given path'''
     df.write.format("csv") \
         .mode('overwrite') \
         .option("header", "true") \
@@ -81,7 +85,7 @@ def write_csv(df: DataFrame, write_path: str):
     count = 1
     for file in os.listdir(write_path):
         if file.endswith(".csv"):
-            filename = f'classified_billboard_songs{count}.csv'
+            filename = f'{output_filename}{count}.csv'
             path = os.path.join(root_dir, 'data', filename)
             os.rename(os.path.join(write_path, file), path)
             count += 1
@@ -91,10 +95,16 @@ def write_csv(df: DataFrame, write_path: str):
 
 download_kaggle_dataset(kaggle_path, kaggle_filename, temp_dir)
 
-processed_data = process_csv(os.path.join(temp_dir, kaggle_filename))
+'''year_limit passed is 2011 or 2023 depending on the dataset required.'''
+processed_data = process_csv(os.path.join(temp_dir, kaggle_filename), '2023')
 classified_rankings = classify_rankings(processed_data)
 
 write_path = os.path.join(root_dir, 'data', 'classified_songs')
-write_csv(classified_rankings, write_path)
+
+''' 
+output_filename is either "classified_billboard_songs"or "all_classified_billboard_songs"
+depending on processed dataset.
+'''
+write_csv(classified_rankings, write_path, 'all_classified_billboard_songs')
 
 remove_directory(temp_dir)
