@@ -21,6 +21,7 @@ SPOTIPY_CLIENT_SECRET = os.environ.get("SPOTIPY_CLIENT_SECRET")
 # Initialize target Billboard dataset
 TARGET_FILE = "data/classified_billboard_songs2.csv"
 TARGET_CLEANED_FILE = TARGET_FILE.split(".csv")[0] + "_clean.csv"
+SPOTIFY_DATASET_FILE = "data/spotify_enhanced_dataset.csv"
 
 
 class SpotifyDatasetGenerator:
@@ -102,6 +103,52 @@ class SpotifyDatasetGenerator:
         """
         return ddf[(ddf["track_id"] != "")]
 
+    def create_columns_audio_features(self, ddf: dd) -> dd:
+        """Creates columns for audio features given track_id
+
+        Args:
+            ddf (dd): dask dataframe
+
+        Returns:
+            dd: dask dataframe
+        """
+        df = ddf.compute()
+        audio_features = {}
+        for i in range(0, len(df), 100):
+            track_ids = df.iloc[i : i + 100]["track_id"].tolist()
+            audio_features_list = self.sp.audio_features(track_ids)
+            for j, track_id in enumerate(track_ids):
+                audio_features[track_id] = audio_features_list[j]
+
+        features_list = []
+        for id_, features in audio_features.items():
+            features["id"] = id_
+            features_list.append(features)
+
+        audio_features_df = pd.DataFrame(
+            features_list,
+            columns=[
+                "id",
+                "danceability",
+                "energy",
+                "key",
+                "loudness",
+                "mode",
+                "speechiness",
+                "acousticness",
+                "instrumentalness",
+                "liveness",
+                "valence",
+                "tempo",
+                "duration_ms",
+                "time_signature",
+            ],
+        )
+
+        return dd.from_pandas(
+            df.merge(audio_features_df, left_on="track_id", right_on="id"), chunksize=1000
+        )
+
     def get_cleaned_billboard_dataset(self, filename: str) -> dd:
         """Initialize classified Billboard dataset
 
@@ -173,7 +220,10 @@ def main():
     df_with_track_id = sp_generator.drop_rows_if_empty_track_id(
         sp_generator.create_columns_track_id_popularity(df)
     )
-    print(df_with_track_id.compute().to_string())
+    df_with_audio_features = sp_generator.create_columns_audio_features(df_with_track_id)
+    df_with_audio_features.drop(columns=["id"]).to_csv(
+        SPOTIFY_DATASET_FILE, single_file=True, index=False
+    )
 
 
 if __name__ == "__main__":
