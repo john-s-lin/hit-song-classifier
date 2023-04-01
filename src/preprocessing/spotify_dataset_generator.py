@@ -18,10 +18,13 @@ dotenv.load_dotenv()
 SPOTIPY_CLIENT_ID = os.environ.get("SPOTIPY_CLIENT_ID")
 SPOTIPY_CLIENT_SECRET = os.environ.get("SPOTIPY_CLIENT_SECRET")
 
-# Initialize target Billboard dataset
+# Initialize target datasets
 TARGET_FILE = "data/classified_billboard_songs2.csv"
 TARGET_CLEANED_FILE = TARGET_FILE.split(".csv")[0] + "_clean.csv"
 SPOTIFY_DATASET_FILE = "data/spotify_enhanced_dataset.csv"
+MILLION_SONG_SUBSET_FILE = "data/million_songs_subset.csv"
+
+RANDOM_SEED = 0
 
 
 class SpotifyDatasetGenerator:
@@ -172,9 +175,11 @@ class BillboardDatasetCleaner:
             filename (str): filename
         """
         csv_list = list()
+        line_count = 0
         with open(filename, "r") as file:
             line = file.readline()
             while line:
+                line_count += 1
                 split_line = line.split(",")
                 if len(split_line) == 3:
                     # Clean song name
@@ -189,11 +194,33 @@ class BillboardDatasetCleaner:
                     split_line = [split_line[0]] + split_line[-2:]
                 csv_list.append(",".join(split_line))
                 line = file.readline()
+
+        # Add unclassified songs to csv_list
+        class_10_songs = self.add_unclassified_songs(
+            MILLION_SONG_SUBSET_FILE, line_count // 10
+        )
+        csv_list += class_10_songs
+
         output = "".join(csv_list)
         new_filename = filename.split(".csv")[0] + "_clean.csv"
 
         with open(new_filename, "w", newline="") as csvfile:
             csvfile.write(output)
+
+    def add_unclassified_songs(self, filename: str, subset_size: int = 100) -> list:
+        """Returns list of unclassified songs from million song subset as [song, artist, class]
+
+        Args:
+            filename (str): filename
+
+        Returns:
+            list: list of unclassified songs
+        """
+        df = pd.read_csv(filename)
+        df_subset = df.sample(subset_size, random_state=RANDOM_SEED)
+        df_subset["class"] = 10
+        songs_list = df_subset[["title", "artist.name", "class"]].values.tolist()
+        return [",".join(map(str, row)) + "\n" for row in songs_list]
 
     def __clean_element_name(self, *args) -> str:
         """Cleans malformed CSV element names
@@ -215,15 +242,19 @@ def main():
         bb_cleaner = BillboardDatasetCleaner()
         bb_cleaner.clean_raw_billboard_dataset(TARGET_FILE)
 
-    sp_generator = SpotifyDatasetGenerator()
-    df = sp_generator.get_cleaned_billboard_dataset(TARGET_CLEANED_FILE)
-    df_with_track_id = sp_generator.drop_rows_if_empty_track_id(
-        sp_generator.create_columns_track_id_popularity(df)
-    )
-    df_with_audio_features = sp_generator.create_columns_audio_features(df_with_track_id)
-    df_with_audio_features.drop(columns=["id"]).to_csv(
-        SPOTIFY_DATASET_FILE, single_file=True, index=False
-    )
+    if not os.path.exists(SPOTIFY_DATASET_FILE):
+        logging.info(f"Creating {SPOTIFY_DATASET_FILE}...")
+        sp_generator = SpotifyDatasetGenerator()
+        df = sp_generator.get_cleaned_billboard_dataset(TARGET_CLEANED_FILE)
+        df_with_track_id = sp_generator.drop_rows_if_empty_track_id(
+            sp_generator.create_columns_track_id_popularity(df)
+        )
+        df_with_audio_features = sp_generator.create_columns_audio_features(
+            df_with_track_id
+        )
+        df_with_audio_features.drop(columns=["id"]).to_csv(
+            SPOTIFY_DATASET_FILE, single_file=True, index=False
+        )
 
 
 if __name__ == "__main__":
