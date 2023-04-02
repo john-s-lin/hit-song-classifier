@@ -20,7 +20,7 @@ SPOTIPY_CLIENT_ID = os.environ.get("SPOTIPY_CLIENT_ID")
 SPOTIPY_CLIENT_SECRET = os.environ.get("SPOTIPY_CLIENT_SECRET")
 
 # Initialize target datasets
-TARGET_FILE = "data/classified_billboard_songs2.csv"
+TARGET_FILE = "data/all_classified_billboard_songs1.csv"
 TARGET_CLEANED_FILE = TARGET_FILE.split(".csv")[0] + "_clean.csv"
 SPOTIFY_DATASET_FILE = "data/spotify_enhanced_dataset.csv"
 MILLION_SONG_SUBSET_FILE = "data/million_songs_subset.csv"
