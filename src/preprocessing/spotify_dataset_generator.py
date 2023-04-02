@@ -166,7 +166,7 @@ class SpotifyDatasetGenerator:
         Returns:
             DataFrame: Billboard data with labels
         """
-        ddf = pd.read_csv(filename, on_bad_lines="skip", dtype=str)
+        ddf = dd.read_csv(filename, on_bad_lines="skip", dtype=str)
         return ddf.drop_duplicates(subset=["song", "artist"])
 
 
