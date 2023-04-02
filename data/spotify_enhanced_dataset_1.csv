@@ -1,0 +1,989 @@
+song,artist,class,track_id,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+B Girls,Young And Restless,5,0rWUHulFlScxQsCq7kWKde,21,0.615,0.497,7,-11.913,1,0.439,0.016,0.0,0.312,0.769,193.762,242107,3
+Cherry Cherry from Hot August Night,Neil Diamond,3,18ocy9Be9SxWEEnOLGDfkS,14,0.341,0.948,9,-5.081,1,0.136,0.101,0.00148,0.874,0.632,171.578,443320,4
+Having A Party Medley,The Ovations (Featuring Louis Williams),5,1rX66766RcHidu9TXbqiW2,15,0.558,0.632,9,-9.629,0,0.0453,0.0336,1.6e-06,0.504,0.724,105.362,183227,3
+Joy Pt. I,Isaac Hayes,2,0eotn4LzoGSsriuSipGAQd,15,0.457,0.65,1,-13.088,1,0.165,0.0179,5.15e-05,0.0881,0.804,167.279,276800,4
+Roots Medley,Quincy Jones,5,62YP3NEB4FVPJ90XcgJQKS,60,0.543,0.241,0,-17.245,1,0.0404,0.733,0.0,0.0944,0.326,71.878,273333,4
+Yep!,Duane Eddy His Twangy Guitar And The Rebels,2,6B8I1qFm81w2grBX30btLj,37,0.468,0.541,10,-9.236,0,0.0333,0.00803,0.828,0.103,0.724,103.608,146920,3
+(Meet) The Flintstones (From The Flintstones),The B.C. 52's,3,63w8DL2hp4iXiAngtMVtta,0,0.749,0.534,6,-10.803,1,0.0353,0.0136,0.814,0.055,0.863,139.879,142000,4
+(See You At The) Go-Go,Dobie Gray,6,6fgXQjq6DcXsgnUt6qSsrb,9,0.472,0.803,1,-6.987,1,0.0518,0.000245,0.0429,0.0839,0.773,114.589,176040,4
+(Theme From) Goodbye Again,Ferrante & Teicher,8,1CHDQPobVEBX2vsvhAxNBM,11,0.357,0.373,2,-9.624,0,0.0289,0.846,0.722,0.134,0.206,94.216,194267,4
+(Theme from) The Dark At The Top Of The Stairs,Ernie Freeman,6,7IIszFkXxsqw0CLrmF6TwV,15,0.615,0.53,3,-10.942,1,0.0286,0.665,0.954,0.0867,0.865,159.133,137280,4
+(You Make Me Feel Like) A Natural Woman (From New York Undercover),Mary J. Blige,9,5K09WxKdlkroDyEVyOSySy,69,0.603,0.271,5,-10.083,1,0.0284,0.679,0.0,0.141,0.405,110.89,165333,3
+(You Make Me Feel Like) A Natural Woman,Aretha Franklin,0,5K09WxKdlkroDyEVyOSySy,69,0.603,0.271,5,-10.083,1,0.0284,0.679,0.0,0.141,0.405,110.89,165333,3
+A Deeper Love (From Sister Act 2),Aretha Franklin,6,0GKJfYSyiYi4Yzk18Oi8vf,1,0.824,0.838,4,-7.045,0,0.0437,0.0163,0.000255,0.308,0.761,123.868,282507,4
+A Girl Like You (From Empire Records),Edwyn Collins,3,3AsNVBJ7LHsltdu9490ZiS,55,0.735,0.768,5,-4.481,1,0.0353,0.0197,0.0,0.0643,0.83,104.991,217840,4
+A Girl Like You,Easton Corbin,9,3AsNVBJ7LHsltdu9490ZiS,55,0.735,0.768,5,-4.481,1,0.0353,0.0197,0.0,0.0643,0.83,104.991,217840,4
+A Girl Like You,Gary Stites,7,3AsNVBJ7LHsltdu9490ZiS,55,0.735,0.768,5,-4.481,1,0.0353,0.0197,0.0,0.0643,0.83,104.991,217840,4
+A Smile Like Yours (From A Smile Like Yours),Natalie Cole,8,6I7WwJjJwyHUIvJGEV8eDR,1,0.573,0.47,1,-10.326,1,0.0363,0.674,3.69e-06,0.172,0.148,114.354,262933,4
+A Thin Line Between Love & Hate (From A Thin Line...),H-Town,3,1ZQndK2NBHKKOaS8n1CTGP,45,0.549,0.446,0,-7.807,1,0.258,0.536,0.0,0.0442,0.511,122.431,300000,4
+After All (Love Theme From Chances Are),Cher & Peter Cetera,0,0l0qIbMkD88FiLej1GKz08,0,0.667,0.17,4,-17.535,1,0.0669,0.292,0.904,0.132,0.309,72.997,234387,4
+Ain't Nobody (From Beavis And Butt-Head Do America),LL Cool J,4,4WMBl2wiGUSGa5C7tfQEAo,61,0.801,0.55,10,-11.044,0,0.209,0.365,0.0234,0.117,0.609,94.994,293933,4
+All Alone On Christmas (From Home Alone 2),Darlene Love,8,5LcXgvFrPx26X8ZexNMT0s,39,0.591,0.937,9,-4.296,1,0.0383,0.0342,0.0,0.684,0.795,122.231,249267,4
+All I Want (From GOOD Burger),702,3,717oSBYrcR8awQgUsmyE32,67,0.205,0.973,6,-3.389,0,0.124,0.01,0.0,0.393,0.565,172.689,114667,4
+All Shook Up (From Honeymoon In Vegas),Billy Joel,9,3bUxhKMDYo6PU2rzaBattI,16,0.634,0.848,0,-7.369,1,0.0689,0.565,4.52e-05,0.168,0.886,151.668,128800,3
+All The Things (Your Man Won't Do) (From Don't Be A Menace...),Joe,1,3UGNdLrhhsK0SY9gNqe8TT,58,0.573,0.679,3,-6.774,0,0.0423,0.247,0.0,0.321,0.648,66.215,380533,4
+Almost Unreal (From Super Mario Bros.),Roxette,9,5AKBbv9A9jfPce0KkH27Cd,54,0.542,0.613,4,-5.724,1,0.025,0.0808,0.0,0.126,0.267,92.035,234813,4
+Anything (From Above The Rim),SWV,1,3I9a4Fj43MAkgT0pa54NF7,33,0.693,0.935,5,-4.5,1,0.067,0.0295,4.24e-05,0.429,0.675,95.558,246027,4
+Ask Of You (From Higher Learning),Raphael Saadiq,1,3s2hOHsOLl5DrocMxSrHJD,24,0.589,0.611,6,-9.959,1,0.0483,0.42,0.0,0.12,0.819,86.011,268176,4
+Baby I Love Your Way (From Reality Bites),Big Mountain,0,2le9fblYnfoLr9dkZIsJUa,65,0.651,0.747,1,-7.269,0,0.0699,0.0528,0.0,0.207,0.776,147.518,249520,4
+Back To Paradise (From Revenge Of The Nerds II),Thirty Eight Special,4,04aw9Z6KA36WYzGD2LfcgE,26,0.485,0.323,7,-19.825,1,0.0657,0.901,0.962,0.107,0.136,100.009,81606,4
+Bad Boys (Theme From Cops),Inner Circle,0,0qeKzbUsW0V4ZWRJrHNiD3,68,0.781,0.722,7,-8.376,1,0.0667,0.236,0.000398,0.077,0.533,87.858,229375,4
+Baretta's Theme (Keep Your Eye On The Sparrow),Rhythm Heritage,1,7tcC7oVF6YRrjZiD9Cun09,9,0.69,0.75,0,-7.938,1,0.051,0.158,0.886,0.062,0.968,90.643,309200,4
+Batdance (From Batman),Prince,0,1uzQA5ZKTo6yORbk8WBZ8g,0,0.589,0.597,3,-8.565,0,0.0716,0.0231,0.0796,0.0731,0.232,134.863,356839,4
+Be There (From Beverly Hills Cop II),The Pointer Sisters,4,5wa6RYje89KbruKNFdsIy0,14,0.638,0.623,7,-7.927,1,0.0298,0.421,0.0,0.131,0.58,88.8,282000,4
+Because You Loved Me (From Up Close & Personal),Celine Dion,0,28UMiBhn383n9S7GL4tsxD,73,0.615,0.467,1,-9.883,1,0.0327,0.314,0.0,0.099,0.177,119.919,273667,4
+Big Bad Mamma (From Def Jam's How To Be A Player),Foxy Brown Featuring Dru Hill,5,57YCM7W6GBs1FoGJfVC9wx,49,0.904,0.583,10,-6.778,0,0.169,0.0031,0.000199,0.076,0.648,106.981,231920,4
+Big Gun (From Last Action Hero),AC/DC,6,7zjzu90Q4mtNNaE9Ol9Zbv,59,0.569,0.901,9,-5.197,1,0.0544,0.00555,0.26,0.16,0.839,133.194,259413,4
+Birthday Suit (From Sing),Johnny Kemp,3,2IrPJS5I21gpLydn0HgyiJ,53,0.803,0.505,8,-8.012,1,0.109,0.833,0.000107,0.115,0.74,124.873,73947,4
+Black Superman - Muhammad Ali,Johnny Wakelin & The Kinshasa Band,2,0VrjsVTKknB28kE3DdLk9j,0,0.87,0.643,5,-8.681,1,0.0702,0.463,0.749,0.0729,0.902,106.93,214265,4
+Blaze Of Glory (From Young Guns II),Jon Bon Jovi,0,1sUTfgduT0WIQO8kXKXxLC,65,0.55,0.618,7,-9.822,1,0.0307,0.0564,2.62e-05,0.0937,0.429,78.61,335240,4
+Bohemian Rhapsody (From High School High),The Braids,4,2YSbHu9XF4bNYWt3MnIhgE,54,0.386,0.562,10,-4.363,1,0.03,0.175,9.17e-06,0.209,0.228,72.945,363114,4
+Bucket T,Ronny And The Daytonas,5,3djP82UEfvX6YkM2HGg98s,13,0.548,0.951,8,-7.583,1,0.0628,0.746,0.0,0.392,0.631,105.686,157173,4
+C U When U Get There (From Nothing To Lose),Coolio Featuring 40 Thevz,1,6uWez0py1zc17F7hjp7jIt,55,0.76,0.585,3,-7.307,1,0.161,0.0102,0.000468,0.308,0.455,91.179,311040,4
+It's All The Way Live (Now) (From Eddie),Coolio,2,6uWez0py1zc17F7hjp7jIt,55,0.76,0.585,3,-7.307,1,0.161,0.0102,0.000468,0.308,0.455,91.179,311040,4
+Call Me (From Booty Call),Too Short & Lil' Kim,8,0OHC71Ki4gzrVLfKFSjfMj,34,0.897,0.463,4,-5.116,0,0.346,0.16,5.14e-05,0.0529,0.584,84.991,300333,4
+Can We (From Booty Call),SWV,7,6DJoLa3EsX2PWQAIkjw08F,57,0.775,0.568,8,-8.735,0,0.094,0.133,0.0141,0.0576,0.769,85.452,290627,4
+Can You Feel The Love Tonight (From The Lion King),Elton John,0,0EANX0OVKSCcmarY50Xa4p,59,0.309,0.181,10,-17.022,1,0.0337,0.87,0.000279,0.118,0.146,124.711,241013,4
+Can't Be Wasting My Time (From Don't Be A Menace...),Mona Lisa Featuring Lost Boyz,6,0dbTQYW3Ad1FTzIA9t90E8,67,0.856,0.694,2,-4.393,1,0.169,0.371,0.0,0.109,0.489,122.08,324189,4
+Can't Help Falling In Love (From Sliver),UB40,0,44AyOl4qVkzS48vBsbNXaC,79,0.396,0.293,2,-14.062,1,0.0275,0.941,0.000196,0.105,0.343,100.307,182360,3
+Can't You See (From New Jersey Drive),Total Featuring The Notorious B.I.G.,1,0coGyBNQcxxqkOOT2UhT4v,60,0.744,0.574,8,-9.445,0,0.0655,0.165,1.24e-05,0.295,0.805,86.278,281880,4
+Catch Me (I'm Falling) (From The Film Hiding Out),Pretty Poison,0,6zVXRnA6LkhMpHpJsyUbQv,26,0.745,0.853,9,-7.257,1,0.038,0.00325,0.164,0.0688,0.858,118.61,294373,4
+Century's End (From Bright Lights,Big City),8,4dZhQj20JbKlD9oR0X8kjZ,57,0.319,0.732,4,-4.475,1,0.0436,0.0134,0.0,0.658,0.2,80.195,234427,4
+Circle Of Life (From The Lion King),Elton John,1,5vKkaZHPzuqQheytfKuXzp,53,0.3,0.387,10,-15.321,1,0.0331,0.264,0.215,0.106,0.137,160.587,291600,4
+Closer To Free (From Party Of Five),BoDeans,1,77IQnGNXmFXAMr3YGmloBG,23,0.497,0.875,7,-8.84,1,0.0355,4.59e-05,0.00399,0.625,0.505,98.171,190640,4
+Colors Of The Wind (From Pocahontas),Vanessa Williams,0,7xG1fakElLbxwyr9eyGEK6,47,0.55,0.241,10,-18.092,1,0.0482,0.395,2.37e-05,0.104,0.135,83.964,257867,4
+Computer Game Theme From The Circus,Yellow Magic Orchestra,5,1PDaDtPKDZrtPWPUpx5eOA,26,0.576,0.886,0,-10.208,1,0.227,0.235,0.00414,0.0869,0.465,119.735,106800,4
+Count On Me (From Waiting To Exhale),Whitney Houston & CeCe Winans,0,7l1qvxWjxcKpB9PCtBuTbU,74,0.589,0.389,0,-5.972,1,0.028,0.851,0.0,0.0772,0.501,89.1,197470,4
+Cradle Of Love (From Ford Fairlane),Billy Idol,0,5TSANSqPTD6nBG0NSJWmVB,52,0.612,0.942,3,-4.588,1,0.0399,0.0163,3.9e-06,0.0909,0.622,144.038,281467,4
+Crazy Love (From Jason's Lyric),Brian McKnight,4,1JPmkXo0iBvUc0Zye9C68D,0,0.709,0.254,9,-12.504,1,0.0385,0.0428,0.481,0.122,0.347,130.032,245934,4
+Crooklyn (From Crooklyn),The Crooklyn Dodgers,5,3RxF3Mz5wprRMopI8fp9uF,47,0.842,0.478,2,-9.742,1,0.221,0.0234,1.91e-05,0.892,0.595,95.457,273453,4
+Cross My Broken Heart (From Beverly Hills Cop II),The Jets,0,61Ss9YGGQ9yLcsK9tESN9H,21,0.749,0.946,9,-4.95,0,0.0469,0.16,0.0,0.0206,0.93,116.829,251827,4
+Da'Butt (From The School Daze Soundtrack),E.U.,3,1erQfISWXcYiSsTEYSaNUe,42,0.657,0.886,10,-12.787,0,0.0557,0.0219,0.000405,0.0656,0.747,97.121,314360,4
+Dancehall Queen (From Dancehall Queen),Beenie Man Featuring Chevelle Franklyn,8,6LGTXFy9KNQeBjUHT9fPFh,50,0.837,0.859,10,-6.027,0,0.0783,0.00288,0.0,0.112,0.627,102.772,204413,4
+Don't Cry For Me Argentina (From Evita),Madonna,0,0XzS20zTg74EyoM1dDORlE,25,0.323,0.149,11,-13.906,1,0.0339,0.898,4.2e-06,0.099,0.0788,105.033,335733,5
+Don't Try To Lay No Boogie Woogie On The King Of Rock & Roll,CROW,5,665HokYxCdcuNu1LNMtSJz,3,0.499,0.838,9,-11.644,1,0.0748,0.606,1.67e-05,0.574,0.84,92.598,153040,4
+Don't Wanna Be A Player (From Booty Call),Joe,2,1JmeJIl1Ef7asaGgIN05Ze,44,0.509,0.547,8,-5.675,0,0.0619,0.534,0.0,0.0461,0.878,81.736,307160,4
+"Don't Worry, Be Happy (From Cocktail)",Bobby McFerrin,0,4hObp5bmIJ3PP3cKA9K9GY,69,0.675,0.166,11,-22.602,1,0.171,0.88,7.14e-05,0.0461,0.747,68.837,294400,4
+Doubleback (From Back To The Future Part III),ZZ Top,4,6zGDIDjfDkPyNxrEERO3XG,70,0.58,0.885,0,-5.154,0,0.0715,0.1,0.00157,0.146,0.788,145.405,137933,4
+Down 4 Whateva (From A Low Down Dirty Shame),Nuttin' Nyce,9,03WsrEB8eyCeUfvRxGP5JX,28,0.688,0.719,11,-6.038,1,0.0582,0.0363,1.29e-06,0.297,0.653,97.75,287867,4
+Earth Angel (From The Karate Kid Part II),New Edition,2,7mmK2PxF4JJugHebLYwBQf,46,0.687,0.595,11,-10.812,1,0.0289,0.226,0.00194,0.0741,0.65,108.13,217173,4
+End Of The Road (From Boomerang),Boyz II Men,0,3l3xTXsUXeWlkPqzMs7mPD,71,0.64,0.427,5,-9.29,0,0.0241,0.0664,0.0,0.0579,0.529,149.703,351467,3
+Evergreen (Love Theme From A Star Is Born),Barbra Streisand,0,2IcqY68BxP1ONPi3ME6aje,61,0.335,0.303,9,-10.943,1,0.0315,0.932,0.0271,0.0907,0.186,114.224,184800,4
+Exhale (Shoop Shoop) (From Waiting To Exhale),Whitney Houston,0,1X3ypzPnyerpZuMqrDFK29,55,0.661,0.394,1,-9.032,1,0.0318,0.401,0.0,0.119,0.107,137.954,204333,4
+Family Affair (From Addams Family Values),Shabba Ranks Featuring Patra And Terri & Monica,8,2fp9PZRJEOCrP4qR8ZONGs,38,0.395,0.453,3,-8.19,1,0.0427,0.483,0.802,0.86,0.28,98.394,118587,3
+Feel The Funk (From Dangerous Minds),Immature,4,1rsiOPGazUoIEcerHVIwJG,8,0.711,0.608,0,-6.586,1,0.0422,0.381,0.0,0.315,0.381,136.96,292413,4
+Fly Like An Eagle (From Space Jam),Seal,0,2gYnjDEz020IZvYcyTLWck,45,0.63,0.692,7,-8.377,1,0.0497,0.00414,4.26e-05,0.0817,0.574,97.096,253773,4
+For You I Will (From Space Jam),Monica,0,2b29qJRy4asbQNFjPO96XC,57,0.652,0.473,0,-7.981,0,0.0313,0.243,0.0,0.134,0.368,123.208,294867,4
+Forever Love (From Mo' Money),Color Me Badd,1,7ifvMWQjNFPAm05viR361v,24,0.532,0.331,9,-12.021,1,0.0292,0.445,1.06e-06,0.0942,0.198,135.799,313000,4
+Freddie's Dead (Theme From Superfly),Curtis Mayfield,0,3eA6WNRUSli1tKbey3B4wE,19,0.462,0.864,1,-5.655,0,0.0899,0.0129,0.0172,0.0796,0.806,90.437,200867,4
+Freedom (From Panther),Various Artists,4,6KufYdEosLjK6bEKPyz4oA,43,0.773,0.389,1,-8.444,0,0.0337,0.579,7.87e-06,0.124,0.338,111.975,236653,4
+Full Term Love (From Class Act),Monie Love,9,3ElzfUd4mAidozqwNKyFVk,11,0.912,0.543,10,-11.63,0,0.0794,0.232,0.2,0.124,0.397,113.31,182600,4
+Gangsta's Paradise (From Dangerous Minds),Coolio Featuring L.V.,0,1DIXPcTDzTj8ZMHt3PDt8p,86,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,240693,4
+Get It Up (From Poetic Justice),TLC,4,1zzmsLdx09eAIsB51QGkeJ,29,0.745,0.701,5,-9.302,0,0.0477,0.0104,0.0161,0.428,0.793,105.09,263893,4
+Get Your Groove On (From Baps),Gyrl,9,3Ye4lLxSc4Sbnqc8mCxAqS,38,0.555,0.811,10,-7.483,0,0.498,0.0301,0.0,0.108,0.565,77.073,324707,4
+"Girl, You'll Be A Woman Soon (From Pulp Fiction)",Urge Overkill,5,1mSzuXVjjKC0bPh6iG6xjy,64,0.514,0.584,5,-13.049,1,0.042,0.0698,0.000183,0.205,0.557,114.145,189627,4
+Give U My Heart (From Boomerang),Babyface (Featuring Toni Braxton),2,6pMliTILbMMQJVFvru12DX,40,0.71,0.749,8,-10.485,1,0.0496,0.0723,1.76e-05,0.0519,0.819,103.852,301627,4
+Glory Of Love (Theme From The Karate Kid Part II),Peter Cetera,0,70SEB2Lmmkpo5oRtyHksrY,56,0.645,0.6,10,-7.605,1,0.0252,0.0834,0.0,0.0599,0.411,143.48,246880,4
+Go The Distance (From Hercules),Michael Bolton,2,2ji5iiVBr5yQl0BDDOpKws,0,0.393,0.299,2,-10.96,1,0.0312,0.237,0.807,0.126,0.177,126.529,275000,4
+Going Back To Cali (From Less Than Zero),LL Cool J,3,4Fkr6zTAxsXbG9kG8ISqos,48,0.916,0.662,9,-16.404,0,0.605,0.00464,0.00346,0.138,0.406,135.65,249267,4
+Gonna Catch You (From Cool As Ice),Lonnie Gordon,7,227rjyNRWbipxz1bMnZ4ZE,40,0.84,0.668,7,-9.071,1,0.0461,0.000825,1.05e-05,0.223,0.953,121.649,231040,4
+Gonna Fly Now (Theme From Rocky),Maynard Ferguson,2,3Uaf6IEotRNfgBGRdfaZ1y,1,0.656,0.764,9,-3.633,0,0.0582,0.575,0.488,0.41,0.717,120.064,281253,4
+Good Times (From The Lost Boys),INXS & Jimmy Barnes,4,5UDIOboF6XMphU2MNBumVK,45,0.529,0.987,2,-5.991,1,0.0927,0.0525,0.0565,0.398,0.617,157.145,231320,4
+Gotta Have You (From Jungle Fever),Stevie Wonder,9,6zYUYfZ5wzJUN8BhL0nA4k,13,0.766,0.49,10,-10.124,0,0.0531,0.0265,1.41e-05,0.0552,0.499,110.001,386307,4
+Guilty (From Seven),Gravity Kills,8,4nqQdp1m4nBvPx1Gnncr4L,15,0.62,0.875,10,-10.078,0,0.0528,1.89e-05,0.777,0.261,0.615,129.08,244960,4
+Hearts In Trouble (From Days Of Thunder),Chicago,7,1tRjTcKUYaU67oPojBcHnu,13,0.555,0.838,5,-9.055,1,0.0352,0.0342,3.88e-05,0.0654,0.564,86.78,316493,4
+Here Comes The Hotstepper (From Ready To Wear),Ini Kamoze,0,3QRM0qZB7oMYavveH0iEqx,66,0.889,0.454,4,-8.598,0,0.221,0.0141,0.000186,0.203,0.436,100.36,250467,4
+Hey D.J. (From Mi Vida Loca),Lighter Shade Of Brown,4,5IlvMPst0Agrezxb0lqta2,38,0.74,0.92,1,-7.627,0,0.0777,0.0152,0.00177,0.0336,0.656,100.005,239973,4
+Hippy Hippy Shake (From Cocktail),The Georgia Satellites,4,5tORtBzHUAnNrIw5Ql3kHZ,63,0.577,0.807,2,-9.281,1,0.0449,0.00233,0.000257,0.0755,0.891,114.921,205000,4
+Hoop In Yo Face (From Sunset Park),69 Boyz Featuring Quad City DJ's,9,3YMy6tfCqOwV5n3DYl4uHn,16,0.846,0.581,0,-12.093,1,0.169,0.0387,0.0,0.236,0.886,143.064,176600,4
+How 'Bout Us (From True Love),Grayson Hugh & Betty Wright,6,0v1e4a7Hvedrz6vJss0iu9,46,0.837,0.383,10,-13.166,1,0.0312,0.702,1.26e-06,0.0625,0.776,95.076,258400,4
+How Could You (From Bulletproof),K-Ci & JoJo,5,7wB9sL81rFRGhRt6msZ9CV,70,0.573,0.17,11,-10.576,1,0.0555,0.834,3.08e-06,0.108,0.28,146.749,187813,3
+How Do I Live (From Con Air),Trisha Yearwood,2,1phY39HqrB7VDZpmFhWak4,16,0.564,0.447,2,-7.174,1,0.0271,0.615,0.0,0.109,0.15,125.827,241380,4
+How High (From The Show),Redman/Method Man,1,1EGIeHEvMZh3MNkIn2itUy,50,0.567,0.873,6,-7.341,0,0.675,0.222,0.0,0.299,0.728,186.039,282507,4
+Hungry Eyes (From Dirty Dancing),Eric Carmen,0,31H6au3jhblhr6MMJiXnCq,73,0.712,0.549,5,-9.484,1,0.0254,0.011,0.0,0.118,0.552,109.882,251067,4
+Hypnotize Me (From Innerspace),Wang Chung,3,5cby7xWUTVlC1Og8roSpnZ,18,0.622,0.891,11,-5.894,0,0.0471,0.151,0.000218,0.116,0.802,114.247,280133,4
+I Believe I Can Fly (From Space Jam),R. Kelly,0,3oTslPdCJFy9oaDoJ4N4jC,43,0.643,0.483,7,-6.89,1,0.0267,0.352,0.0,0.117,0.15,123.912,303240,4
+I Believe In You And Me (From The Preacher's Wife),Whitney Houston,0,1kwNHkKXJ4c4MchgATAOBJ,49,0.434,0.268,1,-11.52,0,0.0355,0.785,0.0,0.0881,0.121,119.804,241960,4
+I Can Go Deep (From A Low Down Dirty Shame),Silk,7,5vUwNH4r5BTP5PrcJhSq5o,32,0.737,0.575,5,-9.554,0,0.0284,0.00256,0.0,0.0939,0.434,121.973,286400,4
+I Can See Clearly Now (From Cool Runnings),Jimmy Cliff,1,7aJZxI6TVdIvQSuWxQ4rqp,63,0.799,0.662,7,-8.585,1,0.0347,0.00482,0.000505,0.0484,0.717,120.082,196000,4
+I Don't Wanna Fight (From What's Love Got To Do With It),Tina Turner,0,4kOfxxnW1ukZdsNbCKY9br,68,0.851,0.406,1,-11.631,1,0.0661,0.219,6.41e-06,0.0853,0.792,97.84,226880,4
+I Finally Found Someone (From The Mirror Has Two Faces),Barbra Streisand & Bryan Adams,0,4m4CSQWEa9RthaMOWlwsea,0,0.56,0.264,6,-13.7,1,0.0277,0.549,0.872,0.0783,0.144,139.988,218000,4
+I Heard A Rumour (From Disorderlies),Bananarama,0,1aVhY5jrweeM10VfJkklBG,15,0.699,0.996,6,-6.392,0,0.0571,0.121,0.753,0.333,0.837,123.283,433227,4
+I Like (From The Nutty Professor),Montell Jordan Featuring Slick Rick,2,4ApalXtrakg9pfXbnHjpHr,39,0.849,0.587,8,-4.703,1,0.103,0.0869,0.0,0.0913,0.59,95.906,281467,4
+I Love Music (From Carlito's Way),Rozalla,7,7bf3WkBlgMvE2n0F96LQja,14,0.714,0.686,2,-8.428,0,0.0294,0.0376,0.0043,0.0853,0.842,125.982,290000,4
+I Miss You (Come Back Home) (From New York Undercover),Monifah,5,6nXzKd8oA6N1qgG1vMZUKe,44,0.639,0.495,5,-10.783,0,0.356,0.0738,0.0,0.0682,0.833,175.982,233867,4
+I Wanna Love You (From Class Act),Jade,1,1PaoWpjqzkbHu29LrSStO9,8,0.731,0.707,0,-9.79,0,0.0769,0.0596,0.00654,0.264,0.838,200.306,271400,4
+I Wanna Make Love To You (From Innocent Blood),Rhythm Syndicate,7,2Tyy84ACzVa8JNYg9rZPMS,20,0.828,0.915,7,-6.4,0,0.0663,0.00638,0.000433,0.0684,0.792,127.014,207874,4
+I Wanna Sex You Up (From New Jack City),Color Me Badd,0,3lsse1FoSHnNXc6y0jHxvd,50,0.551,0.591,6,-8.404,0,0.12,0.00549,6.55e-06,0.0416,0.474,201.81,236947,4
+I Want Your Sex (From Beverly Hills Cop II),George Michael,0,6QnFHieoch6U9J8zfv6hml,50,0.812,0.6,10,-13.418,0,0.0538,0.00509,0.0248,0.0465,0.8,99.189,557293,4
+I'd Die Without You (From Boomerang),P.M. Dawn,0,5MAWGXxVxFNig7swSJUTP5,49,0.543,0.266,1,-18.813,1,0.0443,0.256,0.00093,0.0993,0.343,79.992,250693,4
+I'll Remember (From With Honors),Madonna,0,00U0pedRUMEzREpyRqbVT6,52,0.691,0.598,7,-9.699,1,0.043,0.625,0.0174,0.0709,0.842,167.797,263813,4
+I'll Take You There (From Threesome),General Public,2,0S0XOvp7UlGnLRNySwVBJ7,0,0.766,0.661,4,-8.915,1,0.0456,0.00554,0.892,0.0485,0.852,100.949,227788,4
+I'm Dreamin' (From New Jack City),Christopher Williams,8,04VArZKHm1xesMxqnsutDY,50,0.787,0.743,6,-9.34,1,0.0581,0.248,7.07e-06,0.242,0.692,110.137,303707,4
+I'm Every Woman (From The Bodyguard),Whitney Houston,0,1kRDN664irlEou8Pc7iP2G,33,0.698,0.818,5,-9.621,0,0.0607,0.0283,0.188,0.103,0.346,121.563,342733,4
+If I Could Change (From I'm Bout It),The Lemonheads,5,1DvlX3jxWSmVrcnD0dipmT,45,0.498,0.913,9,-6.167,1,0.0323,0.00635,0.0371,0.0959,0.701,136.965,170907,4
+If You Asked Me To (From Licence To Kill),Patti LaBelle,7,2BvBND9pWHh0EDUgcEdXfy,42,0.484,0.441,5,-10.63,1,0.0254,0.453,0.000327,0.276,0.275,173.18,239827,4
+Iko Iko (From Rain Man),The Belle Stars,1,0sXuP9uIFdL9AQbMGhRTIG,48,0.705,0.987,1,-8.628,1,0.0631,0.107,0.711,0.358,0.735,104.249,179173,4
+In The Still Of The Nite (From The Jacksons),Boyz II Men,0,2tbSiDmrerPi24rEIBwtkh,45,0.537,0.184,9,-15.886,1,0.0381,0.792,0.0,0.126,0.217,77.817,169840,4
+In Your Eyes (Theme From Say Anything),Peter Gabriel,2,2CSKrrVQDXe1aFiDPeZCQd,1,0.549,0.651,9,-12.797,1,0.0359,0.182,0.376,0.042,0.774,177.988,302693,4
+Indo Smoke (From Poetic Justice),Mista Grimm,5,63KcYWznO0w3J5wymiT9QK,44,0.785,0.556,0,-11.7,0,0.271,0.0288,0.0,0.482,0.601,98.836,322227,4
+Insensitive (From Bed Of Roses),Jann Arden,1,0yx00RNuvZY5Vn8nlpUnMk,54,0.512,0.429,2,-9.931,1,0.0256,0.154,8.81e-05,0.101,0.332,178.669,255893,4
+It Must Have Been Love (From Pretty Woman),Roxette,0,6kvoHl80mfCVTv7XnZkjQn,76,0.52,0.652,5,-6.655,1,0.0274,0.34,5.49e-05,0.256,0.722,80.609,258787,4
+It's Alright (From South Central),Classic Example,6,004PIEF9BOzmvBuAt0xWwF,1,0.508,0.88,7,-4.562,1,0.0374,0.00129,0.00321,0.103,0.888,150.408,213853,4
+It's For You (From The Meteor Man),Shanice,5,2ubGGijOZIwltCnkd3KfEN,8,0.702,0.659,10,-8.199,0,0.0356,0.153,1.36e-06,0.0562,0.584,102.997,250244,4
+Just Ask Me To (From Boyz N The Hood),Tevin Campbell,8,0gzjfF1qKORte5h0kKHQfB,22,0.738,0.816,1,-6.74,1,0.0528,0.0579,3.91e-06,0.0862,0.682,109.899,248040,4
+"Keep On, Keepin' On (From Sunset Park)",MC Lyte Featuring Xscape,0,42aZFX1bcCDj75ue0KoNSd,47,0.875,0.63,1,-6.015,0,0.114,0.24,0.00011,0.0742,0.733,91.043,271440,4
+Keep Their Heads Ringin' (From Friday),Dr. Dre,0,7jIujRjK5JKNrMCcAvYUTN,68,0.672,0.777,9,-4.238,0,0.0956,0.0379,0.00141,0.159,0.238,90.575,305573,4
+King Of Wishful Thinking (From Pretty Woman),Go West,0,3skQ5rgyt4zptzxhJ9fBpm,30,0.678,0.9,0,-6.191,1,0.0534,0.142,0.0,0.135,0.821,107.823,242720,4
+Kiss And Tell (From Bright Lights,Big City),3,6paRT1EX03VgmzGFEfjkpI,43,0.61,0.744,7,-6.219,0,0.0357,0.15,1.58e-06,0.115,0.457,126.976,297253,4
+Kokomo (FromCocktail ),The Beach Boys,0,5qHYXcVvc9xsFB2uH7GpMN,71,0.682,0.635,0,-10.05,1,0.0346,0.00863,0.0,0.137,0.927,115.584,217693,4
+Lara's Theme from Dr. Zhivago,Roger Williams,6,00YhuN9oOmXUyLQiHjXPxt,1,0.361,0.28,7,-13.422,1,0.0294,0.821,0.435,0.144,0.213,82.298,160173,3
+Last Night (From The Nutty Professor),Az Yet,0,3ZvJKPAZZ9Uekb868MOJGJ,28,0.555,0.543,3,-8.874,0,0.0272,0.428,0.0,0.105,0.359,164.021,269027,4
+Let It Go (From Set It Off),Ray J,2,6igXETl1zKir06CA7NWYo2,15,0.853,0.515,0,-5.081,1,0.0453,0.0547,7.79e-05,0.0519,0.859,93.026,293129,4
+Let The River Run (Theme From Working Girl),Carly Simon,4,3McvK4b1x9B7z9Rjc45oyG,40,0.4,0.317,4,-9.585,1,0.0292,0.857,2.17e-06,0.102,0.135,156.214,196240,4
+Let's Go Through The Motions (From Who's The Man?),Jodeci,6,5xE7sFTlv2yrG9mmhDSpdq,56,0.72,0.657,11,-6.823,0,0.295,0.0262,2.33e-06,0.209,0.657,172.168,295387,4
+Let's Lay Together (From Don't Be A Menace...),The Isley Brothers,9,7teF2kwC3GL00mQfwtxzo9,57,0.686,0.374,11,-11.029,0,0.0439,0.665,1.91e-05,0.101,0.693,102.879,339960,4
+Live My Life (From The Film Hiding Out),Boy George,3,48O0GrGJWml3DzHhC5sJ7a,61,0.676,0.577,10,-12.031,1,0.0365,0.186,0.0,0.148,0.934,91.98,241600,4
+Look Into My Eyes (From Batman & Robin),Bone Thugs-N-Harmony,0,4ISp82TYvp9G3HTA2dPzQu,45,0.775,0.598,10,-5.898,0,0.0597,0.0468,0.000125,0.14,0.597,144.043,259800,4
+Love Is (From Beverly Hills,90210),0,3Mr4AcClzUMwXTAVBfsjgt,0,0.555,0.263,1,-14.426,1,0.0269,0.146,1.69e-05,0.13,0.0754,80.101,286242,4
+Love Shoulda Brought You Home (From Boomerang),Toni Braxton,3,4IsnUEgEcb7epezwgWCBJn,47,0.556,0.798,2,-6.531,1,0.0367,0.0549,4.33e-06,0.37,0.59,175.653,298227,4
+Love Theme From Eyes Of Laura Mars (Prisoner),Barbra Streisand,2,2X51AKflJTB6IVPwrbMtMS,22,0.349,0.427,4,-13.096,0,0.0365,0.271,9.73e-05,0.442,0.273,126.029,233200,4
+Love Theme From Romeo And Juliet (A Time For Us),Johnny Mathis,9,7kBGFnJ9ypIdfyTCgmVICL,25,0.247,0.496,9,-8.522,0,0.0368,0.887,0.000702,0.0705,0.315,75.226,174987,3
+Love Theme From The Godfather (Speak Softly Love),Andy Williams,3,3NNM8rlskOvhul2y9PDl8u,43,0.264,0.202,0,-15.677,0,0.0305,0.774,0.000128,0.287,0.256,146.008,182840,3
+Love Theme From The Godfather,Carlo Savina,6,39zu6JGd6tvRNsqyK78RLk,58,0.198,0.221,1,-12.706,1,0.0355,0.927,0.92,0.0797,0.0851,68.932,158960,4
+Love Theme From The Sandpiper (The Shadow Of Your Smile),Tony Bennett,9,66YI4JFp7BcMcepibGprsN,39,0.306,0.098,7,-17.247,1,0.032,0.941,0.0508,0.0974,0.0966,110.333,217893,4
+Love Touch (Theme From Legal Eagles),Rod Stewart,0,3aJrPU9tHoaAMGTTVtUAyN,36,0.494,0.762,4,-13.15,1,0.0448,0.0381,2.33e-05,0.0475,0.831,179.009,243933,4
+Machinehead (From Fear),Bush,4,6dJODklApmve5IzgKWUqV2,64,0.143,0.919,9,-4.438,1,0.11,2.57e-05,0.00427,0.134,0.201,172.668,256333,3
+Main Title (Theme From Jaws),John Williams/Jaws Soundtrack,3,1g10rYqM3jJQsWRnXCFcx7,40,0.164,0.0634,9,-24.086,1,0.055,0.847,0.949,0.0927,0.0363,168.214,206507,4
+Man Size Love (From Running Scared),Klymaxx,1,3TyhfD8fjfkzg9ujAM9qPO,12,0.82,0.856,11,-5.574,0,0.0425,0.183,3.04e-06,0.0388,0.879,123.006,254533,4
+Medley From Superstar (A Rock Opera),The Assembled Multitude,9,1tRipF8otglG45CiFZ8giv,48,0.854,0.524,2,-8.239,1,0.0479,0.0207,1.01e-06,0.126,0.69,123.982,141290,4
+"Men Of Steel (From Steel),Shaquille O'Neal, Ice Cube, B Real", Peter Gunz & KRS-One,8,1eSsXKgo5O6VdF7HS4eZcT,52,0.583,0.688,9,-6.895,0,0.0365,0.00724,0.0,0.208,0.405,140.083,185529,4
+Mighty O,OutKast,7,25EtWmcUALs9Gtfiv7Bcab,38,0.449,0.698,5,-5.733,1,0.276,0.00615,0.0,0.325,0.516,83.373,256227,4
+Miracle (From Young Guns II),Jon Bon Jovi,1,0OFUZeNNCpUGdmipLkDdl1,0,0.634,0.503,3,-13.448,1,0.0264,0.0115,0.739,0.152,0.635,92.004,293329,4
+"Missing You (From Set It Off),Brandy, Tamia", Gladys Knight & Chaka Khan,2,0BP2RFjKRSmNtkJW3f1nhR,44,0.581,0.505,4,-5.434,1,0.0309,0.231,0.0,0.142,0.131,135.594,252494,4
+Modern Woman (From Ruthless People),Billy Joel,0,3mKQNeg21d4OhHVOPLVL4p,0,0.796,0.588,5,-10.598,0,0.0726,0.354,6.21e-05,0.162,0.792,143.518,217150,4
+Money Can't Buy You Love (From Mo' Money),Ralph Tresvant,5,3wKLhabbf6rOPGXBvvMU6G,36,0.677,0.939,5,-6.219,0,0.0432,0.15,0.0365,0.185,0.832,108.282,360160,4
+Mr. Loverman (From Deep Cover),Shabba Ranks,3,2IVsRhKrx8hlQBOWy4qebo,77,0.639,0.526,0,-6.697,1,0.0256,0.245,2.43e-05,0.25,0.488,130.033,216880,3
+My Fantasy (From Do The Right Thing),Teddy Riley Featuring Guy,6,0f1uqm2rwQACn7mRbGQiOR,21,0.713,0.955,7,-4.898,1,0.0548,0.256,4.21e-05,0.0503,0.639,113.322,297667,4
+My Heart Is Calling (From The Preacher's Wife),Whitney Houston,7,4w0cBvy6wMmV8iA60cTYXl,31,0.857,0.527,7,-8.694,1,0.0534,0.134,2.4e-06,0.053,0.509,92.904,254573,4
+My Sharona (From Reality Bites),The Knack,9,1HOMkjp0nHMaTnfAkslCQj,73,0.586,0.7,0,-9.558,1,0.0363,0.0589,0.00125,0.0318,0.897,147.245,295400,4
+Natural One (From Kids),Folk Implosion,2,7ihXfmqUDsqQOJQa54Ic3M,29,0.677,0.463,4,-10.743,1,0.0304,0.53,7.17e-06,0.0988,0.481,110.908,179006,4
+Never Should've Let You Go (From Sister Act 2),Hi-Five,2,6f6TpRQi9FQ6WtJNeiHhZb,1,0.74,0.599,10,-6.959,1,0.0231,0.327,0.0,0.0918,0.747,107.913,280653,3
+New Age Girl (From Dumb And Dumber),Deadeye Dick,2,5dElQ5GWEMl9BvEn3bsULT,38,0.548,0.858,1,-2.435,1,0.0757,0.185,0.0,0.251,0.774,138.026,196804,4
+New Jack Hustler (Nino's Theme) (From New Jack City),Ice-T,6,3kPFTuTu8rBgSoglYRBRiE,27,0.83,0.859,7,-9.213,1,0.124,0.000956,0.0,0.214,0.653,109.319,283307,4
+Nights Like This (From The Five Heartbeats),After 7,2,6KYOzBfCt8uGxQrVG8UhcJ,40,0.707,0.644,8,-7.017,1,0.0287,0.174,0.0,0.069,0.576,97.127,242000,4
+Nine More Miles (The Faster-Faster Song),Georgie Young,5,1eIK074m2N2klVFCY6tyrw,1,0.0,0.858,0,-5.866,1,0.0,0.667,0.0,0.222,0.0,0.0,149960,0
+No More I Love You's,Annie Lennox,2,2Pn5gvVioma5LHPxgEBBmD,61,0.372,0.57,3,-7.305,1,0.0305,0.517,2.57e-06,0.141,0.234,179.907,291333,4
+No One But You (From Baps),Veronica (Featuring Craig Mack),6,6NbHLtMNIefO9nDFyAedEf,45,0.358,0.427,7,-9.18,1,0.0296,0.0976,1.07e-05,0.0849,0.0694,145.891,535720,4
+Nobody's Fool (Theme From Caddyshack II),Kenny Loggins,0,1sCgHtOZFYWNbZ51xUOQaS,38,0.674,0.676,5,-10.397,1,0.0367,0.176,0.0,0.0873,0.561,123.614,257733,4
+Not Gon' Cry (From Waiting To Exhale),Mary J. Blige,0,78wi1g772j8eJPEnD8rr9z,39,0.764,0.41,2,-8.988,0,0.0418,0.652,0.0,0.0784,0.43,110.158,298173,4
+Nothin' But The Cavi Hit (From Rhyme & Reason),Mack 10 & Tha Dogg Pound,3,2rwmKpWW6o6anOhvcyiJOw,55,0.852,0.741,1,-5.435,0,0.134,0.0247,0.00106,0.0974,0.535,97.894,241360,4
+Nuthin' But A G Thang,Dr. Dre,0,5Tbpp3OLLClPJF8t1DmrFD,77,0.669,0.821,11,-4.37,0,0.29,0.00182,0.0,0.147,0.684,94.895,237573,4
+Old Times' Sake (From Above The Rim),Sweet Sable,9,2uBjAVHNUlUYJUdnpyJ53a,36,0.671,0.87,6,-5.822,0,0.0392,0.0647,0.000874,0.351,0.516,82.417,259173,4
+On Our Own (From Ghostbusters II),Bobby Brown,0,0cAiOfc6uxr6NCyQ80ZigK,45,0.671,0.843,2,-8.5,1,0.0534,0.00501,0.0,0.0639,0.496,102.696,290000,4
+Peaches N Cream,The Ikettes,3,6DgkIsP92IlCx9UggOKVyg,0,0.825,0.366,0,-11.901,1,0.0441,0.712,0.000174,0.143,0.784,84.123,148695,4
+Play My Funk (From Sugar Hill),Simple E,7,0784emAlDLuQtgeL4QV4tJ,43,0.868,0.785,8,-10.068,1,0.157,0.105,0.0,0.214,0.799,103.112,221733,4
+Powerful Stuff (From Cocktail),The Fabulous Thunderbirds,6,5A6NxpltFMv6jCsuA1qRHQ,48,0.58,0.663,6,-11.48,0,0.0385,0.0735,0.00211,0.645,0.718,116.305,202400,4
+Pushin' Inside You (From How Bout It),Sons Of Funk,9,5B0nbPmSWVUErNU4JZVxea,11,0.692,0.45,4,-6.566,0,0.0645,0.126,0.0,0.2,0.737,136.258,167027,4
+Regulate (From Above The Rim),Warren G & Nate Dogg,0,7nYvUtkQMx1v80S2FH2s9J,75,0.849,0.521,11,-12.999,0,0.216,0.304,1.65e-06,0.115,0.763,95.265,248867,4
+Remember Me This Way (From Casper),Jordan Hill,7,7plovQ8h25uA2eQMxGplw8,25,0.48,0.199,0,-16.559,1,0.0324,0.755,0.0,0.0872,0.253,120.905,268133,4
+Return Of The Crooklyn Dodgers (From Clockers),Crooklyn Dodgers '95,9,57iKOKfcj8wVZp6Il1wU4f,40,0.819,0.825,1,-7.642,1,0.238,0.00426,2.6e-06,0.285,0.583,93.761,304841,4
+Revolution (From Malcolm X),Arrested Development,8,493elAvN77i8grG3M7jAri,2,0.839,0.529,6,-10.649,0,0.362,0.149,1.77e-05,0.0972,0.841,97.205,289440,4
+Roc Ya Body Mic Check 1,2,8,6YNkhGL8flsaVVHuZJzUE7,6,0.809,0.899,1,-7.651,1,0.119,0.0513,1.25e-05,0.333,0.962,103.022,217173,4
+Rock On (From Dream A Little Dream),Michael Damian,0,1W7MAHey0R16cik9oumfwZ,5,0.381,0.47,1,-7.262,1,0.0277,0.857,4.35e-05,0.167,0.341,94.362,239337,3
+Saving Forever For You (From Beverly Hills,90210),0,2z9dI2vXgMI6lKaUcu4Pr4,9,0.688,0.448,9,-9.369,1,0.0381,0.0739,2.18e-06,0.0337,0.626,136.169,260000,4
+Scarred (From Eddie),Luke,6,0NXA8wKGM6eRgLzpJXanGL,41,0.846,0.922,7,-5.185,1,0.242,0.0272,0.0,0.76,0.908,146.726,206054,4
+Shakedown (From Beverly Hills Cop II),Bob Seger,0,303oOLP2Jf6M4rke52qItM,51,0.571,0.944,2,-5.365,1,0.072,0.0323,3.26e-06,0.308,0.498,170.696,241947,4
+Shame (From A Low Down Dirty Shame),Zhane,2,1apzxNzMksJZtbDBKFIsdx,34,0.778,0.784,11,-4.092,0,0.0384,0.126,0.0049,0.168,0.893,107.22,254973,4
+Shy Guy (From Bad Boys),Diana King,1,3ldG6XCLDXxWg1N6XhrSKo,60,0.714,0.825,11,-5.447,0,0.0751,0.0128,0.000569,0.049,0.751,94.074,258560,4
+Silence Is Broken (From Nowhere To Run),Damn Yankees,6,3jaRUUaJUvS57h1DyVzUUX,47,0.48,0.72,7,-5.607,1,0.0283,0.0116,0.0,0.114,0.383,76.54,279847,4
+Sittin' Up In My Room (From Waiting To Exhale),Brandy,0,4330XmgVWlx98Y3Naswycg,51,0.796,0.515,8,-8.083,0,0.0276,0.245,0.00196,0.0515,0.9,93.278,292067,4
+So Far So Good (From About Last Night),Sheena Easton,4,2I4u1DU7rCijbtR2F3dgx6,50,0.777,0.809,8,-4.611,1,0.0802,0.0253,7.47e-06,0.296,0.913,110.006,171290,4
+So Many Ways (From High School High),The Braxtons,8,2v237BGQHUJWNyy449aiAh,18,0.846,0.415,8,-9.799,1,0.0432,0.298,3.83e-06,0.0485,0.761,91.881,235707,4
+Someday (From The Hunchback Of Notre Dame),All-4-One,2,0LY1DGU1xAWJOFHTMLYBMS,38,0.22,0.174,6,-20.329,0,0.0307,0.378,0.0,0.0944,0.106,167.178,260493,3
+Somewhere Out There (From An American Tail),Linda Ronstadt & James Ingram,0,6Zd6gSMyyjSybIw4lK9Ecy,53,0.32,0.221,0,-16.302,1,0.0328,0.817,0.000137,0.0977,0.116,80.04,238173,4
+Soul To Squeeze (From Coneheads),Red Hot Chili Peppers,2,6pkzrU2RKoPcQJHT7dwlbP,33,0.663,0.546,5,-5.234,1,0.0269,0.0322,0.000572,0.107,0.656,88.171,289533,4
+Soul Train 75,Soul Train Gang,7,7LP7EujcqXOswvYAOK8Jyx,3,0.675,0.777,0,-9.353,1,0.0349,0.00624,5.07e-05,0.214,0.85,129.642,310267,4
+Space Jam (From Space Jam),Quad City DJ's,3,683hRieVmYdAhVA1DkjSAk,58,0.798,0.952,11,-4.78,0,0.0401,0.064,0.000513,0.287,0.843,132.031,304960,4
+Spin The Bottle (From Reality Bites),The Juliana Hatfield 3,9,4V5Uyt51YzGM0Z3P3ubHsb,31,0.611,0.536,4,-7.241,1,0.028,0.596,0.0,0.0807,0.721,148.434,143267,5
+Stay (I Missed You) (From Reality Bites),Lisa Loeb & Nine Stories,0,00U1MDChdOTxWwtKoOoBXE,61,0.612,0.591,1,-7.02,1,0.051,0.462,0.0,0.111,0.349,160.659,184333,4
+Step By Step (From The Preacher's Wife),Whitney Houston,1,5dEBcymDDG9TUjJnAouOPp,55,0.752,0.79,2,-8.648,1,0.0507,0.0797,5.78e-05,0.284,0.202,115.976,252533,4
+Streets Of Philadelphia (From Philadelphia),Bruce Springsteen,0,5Nj8kBJdpJJ4I9wxQyp8JH,53,0.708,0.19,5,-16.578,1,0.0326,0.194,0.226,0.0916,0.47,93.669,252493,4
+Streiht Up Menace (From Menace II Society),MC Eiht,7,4FhUkIkE5lPHEMgVYA9lBp,24,0.75,0.476,7,-11.498,1,0.16,0.00113,0.0156,0.311,0.517,79.872,276360,4
+Summertime In The LBC (From The Show),The Dove Shack,5,7yOze3trRklt4gGPGyjVwN,53,0.697,0.364,5,-9.504,1,0.0316,0.498,4.84e-05,0.0828,0.482,99.025,238800,4
+Surrender To Me (From Tequila Sunrise),Ann Wilson & Robin Zander,0,0Mqlf5OTGoeUgoeqL1Mzew,42,0.37,0.683,11,-5.702,0,0.036,0.452,8.11e-06,0.167,0.118,148.052,244733,4
+Sweet Freedom (Theme From Running Scared),Michael McDonald,0,4ZsYF5rjUXIwds6KNimPRo,46,0.778,0.625,0,-12.031,0,0.0402,0.106,0.0166,0.0678,0.962,114.863,459907,4
+Sympathy For The Devil (Interview With The Vampire),Guns N' Roses,5,4InpYF6IH5bhuHwG0R0faj,55,0.31,0.945,8,-6.713,1,0.167,0.0173,0.0074,0.211,0.242,108.437,455560,4
+Take My Breath Away (Love Theme From Top Gun),Berlin,0,15MJ5NThPjj6xhPcts8MiY,73,0.497,0.719,6,-9.397,1,0.0266,0.0613,0.0,0.411,0.547,95.769,255733,4
+Tarzan Boy (From Teenage Mutant Ninja Turtles III),Baltimora,1,273uCXd7NPrInaiNqtkOrA,71,0.684,0.573,5,-12.3,1,0.0261,0.318,0.028,0.306,0.716,107.363,378947,4
+Tell Me (From Eddie),Dru Hill,1,5P0FaLdSqCpFolBHv4M8ig,55,0.735,0.301,6,-9.889,1,0.0312,0.203,0.0,0.125,0.544,130.134,252507,4
+That Thing You Do! (From That Thing You Do!),The Wonders,4,0aZPdYSbLvQebE3muvZuJj,0,0.508,0.522,0,-8.399,1,0.0294,0.398,2e-05,0.103,0.544,140.931,169427,4
+The A Team,SSgt Barry Sadler,2,3GVR09QIPYycWBEWjzJXM2,21,0.577,0.381,0,-8.518,1,0.031,0.639,0.0012,0.275,0.808,85.114,126440,4
+The In Crowd,Ramsey Lewis Trio,0,3l2pObHGPzGmgRWDlAbUJN,40,0.652,0.515,7,-19.55,1,0.118,0.49,0.14,0.962,0.645,143.004,351427,4
+The In Crowd,Dobie Gray,1,2QzofTlj6CqXjpK0lgP2CW,25,0.677,0.795,1,-7.845,1,0.0525,0.151,0.0157,0.138,0.791,117.415,175840,4
+The Cover Of Rolling Stone,Dr. Hook And The Medicine Show,0,0gJj33ghcMjK7m2ORh0ZZk,59,0.614,0.56,9,-8.168,1,0.0699,0.201,0.0,0.214,0.826,142.332,172493,4
+The Crying Game (From The Crying Game),Boy George,1,2890U6dKdFeTSn6pTugoj0,4,0.592,0.539,4,-13.302,0,0.03,0.077,0.0011,0.111,0.571,99.994,202973,4
+The Downeaster Alexa,Billy Joel,5,39cFQHfY6tsdMRmSbFse3X,56,0.457,0.808,9,-5.914,0,0.0349,0.11,0.0,0.127,0.681,89.893,223267,4
+The Perfect Drug (From Lost Highway),Nine Inch Nails,4,4N9jdraFn9ejQPijbgzZzv,7,0.627,0.883,5,-8.988,0,0.0946,0.0207,0.00364,0.323,0.252,149.024,315440,4
+The Place Where You Belong (From Beverly Hills Cop III),Shai,3,6dFvshsBNh4XDJXSWwRNel,40,0.764,0.535,2,-6.112,0,0.0776,0.0115,1.52e-05,0.401,0.548,95.643,261760,4
+The Riddler (From Batman Forever),Method Man,5,0GzXo2jahyCJbyTEo5fqCB,30,0.798,0.668,10,-4.824,1,0.091,0.0571,0.00987,0.204,0.438,168.039,213733,4
+The Right Kind Of Love (From Beverly Hills,90210),1,6DOnJCFsdMuTDjxymQocDM,0,0.719,0.506,5,-10.654,0,0.0362,0.749,0.0,0.137,0.738,88.964,306000,4
+The Theme From A Summer Place,Percy Faith And His Orchestra,0,6zwvB879PJSpTyFcg2wwnL,56,0.326,0.326,0,-15.144,1,0.0297,0.591,0.918,0.494,0.87,186.232,142693,3
+(Theme from) A Summer Place,Dick Roman,6,6zwvB879PJSpTyFcg2wwnL,56,0.326,0.326,0,-15.144,1,0.0297,0.591,0.918,0.494,0.87,186.232,142693,3
+The World Tonight (From Fathers' Day),Paul McCartney,6,1SV1fxF65n9NhRHp3KlBuu,60,0.774,0.511,11,-8.914,1,0.0319,0.322,0.0,0.0672,0.771,94.736,227653,4
+The Wreck Of The John B,Jimmie Rodgers,6,39UXaEcfOP4Yii2iCej2zE,15,0.76,0.344,6,-14.854,1,0.0451,0.876,0.000419,0.0456,0.851,140.71,169440,4
+Theme From A Summer Place,The Ventures,8,28rEzQX1KickP9tCYZ3q1a,31,0.65,0.361,5,-13.277,1,0.0306,0.63,0.0799,0.0536,0.948,99.236,138560,3
+Theme From A Summer Place,The Lettermen,1,1gKeImq3kiRBn8yEyQncQP,47,0.434,0.296,8,-15.614,1,0.0323,0.827,0.0,0.135,0.352,96.276,125200,3
+Theme From Close Encounters Of The Third Kind,John Williams,1,3ZJa01R0fjFzGZJEzpO3Cn,10,0.0782,0.0315,0,-26.686,1,0.0411,0.77,0.794,0.0699,0.032,174.409,474413,5
+Theme From Greatest American Hero (Believe It or Not),Joey Scarbury,0,375ntCG12wzCyfzclwYFwG,55,0.521,0.743,2,-5.903,1,0.0338,0.249,0.0,0.096,0.451,117.129,195293,4
+Theme From Harlow (Lonely Girl),Bobby Vinton,6,6TvAEPaJCqLnLP4tLzbjFc,2,0.277,0.289,5,-13.006,0,0.0302,0.606,0.0,0.165,0.292,95.567,139720,4
+Theme From Hatari!,Henry Mancini And His Orchestra,9,5WoxAphJ2iwm7wxre7axZl,23,0.568,0.377,3,-14.815,0,0.0338,0.8,0.749,0.182,0.501,119.431,174507,3
+Theme From Rocky (Gonna Fly Now),Current,9,5dulYd9AKIprMoF837OTDb,61,0.438,0.812,0,-3.7,1,0.0377,0.499,0.768,0.0444,0.465,95.613,168027,4
+Theme From Summer Of '42,Peter Nero,2,7IjHLTwhpjcOOVmg3wf6qW,13,0.323,0.0394,2,-25.406,0,0.0369,0.956,0.824,0.0942,0.0396,112.038,231373,4
+Theme From The Unforgiven (The Need For Love),Don Costa And His Orchestra And Chorus,2,6Vd0Z8Te5qyQmD9yaONAwu,39,0.54,0.424,7,-13.999,1,0.0304,0.688,0.877,0.0606,0.845,131.157,175160,4
+Theme From Mission: Impossible (From Mission: Impossible),Adam Clayton & Larry Mullen,0,1FL7eUG80aeUeyMO2N4btN,57,0.299,0.571,5,-8.949,0,0.0395,0.318,0.137,0.0452,0.764,89.642,51800,4
+Theme Music For The Film 2001 A Space Odyssey from Also Sprach Zarathustr,Berlin Philharmonic,8,1F9gh9ffHCCO1PwTCVclo0,33,0.224,0.229,0,-14.667,1,0.0334,0.0684,0.947,0.205,0.0356,129.204,108307,4
+Theme Song From Which Way Is Up,Stargard,2,4u5KfkBdLmCloPDTee9ZZV,38,0.868,0.794,10,-12.862,0,0.0503,0.123,0.0185,0.0335,0.941,103.612,189307,4
+Timeless Love (From Shocker),Saraya,8,2RZfcsUfzfksGZDmy3a4ow,3,0.728,0.417,5,-13.284,0,0.204,0.253,0.0,0.261,0.438,134.039,198087,4
+Too Pooped To Pop (Casey),Chuck Berry,4,70SnE9a7hQL6H067apySdF,18,0.815,0.53,0,-12.203,1,0.0417,0.761,0.0,0.103,0.938,128.534,152027,4
+Touch Me Tease Me (From The Nutty Professor),Case Featuring Foxxy Brown,1,4xrBjUq18fvXK68DJEi5XM,55,0.653,0.746,10,-8.254,0,0.0595,0.28,5.49e-06,0.0944,0.492,87.611,227493,4
+Touch Myself (From Fled),T-Boz,3,7qVHpz4zkA5TYTefBKrhR6,40,0.502,0.936,0,-3.686,0,0.0424,0.000191,0.739,0.54,0.466,100.024,201596,4
+Turn The Beat Around (From The Specialist),Gloria Estefan,1,7c1Bvtl2u7t2aTU3wj22Gi,4,0.73,0.739,6,-9.113,0,0.0364,0.0137,0.0,0.0711,0.567,130.045,231827,4
+Twistin' The Night Away (From Innerspace),Rod Stewart,7,4h7eolbGtpkN7tZc6tlnbO,32,0.438,0.816,7,-9.378,1,0.0682,0.0194,0.0,0.234,0.648,136.971,193773,4
+Two Steps Behind (From Last Action Hero),Def Leppard,1,0hJnqEmo8DeMmRhh6mwAof,57,0.456,0.419,2,-10.594,1,0.0247,0.117,0.0,0.178,0.425,146.148,256486,4
+U Will Know (From Jason's Lyric),B.M.U. (Black Men United),2,5bM3IhiYoYSK9VjAux2px8,41,0.719,0.551,7,-11.841,1,0.0914,0.0279,0.0,0.536,0.614,96.159,265640,4
+Unconditional Love (From Menace II Society),Hi-Five,9,5UwXd4AktGqBXmRJe5RvBP,39,0.647,0.765,5,-7.123,0,0.0379,0.165,3.81e-05,0.305,0.718,147.965,306067,4
+Visions Of A Sunset (From Mr. Holland's Opus),Shawn Stockman,4,6lQREztig1UKUHeyQhw7As,35,0.229,0.418,0,-9.066,1,0.0291,0.697,0.0,0.256,0.219,84.645,271600,4
+Walk Like A Man (From A Fine Mess),Mary Jane Girls,4,5hWLHFSmomXmeTXEE478My,62,0.537,0.82,11,-7.011,0,0.127,0.256,1.93e-06,0.432,0.881,94.429,297347,4
+Walls (From She's The One),Tom Petty And The Heartbreakers,6,5yEpB2g3CbuVk4YmAkzkOK,47,0.538,0.763,5,-5.238,1,0.0264,0.0742,3.54e-06,0.116,0.384,100.837,265307,4
+Watch Me Do My Thing (From All That),Immature Featuring Smooth And Ed From Good Burger,3,7L5gWkxgP0IgbAdGeqYpMO,26,0.697,0.853,8,-6.264,1,0.0528,0.00189,1.37e-06,0.243,0.765,93.799,231533,4
+What's Love Got To Do With It (From Supercop),Warren G Featuring Adina Howard,3,2R7JeiRBaSVtenVSrtgnZZ,37,0.887,0.547,1,-9.474,1,0.264,0.205,0.0,0.176,0.593,96.847,255040,4
+When I Fall In Love (From Sleepless In Seattle),Celine Dion And Clive Griffin,2,6TiGHTRpXh6H2tkByn3AzP,0,0.287,0.147,8,-16.107,1,0.0309,0.374,0.782,0.107,0.069,69.863,277845,4
+Whenever I Call You Friend,Kenny Loggins,0,5NCY3uTCovd93aqwbodUhm,56,0.461,0.551,0,-13.095,1,0.0345,0.114,0.0,0.11,0.689,129.716,237827,4
+Where Do We Go From Here (From Eraser),Vanessa Williams,7,7okbmgA8lRBGl5limZ7LFM,67,0.528,0.234,3,-15.784,1,0.0283,0.641,0.0,0.183,0.191,95.911,218733,4
+Where Everybody Knows Your Name (The Theme From Cheers),Gary Portnoy,8,7GfyRnOeyhA950v90Wz0F9,29,0.371,0.457,10,-9.129,1,0.0349,0.6,0.0,0.687,0.301,184.055,145483,4
+"Whiney, Whiney (From Dumb And Dumber)",Willi One Blood,6,581sRkelbIjx55tcgOqCr2,33,0.868,0.816,0,-5.342,1,0.078,0.0476,0.0,0.093,0.943,125.111,216907,4
+Who You Wit (From Sprung),JAY-Z,8,7KVPsVMOK3NL7subwJ0dZj,68,0.916,0.756,0,-7.653,1,0.188,0.0942,0.0,0.23,0.756,115.69,151539,4
+Who's Johnny (Short Circuit Theme),El DeBarge,0,02RbmzVSbkxJVIqMNx47uY,39,0.675,0.704,0,-11.552,0,0.048,0.284,0.00273,0.104,0.802,110.675,248467,4
+Who's The Man? (From Who's The Man),House Of Pain,9,7L93GESzq43UkKUt5FsOCq,73,0.811,0.823,4,-5.921,0,0.0423,0.0553,4.52e-06,0.158,0.827,106.929,218547,4
+Whole Wide World (From True Love),A'me Lorain,0,2PzEZn1fqmtXRbnFVitbwR,1,0.819,0.555,6,-9.68,0,0.0659,0.121,0.0,0.338,0.651,106.593,228595,4
+Why Does It Hurt So Bad (From Waiting To Exhale),Whitney Houston,2,7hbUoBUewDxW0Pceqxw3g2,38,0.625,0.422,10,-8.061,1,0.0238,0.139,0.0,0.209,0.259,76.862,278027,4
+Wild Again (From Cocktail),Starship,7,01snLyGifel0OHTkJDp9H0,27,0.494,0.277,0,-8.745,1,0.0295,0.748,0.0,0.0966,0.336,175.963,235249,3
+Wild Women Do (From Pretty Woman),Natalie Cole,3,0HnHjBjlTnCPUyI4aK0fE5,35,0.691,0.902,11,-8.915,0,0.0486,0.145,0.00493,0.318,0.776,123.521,241450,4
+Wind Beneath My Wings (From Beaches),Bette Midler,0,7Gx5ET7dUsVu79MHwfgBoI,14,0.404,0.21,7,-16.857,1,0.0396,0.994,0.921,0.151,0.143,136.857,199182,4
+Wishes (From Kazaam),Nathan Morris,8,5MsQwkEceGOA8v9nrc5BnK,43,0.752,0.717,5,-7.441,0,0.0328,0.394,0.574,0.171,0.577,104.975,245000,4
+Wu-Wear: The Garment Renaissance (From High School High),RZA Feat. Method Man & Cappadonna,5,24vNw0Z0srb4zYXwrakw8E,66,0.826,0.566,10,-10.747,0,0.311,0.199,0.0,0.356,0.655,99.131,216133,4
+Yes (From The Motion Picture Dirty Dancing),Merry Clayton,4,7k4uHnOdJViC6EBvcvzJZJ,50,0.541,0.772,0,-11.552,0,0.0341,0.051,2.92e-05,0.146,0.97,178.082,198333,4
+You Got It (From Boys On The Side),Bonnie Raitt,3,5aZZD9NLAOyxf6HMs9br41,19,0.601,0.683,2,-5.53,0,0.0339,0.495,3.99e-05,0.263,0.752,124.533,216467,4
+You Must Love Me (From Evita),Madonna,1,3lYAHwvog7SYNxNW7Kj9EN,20,0.357,0.161,10,-14.789,1,0.0436,0.927,3.83e-05,0.146,0.267,88.724,170840,4
+You Remind Me (From Strictly Business),Mary J. Blige,2,0vpxgszVaFz05WUwr1CG2M,0,0.678,0.312,9,-17.698,0,0.0319,0.464,0.151,0.0793,0.284,96.411,252594,4
+#1,Nelly,2,7rSj5gEdN5KgHwbnEVAZ4b,54,0.69,0.592,7,-5.973,1,0.3,0.0236,0.0,0.56,0.466,179.98,198760,4
+#1 Dee Jay,Goody Goody,8,0MzHSJl9bHQiNPufYxJaab,18,0.859,0.376,7,-16.542,0,0.0439,0.0536,0.0963,0.0605,0.902,127.202,450932,4
+#9 Dream,John Lennon,0,4ZVWvCUwsOnIGmJMj71RkG,51,0.406,0.597,0,-11.745,1,0.0336,0.0744,0.0133,0.254,0.478,115.474,286813,4
+#Beautiful,Mariah Carey Featuring Miguel,1,1ahAuX3F6tDdNRfMdiLsv6,56,0.676,0.755,4,-5.333,1,0.0388,0.322,0.0,0.298,0.425,107.03,199947,4
+#SELFIE,The Chainsmokers,1,1HOlb9rdNOmy9b1Fakicjo,63,0.789,0.916,0,-3.262,1,0.249,0.0135,8.09e-06,0.077,0.658,127.956,183750,4
+#thatPOWER,will.i.am Featuring Justin Bieber,1,01TuObJVd7owWchVRuQbQw,66,0.797,0.608,6,-6.096,0,0.0584,0.00112,7.66e-05,0.0748,0.402,127.999,279507,4
+$ave Dat Money,Lil Dicky Featuring Fetty Wap & Rich Homie Quan,7,1TkWsnheqK0gBtvh07BtNX,62,0.858,0.697,2,-5.361,1,0.23,0.114,0.0,0.224,0.364,98.013,290836,4
+'03 Bonnie & Clyde,Jay-Z Featuring Beyonce Knowles,0,5ljCWsDlSyJ41kwqym2ORw,71,0.759,0.678,9,-5.148,0,0.314,0.23,0.0,0.15,0.327,89.64,205560,4
+'65 Love Affair,Paul Davis,0,5nBp8F6tekSrnFg8G2Pvug,38,0.647,0.686,2,-4.247,0,0.0274,0.432,6.19e-06,0.133,0.952,155.697,219813,4
+"'98 Thug Paradise,Tragedy, Capone", Infinite,8,1wqg2VowoogPATrqPzrpi3,64,0.745,0.637,4,-5.912,0,0.312,0.187,0.0,0.114,0.424,79.946,180002,4
+'Round We Go,Big Sister,9,0dOxCZPFfU8Xo0PyR6yibz,23,0.143,0.0263,0,-30.148,1,0.0367,0.679,0.929,0.109,0.167,139.838,98347,4
+'Til,The Angels,1,2CjVRHeMnqekSKNhBoVxZu,18,0.26,0.306,0,-8.917,1,0.0302,0.775,0.000311,0.063,0.313,173.761,146541,3
+'Til My Baby Comes Home,Luther Vandross,2,2R97RZWUx4vAFbMMtmb5Ss,29,0.804,0.714,11,-6.714,0,0.183,0.0567,6.21e-06,0.0253,0.802,139.663,332227,4
+'Til Summer Comes Around,Keith Urban,5,1CKmI1IQjVEVB3F7VmJmM3,41,0.57,0.629,9,-7.608,0,0.0331,0.593,0.000136,0.77,0.308,127.907,331467,4
+'Til You Can't,Cody Johnson,6,4k3lPl8YTKuY8c1HelVnm3,74,0.501,0.815,1,-4.865,1,0.0436,0.0513,0.0,0.106,0.46,160.087,224213,4
+'Til You Do Me Right,After 7,3,3kGMziz884MLV1oCwrarmN,47,0.663,0.462,2,-8.784,0,0.0252,0.306,0.0,0.0687,0.431,76.794,295000,4
+'Tis The Damn Season,Taylor Swift,3,7dW84mWkdWE5a6lFWxJCBG,70,0.575,0.434,5,-8.193,1,0.0312,0.735,6.59e-05,0.105,0.348,145.916,229840,4
+'til I Can Make It On My Own,Tammy Wynette,8,0aJHZYjwbfTmeyUWF7zGxI,40,0.45,0.294,7,-12.022,1,0.0318,0.832,3.53e-05,0.108,0.146,141.148,182080,4
+'til It's Time To Say Goodbye,Jonathan Cain,4,0W74nMrZL1R0TdOn4wn8u6,49,0.657,0.643,7,-10.586,0,0.0378,0.00857,0.874,0.0726,0.416,110.17,209227,4
+('til) I Kissed You,The Everly Brothers,0,4BMhwvrqMUSm65RRB0RAEa,52,0.576,0.458,1,-10.341,1,0.0442,0.626,0.0,0.377,0.629,141.567,144533,4
+(1-2-3-4-5-6-7) Count The Days,Inez & Charlie Foxx,7,2aeZdQUwBksJPaRk1gaEAL,10,0.499,0.704,8,-7.623,1,0.0343,0.383,0.0112,0.082,0.934,96.723,157733,4
+(A Ship Will Come) Ein Schiff Wird Kommen,Lale Anderson,8,2KwyJRAJ1NYpzY4MsfYY9R,16,0.634,0.482,4,-7.592,1,0.0288,0.529,6.86e-06,0.203,0.749,123.726,172321,4
+(All I Have To Do Is) Dream,The Nitty Gritty Dirt Band,6,7cpWrvXfNbEoHO655YEnFW,9,0.577,0.421,1,-13.295,0,0.0238,0.807,0.0187,0.144,0.633,96.056,228773,4
+(All Of A Sudden) My Heart Sings,Mel Carter,3,6x5BiQwNlbtisITsEHa8Eu,24,0.419,0.546,7,-7.819,1,0.0363,0.479,4.81e-06,0.535,0.493,118.106,164067,3
+(All of a Sudden) My Heart Sings,Paul Anka,1,0zKZqHPNUKjjhsUJHT06RZ,29,0.435,0.36,4,-10.179,1,0.0298,0.78,0.0,0.513,0.342,111.446,182560,3
+(Any Way That You Want It) I'll Be There,Starz,7,3e7bMUM2jFwEYBgDqWCBDs,7,0.452,0.839,7,-4.705,1,0.0301,0.00281,2.8e-05,0.3,0.636,124.724,204760,4
+(Baby Tell Me) Can You Dance,Shanice Wilson,4,68KGQjb59s81k01skuqmST,4,0.764,0.84,7,-9.781,1,0.106,0.0866,0.000199,0.354,0.659,111.215,289307,4
+(Baby) Hully Gully,The Olympics,7,2CkbNJooPxUsHG4gFXKhxa,7,0.699,0.661,2,-6.09,1,0.0382,0.516,0.0,0.198,0.869,115.772,218642,4
+(Baby) Turn On To Me,The Impressions,5,7By083PtTCrwihTP4DgOmm,4,0.658,0.675,10,-6.908,1,0.0287,0.0483,0.00125,0.205,0.791,109.384,190893,4
+(Believed You Were) Lucky,'Til Tuesday,9,3Lm7hSTabr01oav0WdSsuD,20,0.612,0.523,5,-11.425,1,0.0321,0.448,1.59e-06,0.0727,0.495,124.315,216973,4
+(Between A) Rock And A Hard Place,Cutting Crew,7,2KxYID9maMVJaGnvGu6Iso,18,0.615,0.845,5,-9.943,0,0.0393,0.0928,2.77e-05,0.0755,0.585,117.444,227960,4
+(Bringing Out) The Girl In Me,Maxine Nightingale,7,5fuRsSCGDlOImVIJktdyoV,9,0.713,0.756,9,-7.698,1,0.0401,0.752,2.22e-06,0.178,0.945,116.153,210973,4
+(Call Me Your) Anything Man,Bobby Moore,9,6EtOgpD6m1fBzcnckUAEfW,46,0.694,0.452,4,-10.4,1,0.0691,0.207,0.0004,0.152,0.696,97.923,150533,4
+(Call Me) When The Spirit Moves You,Touch,6,0RUWpCDScMUVURBFNkzygH,24,0.406,0.97,1,-4.279,1,0.172,6.24e-05,0.157,0.0845,0.33,145.206,178973,4
+(Can't Live Without Your) Love And Affection,Nelson,0,3JjY2L2bqql54j1SjnjQ23,50,0.541,0.904,1,-6.384,1,0.0404,0.0423,0.0,0.0589,0.833,121.386,236435,4
+(Closest Thing To) Perfect,Jermaine Jackson,6,7pM34Bmj0JY3YNkDOlrcrh,7,0.661,0.763,6,-12.204,0,0.0326,0.0205,0.000307,0.382,0.905,149.974,230693,4
+(Come 'round Here) I'm The One You Need,The Miracles,1,5YvokzRkNONpj5c0TIqTjQ,23,0.545,0.607,0,-9.525,1,0.0347,0.242,0.0,0.779,0.767,113.88,150067,4
+(Come On) Shout,Alex Brown,7,7zE2MHflzZxjQszX1ucBHw,13,0.793,0.525,0,-11.285,0,0.0412,0.014,0.000143,0.138,0.494,164.939,93693,4
+(Dance The) Mess Around,Chubby Checker,2,58EirkLFB6O6wwRN9JowHB,13,0.511,0.694,10,-5.509,1,0.0479,0.381,0.0,0.195,0.826,146.559,132933,4
+(Dance With The) Guitar Man,Duane Eddy and the Rebelettes,1,207cqolTfI0vGLW6QrGfFa,21,0.737,0.924,9,-6.285,1,0.0401,0.831,0.121,0.163,0.963,135.412,160760,4
+(Do The New) Continental,The Dovells,3,0nkM2uL3tRNm49zKdThV4J,19,0.703,0.757,8,-6.267,1,0.0567,0.206,0.0,0.284,0.929,120.46,157453,4
+(Do The) Mashed Potatoes (Part 1),Nat Kendrick And The Swans,8,4W7ps5zORgRWe691hlxXzC,13,0.745,0.837,7,-9.169,1,0.0467,0.511,0.339,0.191,0.932,134.471,112400,4
+(Do The) Push And Pull Part I,Rufus Thomas,2,1SwUqH8LELoY6SwldhOwr8,42,0.724,0.731,5,-9.745,0,0.0455,0.22,0.0025,0.181,0.887,105.096,198439,4
+(Do You) Wanna Ride,Reel Tight,7,7mtYwHLYETUEgA8Sc2Uuxr,5,0.757,0.659,6,-5.525,1,0.0701,0.185,0.0,0.0674,0.878,138.045,213213,4
+(Doin' The) Lovers Leap,Webb Pierce,9,140blKYusUHstaPzcpNoib,9,0.765,0.797,11,-8.183,1,0.0464,0.849,0.262,0.267,0.971,137.175,123467,4
+(Don't Fear) The Reaper,Blue Oyster Cult,1,6DOsgVZ6NbKBySbegACJHK,0,0.165,0.745,11,-13.228,0,0.0492,0.248,0.236,0.988,0.461,152.061,397154,4
+(Don't Worry) If There's A Hell Below We're All Going To Go,Curtis Mayfield,2,5wdlG60d0WHoo8P3QzrlbG,40,0.686,0.755,1,-8.304,0,0.0488,0.149,0.063,0.111,0.686,119.895,470507,4
+(Down At) Papa Joe's,The Dixiebelles,0,6GdqL01aKgClu3DS6qtlro,1,0.402,0.795,7,-10.709,1,0.0781,0.501,0.000242,0.349,0.737,165.551,152315,4
+(Every Time I Turn Around) Back In Love Again,LTD,0,1eeySrWP5X7hsbfyc3PPge,44,0.824,0.636,8,-11.856,1,0.109,0.0842,0.000381,0.47,0.914,109.337,280133,4
+(Everything I Do) I Do It For You,Bryan Adams,0,6eBK3edMW7bEzecF1eCezc,64,0.526,0.365,1,-12.605,1,0.028,0.0775,1.35e-05,0.0618,0.253,131.253,394133,4
+(For God's Sake) Give More Power To The People,The Chi-lites,2,0dVabf3Sm1uHODq1vz2Lts,28,0.665,0.552,6,-10.177,1,0.0307,0.493,0.0272,0.421,0.899,96.889,180133,4
+(Forever) Live And Die,Orchestral Manoeuvres In The Dark,1,7pFydJbDEToJHtvl6g579k,52,0.605,0.545,0,-13.603,1,0.0297,0.0902,0.244,0.149,0.865,90.179,218133,4
+(Ghost) Riders In The Sky,Outlaws,3,4ncVYIs3UFvitjvc8RIPkM,47,0.228,0.896,9,-7.241,0,0.13,0.0132,0.0273,0.795,0.146,128.433,351400,4
+(Ghost) Riders In The Sky,Ramrods,2,7JqK0JRlIunCuy0uxY3Zsw,24,0.445,0.835,5,-7.598,1,0.0455,0.745,0.601,0.613,0.351,120.956,154827,4
+"(Girls, Girls, Girls) Made To Love",Eddie Hodges,1,4PeZdZt3Mf46SfsL6Gj1EY,11,0.61,0.377,9,-9.805,1,0.0935,0.414,0.0,0.0734,0.519,178.06,150667,4
+(God Must Have Spent) A Little More Time On You,'N Sync,0,08zfRiERqpy7J0x8akk7zt,52,0.375,0.527,10,-8.422,1,0.0507,0.449,0.0,0.305,0.303,167.242,241493,4
+(He's My) Dreamboat,Connie Francis,1,3OvzW4ex4PCAkr25M85WCP,16,0.373,0.364,0,-6.563,1,0.0305,0.78,2.24e-06,0.342,0.451,70.31,162107,4
+(He's) Raining In My Sunshine,Jay & The Americans,8,120BvxQsMS1M41PdBClcxa,5,0.478,0.298,2,-13.842,1,0.0342,0.74,1.11e-05,0.139,0.376,110.006,195733,4
+(He's) The Great Impostor,The Fleetwoods,2,5S96nzXyrDBAwDNfgUwvWW,41,0.49,0.129,5,-18.069,1,0.0464,0.747,0.0,0.106,0.508,117.288,132067,4
+(Here They Come) From All Over The World,Jan & Dean,5,5TrvERHRtiRshORTehfs0w,10,0.461,0.68,0,-10.699,1,0.0446,0.621,7.74e-06,0.906,0.957,149.771,164600,4
+(Hey Won't You Play) Another Somebody Done Somebody Wrong Song,B.J. Thomas,0,0b7qiL1rLbUUpGXczt7p5T,48,0.637,0.528,4,-11.287,1,0.0328,0.744,0.0,0.114,0.702,124.806,206067,4
+(Hot S**t) Country Grammar,Nelly,0,3QwirFtc6kRnxdu9EWQUmG,0,0.871,0.673,2,-6.769,1,0.076,0.00719,1.01e-06,0.109,0.577,162.804,287440,4
+(How Bout A Little Hand For) The Boys In The Band,The Boys In The Band,4,716uPQhmoga8mnJIBZ01zA,40,0.804,0.465,9,-10.275,1,0.283,0.0533,0.0,0.0474,0.625,76.035,190320,4
+(How Can I Write On Paper) What I Feel In My Heart,Jim Reeves,9,0NdPiH9r6tFUrfyARqnXcG,12,0.657,0.534,9,-8.807,1,0.0303,0.742,0.00351,0.266,0.675,121.413,128107,4
+(How I Spent My Summer Vacation) Or A Day At The Beach With Pedro & Man - P,Cheech & Chong,5,0oLwnYOkjyR0L4ozimWluE,4,0.585,0.528,3,-16.603,0,0.954,0.724,0.0,0.741,0.243,85.337,116573,4
+(How To Be A) Millionaire,ABC,1,3zC02nmo5OrDDMW3U905AU,36,0.728,0.751,2,-9.702,1,0.0516,0.269,9.26e-06,0.0728,0.833,121.68,215733,4
+(I Believe) There's Nothing Stronger Than Our Love,Paul Anka/Odia Coates,1,6HH1rzLOFz4GdtLDRpqKdA,28,0.584,0.791,0,-6.648,1,0.0453,0.124,0.0,0.0781,0.782,148.413,173640,4
+(I Can Feel Those Vibrations) This Love Is Real,Jackie Wilson,5,3pZtEvSC4CU6ruoShJTmTn,19,0.668,0.733,7,-8.181,1,0.144,0.32,1.57e-05,0.291,0.759,120.875,176000,4
+(I Can Feel Your Love) Slipping Away,Barbara Mason,9,7tf10BYZc7tqY5k9e0mkBZ,16,0.439,0.427,0,-5.455,1,0.0254,0.563,0.0,0.295,0.335,77.419,199627,3
+(I Can't Get No) Satisfaction,The Rolling Stones,0,2PzU4IB8Dr6mxV3lHuaG34,76,0.723,0.863,2,-7.89,1,0.0338,0.0383,0.0317,0.128,0.931,136.302,222813,4
+(I Can't Help You) I'm Falling Too,Skeeter Davis,3,5MXe6dKcR6iO33GWzVW8cr,25,0.617,0.197,9,-12.145,1,0.0267,0.777,0.0,0.133,0.384,91.209,165267,4
+"(I Could Only) Whisper Your Name,Harry Connick", Jr.,6,1nmagj3qfs5ZgQG897Jbsq,0,0.675,0.474,10,-12.615,1,0.0493,0.0255,0.894,0.139,0.495,90.035,268467,4
+(I Cried at) Laura's Wedding,Barbara Lynn,6,1kWnbqS0pNBX9UNFIdBoXw,1,0.579,0.299,7,-8.729,1,0.0304,0.84,4.71e-05,0.117,0.194,89.463,158213,3
+(I Do The) Shimmy Shimmy,Bobby Freeman,3,2YcKj4SBMy04Yxn0bcUY6Q,4,0.465,0.857,2,-5.498,1,0.0412,0.74,0.0,0.365,0.888,88.327,157467,4
+(I Don't Care) Only Love Me,Steve Lawrence,6,2tve82MQkxXX1WsdxpI4sk,14,0.56,0.516,5,-12.275,0,0.183,0.468,0.000107,0.173,0.825,141.812,153600,4
+(I Don't Want To Love You But) You Got Me Anyway,Sutherland Brothers And Quiver,4,4sedfDbR2vLbA7syCdA0Od,9,0.462,0.5,2,-12.849,1,0.0625,0.367,0.000138,0.724,0.501,124.186,186400,4
+(I Hate) Everything About You,Three Days Grace,5,0M955bMOoilikPXwKLYpoi,74,0.498,0.83,6,-5.157,0,0.0421,0.00461,0.0,0.139,0.453,89.342,231480,4
+(I Just) Died In Your Arms,Cutting Crew,0,4ByEFOBuLXpCqvO1kw8Wdm,76,0.625,0.726,11,-11.402,0,0.0444,0.0158,0.000169,0.0625,0.507,124.945,280400,4
+(I Know I Got) Skillz,Shaquille O'Neal,3,0TEQ2QmFXnHCgQvYuvsbp2,34,0.801,0.875,7,-9.705,1,0.0995,0.00366,0.425,0.182,0.637,91.983,263053,4
+(I Know) I'm Losing You,Uptown,7,3iOhnTyhUKragKz3bB43I3,29,0.676,0.413,0,-12.222,1,0.0312,0.403,5.05e-05,0.0902,0.86,110.211,149173,4
+(I Know) I'm Losing You,Rod Stewart With Faces,2,2JWKzkQbYsNzx019WyGzaH,67,0.472,0.373,3,-12.98,1,0.0262,0.872,0.206,0.147,0.459,135.193,288267,4
+(I Know) I'm Losing You,Rare Earth,0,18bZGZU0wZ2lV1SEDoXqqr,35,0.463,0.553,6,-14.648,1,0.0465,0.573,3.66e-05,0.315,0.715,100.608,215987,4
+(I Know) I'm Losing You,The Temptations,0,6y8o4V2R2dSt2ijgL8C72W,42,0.634,0.503,5,-11.89,1,0.0282,0.5,0.0,0.0465,0.813,109.57,149493,4
+(I Love You) Don't You Forget It,Perry Como,3,1huwBtZIqUbmt39obkt3TI,0,0.701,0.652,9,-13.908,1,0.0397,0.218,0.919,0.226,0.734,95.019,146587,4
+(I Never Promised You A) Rose Garden,Martina McBride,9,4iO895szRNF9qVxGiVJkKf,31,0.577,0.742,2,-6.92,1,0.0533,0.505,0.0,0.119,0.752,131.912,195400,4
+(I Remember) Summer Morning,Vanity Fare,9,5iDkKAJZxGaqIo4Z32ZbjD,2,0.528,0.341,4,-12.768,0,0.03,0.922,0.0,0.135,0.337,111.336,178418,4
+(I Wanna) Dance With The Teacher,The Olympics,7,3rHQ8LI3Rrw2hy7H4FtbFw,0,0.567,0.458,4,-15.353,1,0.0623,0.428,0.0412,0.356,0.829,85.189,107317,4
+(I Wanna) Love My Life Away,Gene Pitney,3,3a5dU16xeHzWMkLr8mnrYQ,28,0.522,0.844,0,-3.945,1,0.039,0.598,0.00279,0.61,0.893,135.959,112800,4
+(I Wanna) Testify,The Parliaments,1,0xAqhyWvTkfcdFgm7dozMO,28,0.668,0.702,10,-5.75,1,0.033,0.336,0.0,0.0521,0.754,105.227,183693,4
+(I Washed My Hands In) Muddy Water,Johnny Rivers,1,4av2x96C9yjPyq0szOd63h,31,0.423,0.39,2,-13.829,1,0.0292,0.591,0.0,0.312,0.7,100.475,180800,4
+(I Will Be Your) Shadow In The Street,Allan Clarke,4,7rk9k8PIRNubjCSrcuxkLW,18,0.722,0.728,9,-7.499,1,0.027,0.0142,1.46e-06,0.279,0.844,125.893,167413,4
+(I was) Born To Cry,Dion,4,5P6O4yi0sZ4JUOJAlmZvxM,28,0.396,0.568,7,-11.25,0,0.0639,0.322,0.0,0.181,0.607,119.676,147560,4
+(I'd Know You) Anywhere,Ashford & Simpson,8,2qrLHlDMA462tgUoIXrMdV,2,0.415,0.54,9,-8.601,1,0.0411,0.515,0.0,0.587,0.343,105.808,357333,4
+(I'll Be With You In) Apple Blossom Time,Tab Hunter,3,474wx77ERKj0qxLf4ytn5S,18,0.58,0.417,8,-10.453,1,0.0334,0.823,0.0,0.0619,0.616,130.342,131253,4
+(I'm A) Road Runner,Jr. Walker & The All Stars,1,2wuEt9idXjHQyAKKfc5hzn,46,0.751,0.689,5,-6.564,1,0.0281,0.0541,0.0,0.281,0.827,125.234,165947,4
+(I'm A) YoYo Man,Rick Cunha,6,56cqmGid7J5wMyfXJzOEOd,55,0.659,0.766,7,-8.321,1,0.0391,0.659,0.579,0.134,0.389,95.011,175579,4
+(I'm Going By) The Stars In Your Eyes,Ron Banks And The Dramatics,8,1NAzlFxxbqR6SErNynCyFw,9,0.444,0.348,2,-14.083,1,0.0387,0.416,0.0,0.149,0.264,147.604,245667,4
+(I'm Just A) Fool For You,Gene Chandler,8,0FESeUvkf85Xj65Yv08Ovf,9,0.564,0.623,2,-9.553,1,0.0319,0.288,1.31e-05,0.0947,0.911,110.613,160853,4
+(I'm Not Your) Steppin' Stone,The Monkees,1,7dvtNWoHd3ioEBmIl0s3In,49,0.537,0.677,5,-4.437,1,0.0301,0.0151,0.000199,0.0981,0.324,131.477,146533,4
+(I'm So) Afraid Of Losing You Again,Charley Pride,7,21ysfTQgJnailsDbxWMyOB,21,0.536,0.322,4,-11.717,1,0.025,0.413,0.0,0.383,0.576,98.801,191027,4
+(I'm Watching) Every Little Move You Make,Little Peggy March,8,29ylTgGqTepPSqwnGsjPLE,7,0.633,0.567,1,-9.448,1,0.0372,0.742,0.0,0.26,0.967,119.753,134667,4
+(I've Got) Bonnie,Bobby Rydell,1,5XbZjYB4z9OIJhutiDJeSV,10,0.479,0.379,9,-7.461,1,0.0256,0.784,0.0,0.164,0.754,74.68,147000,4
+(I've Got) Spring Fever,Little Willie John,7,4cB9gp5NQmxstYj0fF5Y0w,2,0.699,0.373,0,-12.653,1,0.0813,0.799,0.545,0.0764,0.73,134.928,131533,4
+(I've Had) The Time Of My Life,Glee Cast,3,1wYDz3NuqlGxPnQDX8OuV6,41,0.459,0.77,9,-5.993,1,0.0472,0.0765,0.0,0.0879,0.168,110.706,277560,4
+(I've Had) The Time Of My Life,Bill Medley & Jennifer Warnes,0,4BFMQ15vXr626UOoZL8bUI,59,0.7,0.781,6,-8.255,0,0.0507,0.0874,0.00342,0.059,0.385,108.695,289067,4
+(If Loving You Is Wrong) I Don't Want To Be Right,Barbara Mandrell,3,1cxjGdsHJn2vo17AbWLFzu,41,0.621,0.536,4,-10.935,0,0.0349,0.0341,1.01e-05,0.142,0.72,74.256,185013,4
+(If Loving You Is Wrong) I Don't Want To Be Right,Luther Ingram,0,54K7o2yNOMZYCtEDnfD6wI,46,0.502,0.451,4,-7.423,0,0.0438,0.283,0.0,0.154,0.531,140.474,216800,4
+(If There Was) Any Other Way,Celine Dion,3,5yh5RqpOXYN3iiJe07mNNf,26,0.671,0.784,7,-8.672,0,0.0322,0.239,3.6e-06,0.139,0.904,124.013,240093,4
+"(If You Cry) True Love, True Love",The Drifters,3,6JttTXihDsabw2d0QrsgqT,23,0.473,0.421,7,-9.536,1,0.0372,0.212,0.0,0.0965,0.199,138.622,140760,4
+(If You Let Me Make Love To You Then) Why Can't I Touch You?,Ronnie Dyson,0,5QQOXL6qvhobRG7zfjQCXW,22,0.398,0.692,0,-8.596,1,0.045,0.496,0.0,0.394,0.65,93.907,203747,4
+(If You Want It) Do It Yourself,Gloria Gaynor,9,2wL4EYvM2jXsiYToaCm4yB,23,0.682,0.635,11,-14.155,1,0.116,0.0423,0.0159,0.125,0.579,110.392,356333,4
+(If You're Not In It For Love) I'm Outta Here!/The Woman In Me,Shania Twain,7,6Lst3nF4McKOTLSLuTvLhw,51,0.772,0.761,5,-8.271,1,0.0358,0.141,0.0,0.0813,0.868,120.058,270027,4
+(If You're Wondering If I Want You To) I Want You To,Weezer,8,09aDV0TC2RfWFU5IwZfIdG,51,0.695,0.873,11,-5.722,0,0.0392,0.00163,0.000198,0.154,0.799,110.021,208773,4
+(It Never Happens) In Real Life,Chuck Jackson,4,0a5tdX3qPVFQ76x4HkVZEy,3,0.696,0.46,3,-8.451,1,0.0304,0.692,0.0325,0.138,0.829,119.059,165440,4
+(It's Just) The Way That You Love Me,Paula Abdul,0,6Vx6TVui8rcatNrlAnUXPz,38,0.812,0.736,6,-9.889,1,0.0864,0.0655,0.00216,0.0508,0.833,119.973,241760,4
+(It's No) Sin,The Duprees featuring Joey Vann,7,3JGftNpVe6naG8kL6ZZP8t,12,0.759,0.353,1,-15.695,1,0.168,0.0101,0.0109,0.0777,0.308,139.933,218453,4
+(It's The Way) Nature Planned It,Four Tops,5,77ofWAzg1VoiK0mek1pYC0,34,0.577,0.604,1,-8.412,1,0.0337,0.539,0.00418,0.0794,0.721,92.295,227387,4
+(It) Feels So Good,Steven Tyler,3,3xuzbqmCALn6Ua8JeOrnZl,30,0.738,0.952,6,-3.386,0,0.0515,0.0631,0.0,0.216,0.899,122.0,211293,4
+(Just Like) Romeo & Juliet,The Reflections,0,1g5dBKKnqTB7vDTfZ6cCXr,35,0.772,0.857,3,-9.34,1,0.0356,0.211,0.576,0.215,0.98,145.429,127933,4
+(Just Like) Romeo And Juliet,Sha Na Na,5,3UDSfh7CyfmbZ2TbmafkHV,13,0.749,0.738,3,-11.538,1,0.0388,0.168,4.6e-06,0.113,0.979,141.185,135837,4
+(Just Like) Starting Over,John Lennon,0,5y0YreEOnQiKFAnCrcFIXz,59,0.701,0.79,9,-6.16,1,0.0725,0.301,6.06e-05,0.179,0.421,99.104,236547,4
+(Keep Feeling) Fascination,The Human League,0,0ZfZaT7NByalxa6bct5G67,48,0.711,0.609,0,-9.042,1,0.0764,0.381,1.24e-06,0.204,0.674,118.132,224733,4
+(Kissed You) Good Night,Gloriana,3,0Rj68IX1WqAtceUZQGk7aa,49,0.523,0.747,11,-6.125,1,0.0292,0.0807,0.0,0.11,0.294,118.97,232903,4
+(Last Night) I Didn't Get To Sleep At All,The 5th Dimension,0,6HH6fmHF2YssfVkRmzcjf0,48,0.671,0.497,5,-12.53,0,0.0289,0.484,0.0027,0.0893,0.564,105.117,192600,4
+(Lay Your Head On My) Pillow,Tony Toni Tone,3,0rRGYJSkI7v2VtxJv8n90m,49,0.707,0.487,6,-8.948,0,0.036,0.0466,4.71e-06,0.0643,0.568,79.071,372027,4
+(Let's Do) The Hully Gully Twist,Bill Doggett,6,1s7OtFuF5fUUOyRGOkvGlL,15,0.613,0.587,2,-5.878,1,0.0302,0.241,0.0,0.265,0.785,126.526,157173,4
+(Loneliness Made Me Realize) It's You That I Need,The Temptations,1,4SuPDwNadgf6fdw8v3FW5x,18,0.555,0.37,0,-12.075,1,0.0311,0.559,0.0,0.253,0.965,116.912,158733,4
+(Love Is Like A) Baseball Game,The Intruders,2,4Lg5z4lC7u1GPSeYvHPPi6,31,0.654,0.539,0,-7.825,1,0.0274,0.748,0.0,0.168,0.849,88.978,165920,4
+(Love Is) Thicker Than Water,Andy Gibb,0,5WdF8jm3hBNi1t9qlqdjsE,48,0.582,0.462,6,-9.882,0,0.0254,0.137,4.98e-05,0.0755,0.528,96.361,255960,4
+(Love Me) Love The Life I Lead,The Fantastics,8,7pgKdLyCfjnrBLXJfbFLzg,1,0.356,0.549,9,-12.198,1,0.0574,0.35,0.0,0.0583,0.784,78.331,186521,4
+(Love Theme From) One Eyed Jacks,Ferrante & Teicher,3,4hFIG8f48S4aLcYwNY8lON,10,0.358,0.294,7,-14.009,0,0.0295,0.85,0.87,0.246,0.239,94.615,183307,4
+"(Mama Come Quick, and Bring Your) Lickin' Stick",George Torrence & The Naturals,9,2nl3zcjI7Zctd5GQPJtbur,14,0.562,0.513,11,-14.041,0,0.0274,0.0381,0.0512,0.285,0.881,141.746,198000,4
+(Marie's The Name) His Latest Flame,Elvis Presley,0,4qbLOU1T7xgTH87eUSkvJ1,53,0.661,0.917,4,-6.329,0,0.0375,0.565,0.00202,0.134,0.893,105.289,127093,4
+(My Girl) Sloopy,Little Caesar And The Consuls,4,3CrE3QPWWgwX2gE0foJTcS,1,0.755,0.615,0,-8.973,1,0.123,0.223,1.4e-06,0.108,0.835,114.089,213629,4
+(New In) The Ways Of Love,Tommy Edwards,4,4pNXt2MMFvTSBOkOPWjD8r,12,0.386,0.322,7,-13.018,0,0.032,0.715,0.0,0.0544,0.508,178.668,159640,3
+(Night Time Is) The Right Time,Ray Charles with the Raylettes,9,1piX68vNesm5gA3ZRM3z6Y,45,0.665,0.645,3,-9.181,1,0.0352,0.613,0.0,0.33,0.749,78.115,204600,4
+(Not Just) Knee Deep - Part 1,Funkadelic,7,60IGhnH20N82dNxKnc8jDd,73,0.715,0.584,8,-8.231,1,0.0296,0.432,1.41e-06,0.095,0.609,90.99,203173,4
+(Now You See Me) Now You Don't,Lee Ann Womack,7,2i4tmbKkAhRnnojsmnPof1,18,0.631,0.801,2,-6.092,1,0.0561,0.153,0.0,0.359,0.59,104.035,159600,4
+(Now and Then There's) A Fool Such As I,Elvis Presley With The Jordanaires,0,6aKzxns1rGMjLSij4PuWhh,46,0.574,0.714,0,-6.344,1,0.0403,0.901,1.7e-05,0.255,0.722,63.623,159360,4
+(Oh Lord Won't You Buy Me A) Mercedes Benz,Goose Creek Symphony,6,2uHWLH7bnYPlWSWe6AfHiO,28,0.486,0.41,4,-14.328,1,0.0457,0.744,0.00106,0.0775,0.926,88.824,196333,4
+(Open Up The Door) Let The Good Times In,Dean Martin,5,6AwCMQu47EyMU2IbzhkjlL,28,0.443,0.618,1,-12.153,1,0.0846,0.77,2.88e-06,0.47,0.636,78.936,198600,4
+(Our Love) Don't Throw It All Away,Andy Gibb,0,1RsxUuB1Q5OdseLpHMBkEN,55,0.349,0.337,5,-13.193,1,0.0528,0.357,6.05e-05,0.643,0.208,143.143,250200,4
+(Pride) In The Name Of Love,U2,3,3dh2LlmeMqKJbzn2WUgt3d,62,0.458,0.843,4,-7.201,1,0.0316,0.00135,0.000296,0.778,0.713,105.701,228427,4
+(Quarter To Four) Stomp,The Stompers,9,4YUAcUPZzIZPO47NA3P5ZJ,28,0.554,0.918,8,-6.172,0,0.107,2.86e-05,0.704,0.551,0.27,120.05,356160,4
+(Reach Up For The) Sunrise,Duran Duran,8,3SwfiKBx4rv3fGmtHT3UqO,42,0.62,0.826,7,-3.985,0,0.0381,6.78e-05,0.00755,0.114,0.535,126.996,205467,4
+(Remember Me) I'm The One Who Loves You,Dean Martin,3,1q2RbUwPCCvO97Mx0VygiX,37,0.473,0.506,1,-13.103,1,0.0377,0.64,1.13e-05,0.24,0.591,113.371,145320,4
+(Remember The Days Of The) Old Schoolyard,Cat Stevens,3,1a2fmmAAlGGxiUTDLM3ghL,47,0.648,0.581,10,-8.684,1,0.0495,0.485,0.0,0.565,0.61,146.182,164827,4
+(Sartorial Eloquence) Don't Ya Wanna Play This Game No More?,Elton John,3,5rAANtMAQ8HDaowP6Sq7FK,19,0.466,0.289,10,-12.451,1,0.0351,0.822,3.97e-06,0.0896,0.344,153.757,212853,4
+(Say) You're My Girl,Roy Orbison,3,1FmN2ZJQ8W5Dn5rVzWvth1,12,0.513,0.473,0,-8.578,1,0.0273,0.778,6.92e-06,0.18,0.852,82.187,167133,4
+(Seven Little Girls) Sitting In The Back Seat,Paul Evans and the Curls,0,2B3s8b5BaRWC1qmQM7Cu8l,16,0.814,0.457,9,-11.482,1,0.0512,0.764,1.11e-06,0.315,0.797,126.998,131880,4
+"(Shake, Shake, Shake) Shake Your Booty",KC And The Sunshine Band,0,3Is0Nnz59rzbNZE491URlY,56,0.649,0.825,10,-12.243,0,0.0335,0.00606,0.154,0.104,0.961,112.124,186907,4
+(She's A) Very Lovely Woman/The Long Way Around,Linda Ronstadt,6,1khA4hwhZD4HMecyE1e9U1,68,0.427,0.192,9,-14.611,1,0.0285,0.795,2.55e-06,0.314,0.272,91.088,263400,4
+(She's Got) Skillz,All-4-One,5,4tlryZypTlbIaa7YrgxCSN,38,0.942,0.595,8,-9.781,0,0.0458,0.152,0.000142,0.0861,0.958,100.41,245067,4
+(She's Just A) Fallen Angel,Starz,9,7jZt2SPkdUlp6uLwKNU6lj,14,0.395,0.911,1,-3.494,1,0.0809,0.00143,0.000555,0.113,0.398,114.302,212813,4
+(She's) Some Kind Of Wonderful,Huey Lewis & The News,4,0YeAFaP8VzNfpvTJy5hafo,0,0.7,0.446,0,-13.354,1,0.0356,0.164,0.857,0.158,0.358,133.055,167053,4
+(She's) Some Kind Of Wonderful,The Fantastic Johnny C,8,7jljIAJc56IUUpsBWsZKo2,2,0.732,0.498,2,-6.737,1,0.0336,0.598,0.000636,0.0788,0.344,129.699,151067,4
+(Shu-Doo-Pa-Poo-Poop) Love Being Your Fool,Travis Wammack,3,4gjf4cU4GacDcw8yPNeIGl,5,0.692,0.696,8,-12.776,1,0.0421,0.203,4.19e-06,0.105,0.865,103.666,202107,4
+(Sittin' On) The Dock Of The Bay,The Reddings,5,1dnyOQ9DMv3KrtqyLTE4dy,4,0.724,0.585,7,-6.739,1,0.03,0.0582,0.00285,0.104,0.471,104.761,185733,4
+(Sittin' On) The Dock Of The Bay,Michael Bolton,1,0tvKT0EdO4Gm1nw7rgiHHa,37,0.464,0.525,2,-13.806,1,0.0566,0.192,7.23e-06,0.268,0.565,178.352,231240,4
+(Sittin' On) The Dock Of The Bay,Sammy Hagar,6,3LMelxlaociDgqIzLR1eAz,14,0.655,0.52,11,-10.262,0,0.0292,0.0981,0.0,0.104,0.759,110.824,182467,4
+(Sittin' On) The Dock Of The Bay,King Curtis & The Kingpins,8,0SQMLCWkO6gmZPJkTH5n8o,50,0.611,0.672,8,-10.758,1,0.0345,0.0467,0.893,0.153,0.194,121.01,226849,4
+(Sittin' On) The Dock Of The Bay,Otis Redding,0,3zBhihYUHBmGd2bcQIobrF,77,0.769,0.367,2,-11.226,1,0.0312,0.684,1.62e-05,0.081,0.535,103.621,163756,4
+(Sittin' On) The Dock Of The Bay,Sergio Mendes & Brasil '66,6,0HJ545UgMU7ttqYHFvb6pn,23,0.728,0.35,2,-14.001,1,0.0333,0.815,5.94e-06,0.0943,0.566,110.772,191760,4
+(Such An) Easy Question,Elvis Presley With The Jordanaires,1,1EQM2dzVfURV0WklqRK4rV,27,0.648,0.304,5,-15.691,1,0.036,0.82,0.000104,0.117,0.641,104.774,140773,4
+(Sweet Sweet Baby) Since You've Been Gone,Aretha Franklin,0,3lrSnngQqNWgvQmcFbCJCx,48,0.708,0.67,3,-8.142,1,0.029,0.471,0.0318,0.0631,0.939,117.149,145507,4
+(That's) What The Nitty Gritty Is,Shirley Ellis,7,0YgdjmDh0OEGyFsMBHjEoH,20,0.6,0.912,1,-4.781,1,0.181,0.133,0.0,0.48,0.824,128.767,154760,4
+(The Bees Are For The Birds) The Birds Are For The Bees,The Newbeats,4,7eGLhn6AJNiXJUS7VawiUK,3,0.483,0.478,6,-13.621,1,0.0789,0.749,0.0,0.258,0.913,170.401,133707,4
+(The Best Part Of) Breakin' Up,The Ronettes,3,6HfubSk3SSjTwZq47HLh1z,30,0.49,0.712,2,-9.591,1,0.045,0.411,0.00171,0.129,0.572,105.318,184347,4
+(The Clickity Clack Song) Four Little Heels,Brian Hyland,7,6oM4ryXpuZmbFfBv2sEe7v,56,0.449,0.362,5,-10.38,0,0.0279,0.743,0.0,0.132,0.6,90.822,162160,4
+(The Lament Of The Cherokee) Indian Reservation,Don Fardon,1,04RM7D5FZzFahr4L6QOuW6,9,0.805,0.473,10,-12.999,1,0.0507,0.24,0.00516,0.177,0.519,124.618,201200,4
+(The Lights Went Out In) Massachusetts,Bee Gees,1,33YKKW1MaDUwq7GDw3WOqR,3,0.404,0.498,2,-8.227,1,0.0278,0.149,0.00068,0.551,0.381,104.05,176320,4
+(The Man Who Shot) Liberty Valance,Gene Pitney,0,6J1O1XuGLW2Gge4emsHtHH,42,0.602,0.591,1,-8.684,0,0.053,0.739,0.0,0.175,0.837,88.392,178440,4
+(The Puppet Song) Whiskey On A Sunday,The Irish Rovers,7,6ZGHt5l3B8C64NV6uiJmEQ,22,0.685,0.456,4,-10.853,1,0.0331,0.649,0.0,0.129,0.551,121.988,160800,4
+"(The Story Of) Woman, Love And A Man (Part 1)",Tony Clarke,8,31IDV6DlO0rJsuAKtxJi53,29,0.738,0.64,7,-6.542,1,0.04,0.41,0.0,0.315,0.757,104.82,155560,4
+(The System Of) Doctor Tarr And Professor Fether,The Alan Parsons Project,3,2IfpSQcggsntXGjXRFWj1b,38,0.502,0.699,10,-7.691,1,0.0301,0.313,0.0,0.151,0.653,85.212,260853,4
+(Theme From) Any Number Can Win,Jimmy Smith,9,6i26zQpmVbXkAHWCnEJHWq,5,0.721,0.681,0,-11.191,1,0.0298,0.709,0.898,0.393,0.965,96.912,130560,4
+(Theme From) Love Story,Henry Mancini And His Orchestra,1,0zH63dNKyJBCxWROIVODnU,36,0.319,0.178,9,-17.064,0,0.0294,0.962,0.951,0.083,0.122,94.525,171733,4
+(Theme From) Silver City,The Ventures,8,7B2pUwzvlbNG9D855r9ugf,48,0.488,0.648,5,-13.252,1,0.0305,0.852,0.914,0.13,0.949,156.35,122933,4
+(Theme From) The Sundowners,Mantovani & His Orchestra,9,3VmJ6xnFd5uqSK98E8BU3S,30,0.189,0.259,9,-15.896,1,0.0361,0.94,0.911,0.0769,0.23,112.943,175800,4
+(Theme From) Valley Of The Dolls,Dionne Warwick,0,021O8Fvrww2EJB8220tgXo,37,0.23,0.273,5,-13.277,1,0.0352,0.871,2.21e-06,0.059,0.0868,74.919,218840,4
+(Theme from) Charlie's Angels,Henry Mancini And His Orchestra,4,0ZA8EGsw0Zy0PEM2R875yS,5,0.592,0.658,7,-12.109,1,0.0348,0.0681,0.815,0.0514,0.968,145.897,183160,4
+(Theme from) My Three Sons,Lawrence Welk And His Orchestra,5,6jmmZKEqMA2ByuM47ramS9,25,0.568,0.52,5,-12.936,1,0.0337,0.13,0.149,0.0953,0.872,74.185,142867,4
+(Theme from) The Great Impostor,Henry Mancini And His Orchestra,8,6bXt2g5gzKiM7uZ4RKgF6X,15,0.544,0.365,9,-14.987,1,0.0272,0.384,0.164,0.361,0.415,86.833,164304,4
+(There Was A) Tall Oak Tree,Dorsey Burnette,2,6lkrCM376Qf0vOrOEbz8xr,0,0.511,0.446,7,-8.818,1,0.0605,0.0851,0.0,0.121,0.595,133.232,129080,4
+(There'll Come A Day When) Ev'ry Little Bit Hurts,Bobby Vee,8,4Qsicckf87Me6e3lmrmgGR,13,0.571,0.397,9,-9.991,1,0.0392,0.491,0.0,0.0393,0.903,160.539,121467,4
+(There's Gotta Be) More To Life,Stacie Orrico,2,2x5qF66rFO6DERBMNkQAqn,57,0.58,0.922,1,-3.785,1,0.0957,0.0917,0.0,0.189,0.649,89.841,200387,4
+(There's No Place Like) Home For The Holidays,Perry Como,2,2GapxG7BxK55ihQRAlR39e,46,0.532,0.401,5,-10.629,1,0.0525,0.869,0.0,0.222,0.45,143.823,178293,4
+(There's) Always Something There To Remind Me,Sandie Shaw,5,4UMFglAuTDcDj6rbmIS6tW,49,0.484,0.39,8,-8.786,1,0.0422,0.736,0.0,0.0616,0.694,85.337,165720,4
+(There's) Always Something There To Remind Me,Dionne Warwick,6,0qlyxOj68o45dH4ILAekvD,37,0.646,0.454,7,-10.596,1,0.0541,0.674,1.16e-06,0.238,0.879,82.905,181613,4
+(There's) Always Something There To Remind Me,Lou Johnson,4,1zc9G4b4zbRptS59Lg8VZu,37,0.559,0.47,10,-8.163,1,0.0612,0.472,0.0,0.0742,0.741,77.858,193973,4
+(There's) No Gettin' Over Me,Ronnie Milsap,0,2bRnP6FjtlASGsDtcgRVuI,56,0.595,0.447,1,-10.342,0,0.0323,0.627,0.000586,0.3,0.787,200.528,199680,4
+(They Long To Be) Close To You,Carpenters,0,50q2aUjWoTn6CJIfSPRJQA,62,0.532,0.244,8,-14.652,1,0.0327,0.707,4.56e-05,0.122,0.238,89.327,276000,4
+(They Long To Be) Close To You,Jerry Butler & Brenda Lee Eager,9,4EbqnubLpWIxPbIVcMH305,44,0.406,0.317,7,-11.474,1,0.0292,0.638,6.83e-05,0.0564,0.347,52.679,161667,4
+(Today I Met) The Boy I'm Gonna Marry,Darlene Love,3,2Px4PrbPBMeWB1silbjI5H,50,0.355,0.703,1,-5.847,0,0.0586,0.54,0.0645,0.911,0.607,100.878,166053,4
+(Want You) Back In My Life Again,Carpenters,7,3dIBiWACV8dHz7HYn3fi7V,35,0.807,0.54,2,-12.467,0,0.0345,0.0858,8.95e-06,0.0746,0.849,127.17,220507,4
+(We Ain't Got) Nothin' Yet,Blues Magoos,0,6cQdZhnwKIeLud5qTD7BuQ,39,0.398,0.864,10,-8.199,1,0.0492,0.523,0.0,0.0985,0.782,148.47,135747,4
+(We'll Be) United,The Intruders,7,5Dbnnnj3PKhA3z0hSQk5J2,36,0.494,0.345,0,-12.054,1,0.0261,0.155,0.0,0.213,0.3,90.033,169867,4
+(We've Got) Honey Love,Martha Reeves & The Vandellas,5,2Gj1vc5Z4cX673brTMDe8W,8,0.722,0.642,1,-7.523,1,0.161,0.517,8.7e-05,0.213,0.596,116.965,149133,4
+(Welcome) New Lovers,Pat Boone,1,657T90Nnp6WpwhZ8oyBCiU,1,0.582,0.438,8,-16.499,1,0.0388,0.927,0.762,0.511,0.837,119.192,135736,4
+(What A Sad Way) To Love Someone,Ral Donner,7,4iGZLW24u14YEtlVYp901c,2,0.49,0.338,3,-11.528,1,0.0313,0.87,0.000424,0.106,0.528,158.69,179587,4
+(What A)  Wonderful World,Art Garfunkel With James Taylor & Paul Simon,1,29U7stRjqHU6rMiS8BfaI9,76,0.271,0.165,5,-20.652,1,0.0351,0.729,1.6e-06,0.118,0.203,77.082,139227,4
+(When You Gonna) Give It Up To Me,Sean Paul Feat. Keyshia Cole,0,6k8uthjEbttfWXcGaNTQGD,53,0.711,0.761,8,-3.04,1,0.225,0.067,0.0,0.041,0.718,95.824,243880,4
+(Where Do I Begin) Love Story,Andy Williams,0,45FLu3nL1iMYXYPzhqLdko,54,0.259,0.473,6,-10.187,1,0.0324,0.512,1.5e-06,0.4,0.232,84.897,189067,4
+(Wish I Could Fly Like) Superman,The Kinks,4,5IPEy9jMguqxZzAiZVNSiV,41,0.773,0.683,1,-11.069,0,0.0503,0.0435,4.48e-05,0.0706,0.952,123.453,216969,4
+(You Better) Know What You're Doin',Lloyd Price and His Orchestra,8,0gqYQBiXksbJ8dMpkwy9ne,44,0.497,0.677,3,-7.864,1,0.042,0.866,0.735,0.182,0.784,130.11,111000,4
+(You Can Still) Rock In America,Night Ranger,5,1anccAjNKZNKlTbHGheeCA,49,0.384,0.778,11,-12.719,0,0.0567,0.000372,0.000114,0.191,0.594,164.768,255160,4
+(You Can't Let The Boy Overpower) The Man In You,Chuck Jackson,9,1kkyUSwuSCkM8nnbqBdtEf,11,0.693,0.398,10,-15.016,0,0.0436,0.0234,0.0,0.297,0.8,94.646,186147,4
+(You Can't Let The Boy Overpower) The Man In You,The Miracles,5,5pQdkHkwQfLMkUE5UaTN2A,7,0.393,0.518,7,-8.026,1,0.0403,0.422,0.0,0.192,0.716,140.742,175893,3
+(You Don't Have To) Paint Me A Picture,Gary Lewis And The Playboys,1,7lhPwKa37sjV9eqWouT9B4,27,0.612,0.452,9,-11.851,1,0.0394,0.632,0.0,0.0599,0.938,144.299,125427,4
+(You Don't Know) How Glad I Am,Nancy Wilson,1,4YkN3JlceD5n2aMqL1kFnH,52,0.529,0.44,5,-9.11,1,0.0302,0.742,1.05e-05,0.328,0.611,103.669,157387,3
+(You Drive Me) Crazy,Britney Spears,0,1DSJNBNhGZCigg9ll5VeZv,65,0.748,0.939,0,-4.288,0,0.0341,0.0534,0.0,0.32,0.96,104.001,198067,4
+(You Got To Walk And) Don't Look Back,Peter Tosh with Mick Jagger,8,2vDUqLZsaEEYmREcRo9gnn,49,0.786,0.784,7,-4.951,1,0.0608,0.452,0.0477,0.0791,0.812,91.053,320280,4
+(You Gotta) Fight For Your Right (To Party!),Beastie Boys,0,2QvIOJ4EIz4MIwWRpKG4mi,37,0.691,0.838,8,-5.321,1,0.0316,0.0447,0.000215,0.112,0.716,133.507,210387,4
+(You Keep Me) Hangin' On,Joe Simon,2,26NysICbeElPyjSqkPkXLJ,18,0.586,0.301,7,-15.309,1,0.0261,0.649,0.0,0.0906,0.544,96.906,165587,4
+(You Make Me Feel) So Good,The McCoys,5,4V5RFkTNDTGjkHEkg31aQQ,6,0.797,0.646,4,-10.997,1,0.0459,0.0393,0.0517,0.168,0.854,111.882,161560,4
+(You Want To) Make A Memory,Bon Jovi,2,09ln4QumFqjIkfCFiW9aRk,52,0.51,0.417,0,-7.583,1,0.0263,0.111,6.36e-05,0.116,0.145,148.01,276453,4
+(You Were Made For) All My Love,Jackie Wilson,1,5ZPv7iC9p3qaTgaFbouI3O,10,0.321,0.468,2,-4.934,1,0.0317,0.898,8.29e-06,0.113,0.411,76.99,125867,4
+(You're Gonna) Hurt Yourself,Frankie Valli,3,0ppuz64FCc6gyXk0MojsdJ,25,0.669,0.581,10,-6.929,1,0.0616,0.511,0.0,0.222,0.659,135.774,152293,4
+(You're My One And Only) True Love,Seduction,2,1YfNts4JnobNtEmK8O6Dx4,10,0.616,0.912,10,-4.069,0,0.0345,0.0287,8.77e-05,0.0681,0.927,104.415,276850,4
+(You're My) Soul And Inspiration,Donny & Marie Osmond,3,4GEhLyiNVnpioIIBVvj77j,23,0.271,0.768,2,-4.132,1,0.0514,0.389,6.58e-05,0.105,0.662,200.307,194880,4
+(You're My) Soul And Inspiration,The Righteous Brothers,0,7ES3QjxzmFKMJWt90giLsv,9,0.48,0.416,10,-11.692,1,0.0847,0.77,0.000681,0.966,0.428,93.701,206107,4
+(You're Puttin') A Rush On Me,Stephanie Mills,8,4aLQ6VBFJl7i8msvDOjIsp,43,0.751,0.603,4,-11.129,0,0.0549,0.025,0.00836,0.0537,0.474,101.936,352933,4
+(You're the) Devil In Disguise,Elvis Presley With The Jordanaires,0,0D1pEisM3QkiacGXJe5dmd,65,0.481,0.733,5,-7.633,1,0.165,0.575,1.18e-05,0.108,0.874,122.909,140427,4
+(You're) Having My Baby,Paul Anka with Odia Coates,0,3HyGehU6OJz67jZZKrAMwW,0,0.351,0.405,0,-11.643,1,0.031,0.0101,0.00189,0.54,0.391,76.014,149954,4
+(You've Got Me) Dangling On A String,Chairman Of The Board,3,0EPJvyr92egSAbAfCScD3W,0,0.606,0.759,7,-8.479,1,0.0272,0.000586,0.164,0.117,0.648,132.08,187977,4
+(You've Got To) Move Two Mountains,Marv Johnson,1,3m9eJU9HVaYRYhFq6ZxcsT,8,0.735,0.724,10,-7.91,1,0.0494,0.686,3.35e-05,0.126,0.96,130.355,165933,4
+(You've Got) Personality And Chantilly Lace,Mitch Ryder,8,5giLynsakhbrG39FuubvPh,14,0.511,0.824,11,-4.989,1,0.0529,0.177,0.00292,0.95,0.837,140.4,224987,4
+(Your Love Keeps Lifting Me) Higher And Higher,Jackie Wilson,0,5qyq1H5OPMlfuvZQ1wQNo7,71,0.634,0.677,2,-7.19,1,0.0448,0.318,0.0,0.0902,0.939,95.792,179120,4
+(everybody Wanna Get Rich) Rite Away,Dr. John,9,2a0fkN8dbA5Kh8SR7cvl3D,49,0.746,0.916,9,-10.061,1,0.0772,0.518,0.0686,0.0785,0.971,99.926,163933,4
+(i've Been) Searchin' So Long,Chicago,0,3z9pBucv2HHp1gYaTcQwiI,39,0.194,0.591,0,-6.181,1,0.0318,0.118,6.43e-05,0.2,0.164,171.066,268427,4
+(if You Add) All The Love In The World,Mac Davis,5,1P7yXlWH1VjAlu8x1cawmb,3,0.371,0.433,10,-10.908,1,0.0343,0.66,1.33e-05,0.103,0.359,159.27,213107,4
+(oh) Pretty Woman,Van Halen,1,7ptv3yXdBWwzO7rVA62rwy,60,0.441,0.97,1,-2.1,0,0.0708,0.192,1.68e-06,0.312,0.5,128.289,172671,4
+(she's) Sexy + 17,Stray Cats,0,5x5FUXjs53WbPuTwT6WD8d,43,0.525,0.931,9,-5.593,1,0.0583,0.00831,0.0,0.106,0.75,89.9,194067,4
+(what) In The Name Of Love,Naked Eyes,3,4K5vvAu9tMdXfpv2TUp7l5,36,0.704,0.75,4,-12.224,0,0.0384,0.0647,0.000183,0.0882,0.837,113.478,267067,4
+"(you're So Square) Baby, I Don't Care",Joni Mitchell,4,5EsPLgSs1UQIDJG0U00RuJ,44,0.493,0.0888,7,-15.836,1,0.0546,0.95,7.97e-06,0.173,0.262,100.182,325600,3
+(your Love Has Lifted Me) Higher And Higher,Rita Coolidge,0,39iKJpLPhsDTOzH2lXliWF,49,0.656,0.646,10,-9.169,0,0.0336,0.0575,0.00464,0.16,0.75,117.586,241720,4
+***Flawless,Beyonce Featuring Nicki Minaj Or Chimamanda Ngozi Adichie,4,6ma6Oe9PrzJsckdCebJoFM,52,0.58,0.764,8,-9.321,1,0.221,0.079,2.1e-06,0.776,0.444,137.068,238294,4
+-twistin'-White Silver Sands,Bill Black's Combo,9,7IS9MwiLJp91PEyoUDazqb,20,0.895,0.608,0,-7.224,1,0.0391,0.558,0.14,0.0659,0.96,117.705,154427,4
+......And Roses And Roses,Andy Williams,3,3tvqPPpXyIgKrm4PR9HCf0,31,0.154,0.185,5,-14.063,1,0.0315,0.911,0.000267,0.112,0.15,83.969,166107,4
+...And Then There Were Drums,Sandy Nelson,6,1fHHq3qHU8wpRKHzhojZ4a,19,0.588,0.672,11,-17.278,0,0.0361,0.00256,0.745,0.145,0.801,121.962,172067,4
+...Baby One More Time,Britney Spears,0,3MjUtNVVq3C8Fn0MP3zhXa,78,0.759,0.699,0,-5.745,0,0.0307,0.202,0.000131,0.443,0.907,92.96,211067,4
+...Ready For It?,Taylor Swift,0,2yLa0QULdQr0qAIvVwN6B5,78,0.613,0.764,2,-6.509,1,0.136,0.0527,0.0,0.197,0.417,160.015,208187,4
+0 To 100 / The Catch Up,Drake,3,4jtyUzZm9WLc2AdaJ1dso7,70,0.559,0.716,11,-3.964,0,0.39,0.737,0.0,0.252,0.504,176.618,275227,4
+1 Night,Lil Yachty,4,40yJGQyEaBbIkXpwMFkXip,64,0.764,0.475,0,-12.618,1,0.114,0.345,0.0,0.14,0.34,129.974,243270,4
+"1 Step Forward, 3 Steps Back",Olivia Rodrigo,1,4wcBRRpIfesgcyUtis7PEg,76,0.473,0.203,2,-12.627,1,0.102,0.941,0.0,0.126,0.419,168.884,163587,4
+1 Thing,Amerie,0,1mnqraQ8oV8MX92rdOFLWW,63,0.612,0.961,10,-3.078,0,0.333,0.107,4.17e-05,0.0413,0.867,129.873,238760,5
+1+1,Beyonce,5,1pzJboOZaDNwshBnOlNh3a,56,0.365,0.382,6,-7.344,1,0.0295,0.382,5.08e-06,0.0661,0.268,148.363,273880,3
+"1, 2 Many",Luke Combs & Brooks & Dunn,9,226le7T3p82reYWzsi9Hsz,71,0.54,0.821,6,-3.789,1,0.0873,0.0397,0.0,0.423,0.685,148.798,180907,4
+"1, 2 Step",Ciara Featuring Missy Elliott,0,7uKcScNXuO3MWw6LowBjW1,74,0.944,0.511,5,-10.96,0,0.161,0.042,0.00107,0.0379,0.842,113.046,203787,4
+"1, 2, 3, 4",Plain White T's,3,5VWmMZCfJ4yVkJw9ZLFXej,58,0.458,0.55,2,-7.092,1,0.0262,0.566,1.39e-05,0.108,0.56,90.56,198360,4
+"1, 2, 3, 4 (Sumpin' New)",Coolio,0,2wPjoNKQAfEdgEYrPIBwAD,49,0.904,0.747,1,-7.218,0,0.157,0.296,0.00286,0.322,0.61,115.181,213920,4
+"1, 2, 3, Red Light",1910 Fruitgum Co.,0,4fnvjQXs8y18X8br917ohs,32,0.718,0.498,3,-8.904,1,0.0374,0.132,0.0,0.0536,0.982,115.957,127120,4
+"1,000 Laughs",Eloise Laws,9,6u2vQNfgP0IDB9mWeoZaoO,5,0.672,0.766,5,-6.766,1,0.0504,0.561,2.33e-05,0.158,0.714,125.418,208013,4
+1-2-3,The Chimes,8,59SxsQ3e2bQ9U65GelEMqV,17,0.826,0.611,6,-12.571,1,0.0648,0.0336,0.0224,0.0498,0.919,109.801,203360,4
+1-2-3,Gloria Estefan & Miami Sound Machine,0,416JOW69ts3p74piLulkd5,5,0.768,0.557,7,-11.698,1,0.0405,0.00271,0.36,0.26,0.471,125.824,206450,4
+1-2-3,Len Barry,0,5t6q0AC5pTGxCnLSg3qu4i,22,0.65,0.691,5,-7.006,1,0.0409,0.145,0.0,0.305,0.736,126.564,141840,4
+1-4-All-4-1,East Coast Family,8,00GXITN3KudnqcJgkwXRrh,45,0.512,0.559,9,-8.529,0,0.0241,0.185,0.106,0.379,0.248,82.002,277313,4
+1-800-273-8255,Logic Featuring Alessia Cara & Khalid,0,5tz69p7tJuGPeMGwNTxYuV,76,0.62,0.574,5,-7.788,0,0.0479,0.569,0.0,0.19,0.357,100.023,250173,4
+1-Luv,E-40 (Featuring Leviti),7,2yJCZ4b5v5vT0iqAs9LuS5,37,0.806,0.746,2,-5.473,1,0.151,0.0657,6.43e-05,0.127,0.417,90.038,308307,4
+1.5,21 Savage,8,2wOXxtHZgRkkrkEbKLzzqs,63,0.885,0.52,1,-8.353,1,0.359,0.000244,1.16e-06,0.454,0.306,84.022,148656,4
+10 Bands,Drake,5,12d5QFwzh60IIHlsSnAvps,67,0.825,0.756,11,-3.687,0,0.383,0.265,2.15e-06,0.0762,0.888,172.938,177733,4
+10 Freaky Girls,Metro Boomin Featuring 21 Savage,4,0AluA5RNsa4Cx6XRhf2hWZ,78,0.81,0.353,6,-9.931,0,0.31,0.588,0.0,0.102,0.0727,88.031,208293,4
+10 Little Bottles,Johnny Bond,4,2YMnLj1gVgS2wpNZG6K5Xr,14,0.451,0.467,2,-8.304,1,0.213,0.898,0.0,0.971,0.58,91.323,245507,4
+"10,000 Hours",Dan + Shay & Justin Bieber,0,2wrJq5XKLnmhRXHIAf9xBa,76,0.654,0.63,10,-4.644,1,0.0259,0.153,0.0,0.111,0.43,89.991,167693,4
+10-9-8,Face To Face,3,5EuHpH5tpXkXpGHt8Zlafa,12,0.731,0.798,6,-8.004,0,0.0432,0.0135,0.0084,0.252,0.766,119.723,234560,4
+100,The Game Featuring Drake,8,6FyDii5Aec6cNcjLzvS37z,53,0.801,0.521,4,-9.871,0,0.28,0.0136,0.0,0.179,0.412,108.025,334360,4
+100 Grandkids,Mac Miller,9,4z0PnuB07fxtVZZRWsCfxb,63,0.735,0.749,10,-3.766,0,0.0874,0.371,0.0,0.47,0.373,93.718,278507,4
+100 Years,Five For Fighting,2,2lFlveK1y13WWp3vnQtrr3,65,0.643,0.569,7,-7.459,1,0.0276,0.544,2.17e-05,0.178,0.275,120.507,244600,4
+100 Years,Nancy Sinatra,6,25nEGGqcm7rrz7yqscoPCo,9,0.383,0.478,0,-10.247,1,0.0287,0.54,1.81e-05,0.123,0.341,98.463,151510,3
+100% Pure Love,Crystal Waters,1,66X03EIfE1zm99rd4SfL71,53,0.811,0.697,8,-8.019,1,0.0502,0.0923,0.0144,0.0784,0.712,120.242,280467,4
+100.mil',J. Cole & Bas,1,4n6NDfYake476trCjJRNl0,62,0.711,0.647,2,-5.667,0,0.0822,0.334,0.0,0.312,0.227,125.092,163302,4
+1234,Feist,0,2CzWeyC9zlDpIOZPUUKrBW,59,0.71,0.484,2,-7.415,1,0.049,0.217,3.93e-06,0.0879,0.576,109.951,183667,4
+13 Questions,Seatrain,4,3lSrMxJwwGawtXZflUa1iN,51,0.657,0.739,2,-6.415,1,0.0507,0.00547,0.0,0.0817,0.743,139.924,179227,4
+1400 / 999 Freestyle,Trippie Redd Featuring Juice WRLD,5,75lcPkAkUsKWHGBlGM476R,76,0.825,0.572,6,-6.067,0,0.0864,0.0079,0.0,0.113,0.568,141.991,175954,4
+143,Bobby Brackins Featuring Ray J,7,0v9kGNjkKdQUdDoBIuiph4,61,0.762,0.625,9,-10.481,1,0.0562,0.0655,0.0,0.252,0.696,110.163,291560,4
+1432 Franklin Pike Circle Hero,Bobby Russell,3,50hLHEqKI63x4VzZcqTZhL,42,0.848,0.651,9,-8.465,1,0.0657,0.0849,0.00139,0.138,0.844,88.818,154009,4
+15 Minutes,Marc Nelson,2,31U1AufgZfE2XRJB4D6otD,19,0.626,0.581,7,-5.017,1,0.0859,0.162,0.0,0.125,0.229,77.526,151573,4
+16 Candles,The Crests,0,7u4cRwR5sdV874GRRLWXp7,16,0.548,0.332,10,-13.075,1,0.0285,0.824,0.0,0.302,0.653,114.671,172266,3
+17,Rick James,3,6OcLpsG6btCBvPvrFCS2Lw,25,0.795,0.732,1,-10.487,1,0.0562,0.0176,0.000784,0.499,0.874,119.315,249653,4
+17 Again,Brantley Gilbert,8,7qgsIONiXn49hfU4OfgBSJ,33,0.43,0.871,1,-4.89,1,0.035,0.011,8.71e-06,0.374,0.7,173.928,239773,4
+18,One Direction,8,3JjnGLK8IxkNLvo8Lb3KOM,81,0.681,0.582,6,-7.76,0,0.0313,0.22,0.0,0.119,0.221,124.038,248360,4
+18 And Life,Skid Row,0,0qgrrDnUUhyxpxbBznUnzg,70,0.466,0.648,1,-11.101,0,0.028,0.0023,1.49e-05,0.112,0.305,90.435,229960,4
+18 Yellow Roses,Bobby Darin,0,1j0bGiIr8TI4YwBOHWpWFs,38,0.59,0.466,4,-12.161,1,0.0306,0.662,1.8e-06,0.163,0.772,128.291,139640,4
+19,Paul Hardcastle,1,4YNyU0vEEC5grHkHnO9lhF,48,0.753,0.897,11,-8.54,1,0.073,0.00282,0.73,0.351,0.937,117.933,210853,4
+19 Somethin',Mark Wills,2,0ElpjZyX8YBiXuYcDC1Ci9,60,0.58,0.816,4,-5.165,1,0.0726,0.132,0.0,0.0776,0.814,89.938,200467,4
+19 You + Me,Dan + Shay,4,7ongSdLv28Z27WeCrzZXwB,55,0.493,0.67,6,-5.131,1,0.0298,0.319,0.0,0.102,0.451,151.989,217407,3
+1900 Yesterday,Liz Damon's Orient Express,3,5UsiMHzHpuoGnG7RpBZkfJ,29,0.605,0.234,8,-17.226,1,0.0265,0.897,0.00151,0.114,0.4,101.915,177693,4
+1901,Phoenix,8,1Ug5wxoHthwxctyWTUMGta,68,0.59,0.829,0,-5.649,1,0.0419,0.0601,3.99e-05,0.19,0.704,144.099,193107,4
+1927 Kansas City,Mike Reilly,8,6e3TEBkczYWFjZOLRp5NB3,35,0.57,0.682,4,-12.551,1,0.0294,0.609,1.04e-06,0.205,0.915,154.293,190467,4
+1941,Tom Northcott,8,4q2kFl7xEOdrrfccjYZ9JK,0,0.522,0.626,6,-7.337,1,0.0304,0.334,0.0,0.194,0.744,99.707,172693,4
+1942,G-Eazy Featuring Yo Gotti & YBN Nahmir,6,4ypVlV8Wd1LRDJVcqlakxn,34,0.821,0.629,4,-5.125,0,0.271,0.0202,0.0,0.0925,0.816,162.973,213587,4
+1942 Flows,Meek Mill,8,7sLDnUauivS2vN6Z9EfUJT,57,0.63,0.628,2,-4.016,1,0.327,0.0515,0.0,0.091,0.266,121.307,282667,5
+1973,James Blunt,7,3hSNjUNR9SVk1up3zXwhFR,0,0.72,0.668,9,-7.928,1,0.0269,0.0653,0.00675,0.0789,0.769,123.005,280027,4
+1979,The Smashing Pumpkins,1,5QLHGv0DfpeXLNFo7SFEy1,76,0.767,0.787,3,-9.897,1,0.0331,0.0163,0.583,0.0513,0.964,126.879,266200,4
+1984,Spirit,6,7lWrbXLcsWuRYtS8dqQgNX,10,0.537,0.595,8,-8.749,0,0.0442,0.134,0.00294,0.0764,0.698,130.988,217133,4
+1985,Bowling For Soup,2,5oQcOu1omDykbIPSdSQQNJ,70,0.606,0.887,4,-4.404,1,0.0598,0.000242,0.0,0.337,0.903,119.974,193000,4
+1985 (Intro To The Fall Off),J. Cole,1,7EulRO07ZgchxqKUHb8Pvc,64,0.679,0.648,2,-5.892,1,0.445,0.145,0.0,0.182,0.635,94.378,190177,4
+1994,Jason Aldean,5,3C6WblKJq7rpsPsIafytEV,48,0.598,0.777,11,-6.676,0,0.0396,0.183,0.0,0.111,0.821,159.942,242680,4
+1999,Prince,1,2QSUyofqpGDCo026OPiTBQ,59,0.864,0.826,10,-5.496,1,0.0814,0.23,2.36e-06,0.0663,0.596,118.955,373747,4
+19th Nervous Breakdown,The Rolling Stones,0,21ElXnithj4MX8E4rg5lh8,41,0.477,0.842,4,-7.356,1,0.0371,0.0142,0.106,0.271,0.796,96.457,236400,4
+1st Of Tha Month,Bone Thugs-N-Harmony,1,1dF5Y2dd7Wm4wZKvVjWBpr,65,0.729,0.581,5,-8.235,0,0.18,0.0777,3.81e-06,0.696,0.508,74.038,314680,4
+1st Time,Yung Joc Featuring Marques Houston & Trey Songz,8,5ehwXxbiFNYwlmntoKom7h,38,0.686,0.603,6,-6.112,1,0.202,0.0981,0.0,0.102,0.778,133.034,267627,4
+2 Become 1,Spice Girls,0,36AWdhZIGLUTkWpJDhe7va,66,0.646,0.665,6,-7.878,1,0.0268,0.326,1.97e-05,0.238,0.7,143.966,241027,4
+2 Legit 2 Quit,M.C. Hammer,0,4ZnKSrukEcPuMxGrcZEEh1,50,0.853,0.884,1,-6.771,1,0.0836,0.0394,6.83e-06,0.0313,0.668,124.542,333624,4
+2 Much,Justin Bieber,6,0oaY19dUwZimIgzn3ZZLZO,68,0.583,0.444,9,-8.601,1,0.0456,0.593,0.0,0.353,0.167,119.59,152796,4
+2 On,Tinashe Featuring ScHoolboy Q,2,3jVtllWS5CFFWLQng8sKsr,72,0.742,0.595,9,-7.51,1,0.107,0.15,0.0,0.111,0.431,101.013,227000,4
+2 Phones,Kevin Gates,1,0wdKiSBUT7aZkXUIdJWcwC,67,0.895,0.681,7,-5.267,0,0.358,0.157,0.0,0.189,0.554,121.918,240000,4
+2 Reasons,Trey Songz Featuring T.I.,4,6lgzJuBX3iqevLdtgNlyAU,48,0.734,0.746,11,-5.088,1,0.0762,0.00135,0.0,0.178,0.539,94.033,197627,4
+2 Step,Unk,2,7beqVxFB2g7DlL09mvfjDv,48,0.763,0.797,11,-2.274,0,0.0977,0.0583,0.0,0.299,0.645,77.003,195787,4
+2 Way Street,Missjones,6,0b4TKuvZ4eJ8eHgJgXaCnN,57,0.32,0.84,2,-6.703,1,0.0447,7.86e-05,0.761,0.135,0.173,160.104,300187,4
+20-75,Willie Mitchell,3,1dYDIWo3LKxziC1a3stxwv,18,0.887,0.798,10,-6.218,1,0.0366,0.571,0.842,0.156,0.97,127.984,131493,4
+20/20,Lil Tjay,9,4Hqh0dS4x07zuRw6eBTO7p,62,0.886,0.336,4,-12.779,1,0.239,0.557,0.0,0.0933,0.536,100.044,230448,4
+20/20,George Benson,4,7uhOlFq30tYkUZ70JwbRre,42,0.625,0.373,5,-12.549,0,0.0383,0.5,0.000524,0.132,0.43,88.543,483133,4
+2012 (It Ain't The End),Jay Sean Featuring Nicki Minaj,3,1ERCOXHQcoLSTlgmNTlcrR,56,0.717,0.792,0,-2.703,1,0.0393,0.199,0.0,0.423,0.513,126.975,222200,4
+2040,Lil Baby & Lil Durk,3,2ELp0EL65yitpfJYwc5983,62,0.744,0.697,11,-4.067,1,0.136,0.0415,0.0,0.112,0.238,150.046,192921,4
+2055,Sleepy Hallow,5,4XvcHTUfIlWfyJTRG0aqlo,81,0.829,0.512,6,-5.865,0,0.187,0.492,0.0,0.12,0.638,80.511,123987,4
+21,Polo G,6,3JKgcAa7r07ocVWcV8bS0H,76,0.783,0.479,7,-10.646,1,0.541,0.149,0.0,0.101,0.533,176.027,163798,4
+21 Guns,Green Day,2,64yrDBpcdwEdNY9loyEGbX,74,0.268,0.742,5,-4.939,1,0.0355,0.0518,0.0,0.626,0.416,159.779,321093,4
+21 Questions,50 Cent Featuring Nate Dogg,0,1kUYUJoVb5tah0At0WveFu,0,0.489,0.499,8,-11.538,0,0.0815,0.229,0.78,0.0523,0.926,92.343,231013,4
+21st Century Girl,WILLOW,9,3YeSBr4X8luRfhWwiHHnad,0,0.832,0.823,9,-6.097,1,0.0385,0.02,0.84,0.148,0.438,127.985,183144,4
+22,Taylor Swift,1,3yII7UwgLF6K5zW3xad3MP,73,0.642,0.695,7,-5.62,1,0.0281,0.000443,1.02e-05,0.0753,0.642,103.984,230960,4
+223's,YNW Melly & 9lokknine,3,1ARcNPIqJMsGQ2nKljD73Y,0,0.927,0.484,0,-11.605,0,0.339,0.0376,0.0,0.292,0.442,95.072,174467,4
+"23,Mike WiLL Made-It Featuring Miley Cyrus", Wiz Khalifa & Juicy J,1,20FZrLl9zSbO9b3DhaqO6M,71,0.859,0.599,9,-5.254,1,0.0614,0.000362,8.2e-06,0.13,0.319,140.005,252520,4
+24,Money Man Featuring Lil Baby,4,0xUvi7wldroBzaZCengPa5,72,0.868,0.638,2,-7.746,1,0.0736,0.146,0.0565,0.0931,0.459,126.03,182857,4
+24,Kanye West,4,68RhNM8ehkarnEKnCkqlsp,60,0.386,0.534,5,-6.086,0,0.0389,0.129,0.0,0.351,0.343,110.057,197898,4
+24 Hours,TeeFLii Featuring 2 Chainz,8,6miFQ5ev2eTrEBJVFNRVcF,45,0.835,0.711,1,-6.682,1,0.0441,0.02,0.0,0.15,0.396,99.957,215720,4
+24 Hours,A Boogie Wit da Hoodie Featuring Lil Durk,9,0YH1xT3Z7wR6dZyaCwSziK,65,0.586,0.474,2,-9.21,0,0.18,0.334,0.0,0.118,0.146,91.105,205702,4
+24's,T.I.,7,33j4CLU9UyRjO63ry5J61Q,51,0.739,0.725,6,-4.301,1,0.203,0.227,0.0,0.0991,0.582,162.06,282907,4
+24/7,Meek Mill Featuring Ella Mai,5,6irE4Fbjbry3czv7mTxVSB,59,0.657,0.711,0,-5.355,1,0.374,0.0135,0.0,0.221,0.368,86.957,221522,4
+24/7,Kevon Edmonds,0,4rZB2G955dQMcjlb7e3VNB,39,0.696,0.627,4,-5.629,1,0.0334,0.0685,0.0,0.0993,0.322,116.047,274267,4
+24/7,Dino,4,2yfhsX7xD0WM40a09zkOp8,18,0.624,0.375,7,-14.487,1,0.0832,0.0897,1.64e-05,0.0952,0.838,172.699,260893,4
+24K Magic,Bruno Mars,0,6b8Be6ljOzmkOmFslEb23P,78,0.818,0.803,1,-4.282,1,0.0797,0.034,0.0,0.153,0.632,106.97,225983,4
+25 Or 6 To 4,Chicago,0,7GqIDx2QVGOpd4r1fZaUUW,65,0.604,0.905,4,-7.059,0,0.0578,0.309,0.0632,0.0837,0.723,147.448,289800,4
+25 To Life,Eminem,9,0dyWQoMOU9oERL6c9vxtRp,63,0.701,0.931,8,-0.945,0,0.243,0.239,0.0,0.194,0.362,79.996,241587,4
+26 Cents,The Wilkinsons,5,2Qqby4S52keCDukyq5EcBZ,49,0.641,0.462,11,-7.99,1,0.0265,0.65,0.0,0.159,0.317,101.067,231400,4
+2U,David Guetta Featuring Justin Bieber,1,762UXiwEHYY97VL45sAUPR,61,0.551,0.651,8,-5.828,0,0.0594,0.225,0.0,0.224,0.562,144.875,194907,4
+3,Britney Spears,0,6pymOcrCnMuCWdgGVTvUgP,62,0.697,0.709,5,-1.917,0,0.0455,0.0452,0.0,0.138,0.787,134.91,213173,4
+3 A.M. Eternal,The KLF,0,6Plvc2Me6ZjQuwfr2x0xYQ,15,0.732,0.577,0,-11.716,1,0.0506,0.000826,0.925,0.363,0.332,120.013,200073,4
+3 Headed Goat,Lil Durk Featuring Lil Baby & Polo G,4,6Tguhaf2uAe6OjRLsR2Tql,74,0.846,0.48,8,-8.618,0,0.359,0.269,0.0,0.0989,0.419,143.029,169532,4
+3 Headed Snake,Gunna Featuring Young Thug,7,6Tguhaf2uAe6OjRLsR2Tql,74,0.846,0.48,8,-8.618,0,0.359,0.269,0.0,0.0989,0.419,143.029,169532,4
+3 Little Words,Nu Flavor,8,4alLyN9my0O1SD9y097cPl,33,0.709,0.469,11,-7.083,0,0.0278,0.504,0.0,0.045,0.256,113.986,256307,4
+3 Peat,Lil Wayne,6,58PWl2rA7lU90UBvDufzWm,56,0.769,0.66,9,-7.37,1,0.33,0.00112,0.0,0.078,0.471,153.092,199427,4
+3-2-1 Pump,Redhead Kingpin & The F.B.I.,5,3NEVsu4jLu0aTTGtTFswL4,47,0.713,0.674,6,-8.939,0,0.127,0.0146,0.0,0.413,0.235,79.997,158050,4
+30,Pop Smoke Featuring Bizzy Banks,9,24YG5Z8Of1VHovrfXsbvCZ,57,0.578,0.684,0,-5.908,1,0.191,0.107,0.0,0.49,0.595,106.743,228252,3
+30 For 30 Freestyle,Drake,8,1DmnEYXa4WfbdhAPwNzgD8,54,0.744,0.619,4,-9.143,0,0.398,0.671,0.0,0.123,0.317,89.252,253935,4
+30-60-90,Willie Mitchell,6,4ziizyLIRG1V8caZoz70GL,32,0.864,0.537,0,-9.337,0,0.0433,0.258,0.893,0.155,0.935,120.173,146653,4
+3000 Miles,Brian Hyland,9,50nZXZID6sNOP0XIweYRmE,4,0.534,0.763,0,-5.883,1,0.0448,0.768,0.0,0.218,0.66,119.593,163467,4
+31 Days,Future,6,7MywASx2OFZngfoORjo1yy,49,0.875,0.644,1,-6.554,1,0.222,0.267,0.0,0.125,0.788,139.086,240682,4
+31 Flavors,The Shirelles,9,0hl2PFoHoKkqM3EEXqlRmh,18,0.662,0.671,0,-3.045,1,0.0294,0.304,0.0,0.341,0.92,130.924,118333,4
+32 Flavors,Alana Davis,3,3o5dmw1M6ugfLpva7yTyDr,36,0.659,0.702,2,-9.255,1,0.0308,0.11,0.000136,0.365,0.402,94.28,227307,4
+33,Polo G,9,2iW6Hb6kfrz2K7EhPibFiq,62,0.732,0.462,5,-10.191,0,0.406,0.126,0.0,0.12,0.117,180.067,170057,4
+34+35,Ariana Grande,0,6Im9k8u9iIzKMrmV7BWtlF,79,0.83,0.585,0,-6.476,1,0.094,0.237,0.0,0.248,0.485,109.978,173711,4
+34+35,Ariana Grande Feat. Doja Cat & Megan Thee Stallion,3,2sQH02O2HBCPJCztBrCWNa,66,0.659,0.662,5,-5.768,1,0.434,0.211,0.0,0.228,0.704,109.957,182438,4
+3500,Travi$ Scott Featuring Future & 2 Chainz,8,4jVBIpuOiMj1crqd8LoCrJ,67,0.835,0.699,8,-5.405,0,0.277,0.00671,0.0,0.195,0.547,154.981,202795,4
+360 Degrees (What Goes Around),Grand Puba,6,27DB28oeXHbHFNKNfhZVo2,16,0.959,0.75,6,-7.732,1,0.171,0.0277,0.0,0.0713,0.765,102.418,240867,4
+365,Zedd & Katy Perry,8,0ywzvARVqoxQOJpaswRe9E,44,0.784,0.595,2,-6.816,1,0.0413,0.00476,0.00727,0.059,0.183,124.019,236287,4
+3am,Eminem,3,7Djpvy4lZJNI8rTOVLf1H7,52,0.75,0.831,4,-2.601,0,0.397,0.0603,0.0,0.0576,0.731,76.439,319853,4
+3rd Man Theme,Herb Alpert & The Tijuana Brass,4,0AvpHaiMxWRbj1tPVY2zgY,24,0.554,0.677,4,-10.831,0,0.0722,0.426,0.963,0.184,0.768,153.175,153973,4
+4 - By The Beatles,The Beatles,6,6bUv17RsDFqu04LHlUqpgV,0,0.556,0.239,10,-13.257,0,0.0309,0.41,0.865,0.134,0.703,141.74,156099,4
+4 AM,2 Chainz Featuring Travis Scott,5,1nX9KhK3Fff27SnrIor2Yb,64,0.796,0.5,1,-7.21,1,0.425,0.118,0.0,0.155,0.227,75.012,255560,4
+4 AM,Melanie Fiona,8,3vMIAawCfJdR6A86JGqLc5,49,0.467,0.445,0,-7.155,0,0.0448,0.628,0.0,0.0798,0.344,128.399,290027,4
+4 Da Gang,Future,9,3IJ6BBFLD2I2CH3hHFQj3O,54,0.705,0.474,2,-7.534,1,0.355,0.0751,0.0,0.229,0.179,146.244,187749,4
+4 Da Gang,42 Dugg & Roddy Ricch,6,1tS6CGxy4zt6soGew47YDO,0,0.584,0.577,9,-8.047,0,0.0329,0.841,0.879,0.242,0.892,100.498,153670,4
+4 Ever,Lil' Mo Featuring Fabolous,3,6ubNZ5edKBKH3MQKatUY3S,59,0.683,0.657,6,-10.668,1,0.099,0.0279,4.49e-05,0.367,0.764,99.059,222947,4
+4 In The Morning,Gwen Stefani,5,64fSdRkaB7ksxI9suUGYmi,48,0.698,0.826,10,-6.261,1,0.031,0.2,0.00013,0.114,0.502,92.409,291107,4
+4 Minutes,Madonna Featuring Justin Timberlake & Timbaland,0,7dnTjdg0bKdEeY79ARjsKJ,0,0.7,0.61,7,-10.99,1,0.0387,0.000135,0.8,0.0421,0.855,113.004,245991,4
+4 Minutes,Glee Cast,8,5aWlISJTMKHHThgoXIYUw8,42,0.675,0.942,7,-3.096,0,0.0518,0.0052,0.000167,0.0764,0.414,112.938,189400,4
+4 Minutes,Avant,5,3g6SuyjGaGyAXmjvdNI1IU,48,0.828,0.6,10,-5.429,1,0.162,0.0942,0.0,0.126,0.655,119.969,240320,4
+4 My Town (Play Ball),Birdman Featuring Drake & Lil Wayne,8,3922kPG1JMYBNhACLo9j3f,48,0.62,0.619,1,-6.567,1,0.221,0.0546,0.0,0.31,0.524,152.114,261267,4
+4 Seasons Of Loneliness,Boyz II Men,0,027tq4cWr0kRxLTfdxvM1L,46,0.583,0.488,6,-10.494,1,0.0444,0.821,1.71e-05,0.115,0.191,98.497,292400,4
+4 Your Eyez Only,J. Cole,2,1vvnYpYEMVB4aq9I6tHIEB,68,0.701,0.485,11,-10.305,0,0.364,0.367,6.31e-05,0.0852,0.496,78.863,530253,4
+"4, 3, 2, 1,LL Cool J Featuring Method Man, Redman, DMX", Canibus And Master P,7,2jpd11oy0FGFebu6BpKSse,50,0.68,0.764,6,-6.574,1,0.523,0.087,0.0,0.0978,0.789,99.309,256627,4
+"4, 5, 6",Sole Featuring JT Money & Kandi,2,3SsO5zbbDfcU95HD0ygg7c,26,0.816,0.654,11,-3.596,0,0.0893,0.0492,0.0,0.0435,0.775,79.974,255760,4
+409,The Beach Boys,7,1gWj5OlKlZmBvtkYxluZux,42,0.459,0.7,7,-4.751,1,0.0306,0.749,0.0,0.258,0.853,159.428,120867,4
+44 Bulldog,Pop Smoke,3,7sjFIZ1g5QLJLGja3k592K,63,0.8,0.564,8,-5.817,1,0.4,0.0287,1.65e-06,0.112,0.318,139.989,150857,4
+44 More,Logic,2,3e7Y6sfFlIdBMJhX7wpqVO,66,0.824,0.584,10,-7.098,0,0.221,0.0718,0.0,0.106,0.219,139.965,188600,4
+442 Glenwood Avenue,The Pixies Three,5,6U760jf1bo0toem4F9WF2S,8,0.674,0.584,0,-12.91,1,0.0367,0.723,0.0,0.0719,0.961,131.237,134640,4
+4422,Drake Featuring Sampha,4,2fkeWbM6iqTw7oGHTYm2lw,66,0.609,0.229,11,-12.36,0,0.0333,0.558,0.0413,0.113,0.19,111.887,186293,4
+444+222,Lil Uzi Vert,5,1QgTBfRN5m81a5K01qens6,59,0.791,0.513,10,-6.568,0,0.269,0.0235,2.83e-05,0.101,0.481,76.997,247347,4
+4:44,JAY-Z,3,1gT5TGwbkkkUliNzHRIGi1,71,0.261,0.852,9,-4.965,1,0.158,0.139,4.26e-05,0.477,0.431,177.997,284493,4
+4th Dimension,KIDS SEE GHOSTS Featuring Louis Prima,4,6JyEh4kl9DLwmSAoNDRn5b,68,0.765,0.542,1,-6.755,1,0.39,0.278,1.87e-05,0.609,0.734,171.945,153351,4
+5 D (Fifth Dimension),The Byrds,4,7jvptnW3PMozIQq4C6uJB9,38,0.188,0.55,2,-9.33,1,0.0372,0.541,0.0,0.289,0.568,177.094,153427,3
+5 Miles To Empty,Brownstone,3,6Sxqtvxg7vPgoBPx4ThFog,33,0.675,0.549,2,-9.236,1,0.0568,0.0636,0.0,0.197,0.536,134.633,311467,4
+5 O'Clock,T-Pain Featuring Wiz Khalifa & Lily Allen,0,2iEUVdHyH1SnRWTlF0rkOj,0,0.655,0.261,10,-13.065,1,0.0559,0.176,0.91,0.12,0.217,168.025,279755,4
+5 O'Clock,Nonchalant,2,5Ycwq1vrM36vHbGz8ZoGr8,28,0.709,0.392,1,-8.623,1,0.262,0.103,0.0,0.0623,0.437,172.161,287400,4
+5 Star,Yo Gotti,7,6N9wsG0HYEpGEr0Ihgbz5r,37,0.715,0.809,9,-5.598,1,0.205,0.0607,0.0,0.352,0.636,76.493,247440,4
+5% Tint,Travis Scott,3,11kDth1aKUEUMq9r1pqyds,77,0.712,0.481,4,-5.415,0,0.0487,0.173,0.0,0.241,0.062,140.0,196138,4
+5-1-5-0,Dierks Bentley,3,2WKCH4ISejDV9ad7iPp5XU,65,0.554,0.849,1,-5.181,0,0.0357,0.0246,0.000233,0.31,0.683,116.992,182893,4
+5-10-15-20 (25-30 Years Of Love),The Presidents,1,32K61QzaFuPzsAQRd2a4OV,22,0.451,0.682,0,-8.464,1,0.0593,0.612,1.11e-06,0.0651,0.737,152.669,193027,4
+5-4-3-2 (Yo! Time Is Up),Jade,7,1uToI39Qaj1w6JxpaGYY9t,25,0.559,0.706,1,-6.888,0,0.167,0.0961,8.73e-06,0.768,0.788,178.453,316973,4
+5.7.0.5.,City Boy,2,3XHwEwbZszoNuScJtfrecd,36,0.677,0.629,9,-9.735,0,0.0469,0.0177,3.84e-06,0.0886,0.894,124.31,193400,4
+50 Shots,YoungBoy Never Broke Again,5,22mxylGJ4gUVXc70E7BrPJ,53,0.772,0.786,2,-5.874,1,0.366,0.0825,0.0,0.347,0.668,78.517,161309,4
+50 Ways To Leave Your Lover,Paul Simon,0,6Qb7gtV6Q4MnUjSbkFcopl,69,0.815,0.372,7,-12.814,1,0.0752,0.166,0.000116,0.0767,0.293,101.684,217347,4
+50 Ways To Say Goodbye,Train,1,2NniAhAtkRACaMeYt48xlD,67,0.591,0.935,6,-2.664,1,0.0478,0.000284,0.000278,0.142,0.736,140.043,247947,4
+500 Miles,Hooters,9,4NTVgBIkIO63F7V4cTTDtr,53,0.534,0.732,7,-7.29,0,0.0404,0.548,4.91e-05,0.0845,0.67,74.799,262240,4
+500 Miles Away From Home,Bobby Bare,0,44AauRai27QWKEx4dKn0oU,48,0.501,0.429,7,-10.803,1,0.0293,0.669,0.0,0.539,0.551,108.948,162560,4
+"5500 Degrees,EST Gee Featuring Lil Baby", 42 Dugg & Rylo Rodriguez,9,6uTID2glulLOXYhcwMETS1,60,0.843,0.697,7,-6.542,1,0.349,0.0215,0.0,0.144,0.792,98.081,184833,4
+57 Channels (And Nothin' On),Bruce Springsteen,6,42eWzCqHuCD5QRwzq3I24e,36,0.894,0.316,7,-18.975,1,0.0978,0.608,0.0153,0.111,0.64,132.061,145467,4
+5:15,The Who,4,5E7AQh3drqwYcIQkcdUs5Y,39,0.432,0.853,0,-6.659,1,0.0398,0.0241,0.0815,0.557,0.528,126.481,300387,4
+6 Foot 7 Foot,Lil Wayne Featuring Cory Gunz,0,6VFkA8jKGvY8XK5EdJjTkD,0,0.411,0.805,2,-3.052,1,0.323,0.0387,0.0,0.361,0.3,71.641,245101,3
+6 God,Drake,8,3a8tAZFJxlmBwOtrf5L1oC,64,0.868,0.623,2,-8.595,1,0.101,0.0249,0.0,0.125,0.498,105.446,180667,4
+6 Inch,Beyonce Featuring The Weeknd,1,5JOzW6OSiq3T9UO7TMFlQF,62,0.858,0.226,3,-12.875,0,0.437,0.745,0.0,0.114,0.764,151.408,63634,4
+6 Kiss,Trippie Redd Featuring Juice WRLD & YNW Melly,5,7tgjDlQsMR8RvkdlNCJA58,65,0.687,0.449,2,-10.061,1,0.154,0.109,0.0,0.282,0.229,142.048,199437,4
+6 Man,Drake,9,4kdfjhj9xNkYU0R8xlDy8k,61,0.568,0.535,4,-9.306,1,0.513,0.217,0.0,0.114,0.326,83.589,167653,4
+6 Minutes Of Pleasure,LL Cool J,9,0rDGGor6D1IHggV8UiUfEp,22,0.596,0.671,10,-10.859,0,0.15,0.0148,0.221,0.109,0.89,200.121,274053,4
+6 Underground,Sneaker Pimps,4,7KvSuH86lIT2aTl9PBCAfd,56,0.587,0.687,1,-8.635,0,0.0509,0.0281,0.14,0.121,0.402,169.938,228840,4
+"634-5789 (Soulsville, U.S.A.)",Wilson Pickett,1,2gGPw8qbUilOhiSQRSvZG9,10,0.665,0.454,2,-7.683,1,0.035,0.257,0.0,0.402,0.839,102.685,177520,4
+66,Lil Yachty Featuring Trippie Redd,7,6tarvNiKnEjYMj1VZhlDqR,59,0.667,0.723,5,-4.31,0,0.27,0.0455,0.000193,0.213,0.251,148.058,153475,4
+679,Fetty Wap Featuring Remy Boyz,0,5NQbUaeTEOGdD6hHcre0dZ,74,0.618,0.717,7,-5.738,1,0.318,0.00256,0.0,0.625,0.603,190.05,196693,4
+7,Prince And The New Power Generation,0,4N1dFbXmRng8qJ3KdJrbLr,56,0.789,0.808,1,-6.176,1,0.0881,0.148,1.32e-05,0.84,0.803,123.011,188373,4
+7 And 7 Is,Love,3,271WYO9G0zp3YhAi6tNqCd,40,0.453,0.788,9,-9.23,0,0.0341,0.00438,0.000121,0.131,0.55,78.504,139160,4
+7 Days,Craig David,0,0gPQTLaqHDgdupKEok7J2x,70,0.659,0.812,4,-7.499,0,0.0487,0.23,0.0,0.0951,0.888,83.014,235133,4
+7 Rings,Ariana Grande,0,6ocbgoVGwYJhOv1GgI9NsF,84,0.778,0.317,1,-10.732,0,0.334,0.592,0.0,0.0881,0.327,140.048,178627,4
+7 Rooms Of Gloom,Four Tops,1,59IxJQuFPmW4Xvy7GynZDF,32,0.452,0.694,3,-8.552,0,0.0399,0.246,0.0,0.267,0.874,89.262,154573,4
+7 Seconds,Youssou N'Dour & Neneh Cherry,9,3rNKThMs8k8UqSNkHrtKbB,3,0.489,0.683,1,-7.509,0,0.0255,0.448,0.405,0.26,0.429,154.058,255890,4
+7 Summers,Morgan Wallen,0,4obHzpwGrjoTuZh2DItEMZ,76,0.466,0.786,0,-5.13,1,0.0328,0.417,6.1e-05,0.125,0.571,203.903,210507,4
+7 Things,Miley Cyrus,0,5ecZWU5uQOiCVSnPxBZNmT,65,0.59,0.903,1,-4.478,0,0.0363,0.0232,0.0,0.0786,0.542,107.023,213453,4
+7 Years,Lukas Graham,0,5kqIPrATaCc2LqxVWzQGbk,80,0.765,0.473,10,-5.829,1,0.0514,0.287,0.0,0.391,0.34,119.992,237300,4
+7-6-5-4-3-2-1 (Blow Your Whistle),Gary Toms Empire,4,157ESNUvJI8NeHjV9hcDEd,10,0.717,0.695,1,-9.941,1,0.0972,0.0148,5.51e-05,0.132,0.693,116.39,306973,4
+7/11,Beyonce,1,02M6vucOvmRfMxTXDUwRXu,69,0.747,0.705,9,-5.137,0,0.126,0.0128,0.0,0.126,0.56,136.024,213507,4
+77 Sunset Strip,The Big Sound Of Don Ralke,6,0LLEvaScoETapxxUEOqEia,13,0.733,0.333,1,-8.395,1,0.0414,0.75,0.0,0.111,0.348,116.976,212240,4
+777-9311,The Time,8,1Uj2yJKcIdNHcQu4DMr6cX,41,0.819,0.631,6,-11.291,0,0.112,0.00939,0.00217,0.0261,0.776,123.215,485400,4
+7:30 Guided Tour,The Five Americans,9,5eeWX9Ikfp1Jca04mXG3Us,0,0.482,0.407,0,-11.957,1,0.0289,0.818,0.000151,0.253,0.63,144.337,160000,4
+7am On Bridle Path,Drake,1,42m3eP1JJhtzffal9B136J,63,0.724,0.531,5,-4.108,0,0.298,0.225,0.0,0.11,0.141,89.901,239635,4
+8,Billie Eilish,7,6X29iaaazwho3ab7GNue5r,68,0.735,0.235,3,-13.239,1,0.315,0.698,0.00604,0.107,0.462,62.446,173202,4
+8 Out Of 10,Drake,2,0zqy3ss4CwD6u4QPksS0nI,59,0.527,0.689,2,-7.87,1,0.741,0.161,0.0,0.498,0.31,170.538,195720,4
+8 X 10,Bill Anderson,5,0R6PIalA9f5AQgD6DQk5gz,6,0.535,0.236,0,-17.544,1,0.0408,0.266,1.07e-05,0.368,0.475,94.351,167440,4
+808,Blaque,0,1Pqv7l6vxjBxd5fx4bWchC,48,0.867,0.42,1,-9.478,1,0.167,0.00328,3.18e-06,0.0887,0.367,121.66,306693,4
+80s Mercedes,Maren Morris,7,58spuRyMUsjKHQHEGwLC99,61,0.485,0.834,9,-5.413,1,0.0715,0.0665,0.0,0.28,0.659,90.933,211767,4
+853-5937,Squeeze,3,4fgdmao6qyUZRE1M2HapES,19,0.721,0.433,2,-13.231,1,0.0275,0.537,0.0,0.179,0.729,103.934,197173,4
+865,Morgan Wallen,4,0sKEilrw1GrBlG6qsTCrP4,71,0.532,0.584,8,-5.254,1,0.0248,0.723,0.0,0.101,0.367,88.003,190680,4
+867-5309/jenny,Tommy Tutone,0,6iX1f3r7oUJnMbGgQ2gx1j,62,0.584,0.708,5,-10.039,1,0.0593,0.0264,0.00364,0.112,0.564,137.657,226200,4
+8th Of November,Big & Rich,9,2X0aeFJXJZpeK2nSWvypiI,44,0.259,0.729,2,-2.665,1,0.0418,0.117,0.0,0.438,0.284,169.11,298240,3
+8th Wonder,Sugarhill Gang,8,6m0wOLtrzaNwMofVVJTJqs,34,0.871,0.937,1,-8.536,1,0.195,0.298,0.0,0.634,0.675,106.494,446507,4
+8th World Wonder,Kimberley Locke,4,7oGIRgJMViLFRzGHyhF9bI,33,0.537,0.758,7,-4.065,1,0.0249,0.0103,0.0,0.131,0.295,100.041,240733,4
+9,Drake,4,1C7KSXR2GVxknex6I4ANco,62,0.68,0.712,10,-7.184,1,0.0453,0.000803,0.000612,0.237,0.0379,100.009,255787,4
+9 AM In Dallas,Drake,5,6EdVTOk5e4RApmwHNBJew9,67,0.683,0.368,9,-15.821,0,0.0744,0.00803,0.85,0.108,0.634,135.977,114968,4
+9 Piece,Rick Ross Featuring Lil Wayne Or T.I.,6,6aD178OGxT0Z1NU36g52X5,43,0.676,0.637,11,-6.856,1,0.322,0.0021,0.0,0.271,0.146,144.976,239987,4
+9 To 5,Dolly Parton,0,4w3tQBXhn5345eUXDGBWZG,77,0.554,0.783,6,-5.852,1,0.0457,0.416,1.54e-06,0.631,0.813,105.39,162467,4
+"9,999,999 Tears",Dickey Lee,5,1p7lNv2GO0hcl3VVa7vYGs,29,0.654,0.614,0,-8.207,1,0.0334,0.565,0.0,0.217,0.745,122.915,179853,4
+90's Girl,Blackgirl,7,7wihIPRid6q3FyrQPfSSuN,6,0.857,0.576,11,-8.339,0,0.0641,0.0139,0.0,0.043,0.665,102.326,415714,4
+911,Wyclef Jean Featuring Mary J. Blige,3,28hgx2bWXcaBJeC9zVwrBq,47,0.747,0.646,7,-9.185,1,0.191,0.273,3.7e-06,0.0931,0.73,87.011,259333,4
+92 Explorer,Post Malone,3,1D2L6MefbXon28PzIk9I3r,70,0.798,0.733,7,-4.811,0,0.0476,0.265,1.25e-06,0.114,0.861,146.046,211427,4
+93 'til Infinity,Souls Of Mischief,7,0PV1TFUMTBrDETzW6KQulB,71,0.59,0.672,1,-11.792,1,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,4
+95.south,J. Cole,0,5gKlRlgRF5bfPFd8lltXs8,0,0.567,0.352,2,-6.108,0,0.027,0.482,0.0775,0.165,0.518,144.008,193027,4
+96 Tears,Garland Jeffreys,6,6au8o0VvJ8jM8o13ys3Jqg,31,0.647,0.645,11,-11.395,1,0.0307,0.000527,0.00201,0.0914,0.902,117.683,185573,4
+96 Tears,? (Question Mark) & The Mysterians,0,4PEeZ2U4UfP2Jo8EtIOjus,54,0.65,0.562,7,-5.965,1,0.0345,0.0624,3.21e-05,0.076,0.882,123.674,176867,4
+96 Tears,Big Maybelle,9,7eotSbuPkqE4DkvsSZLUM6,37,0.696,0.851,7,-5.385,1,0.0506,0.0236,0.0309,0.055,0.889,119.479,143280,4
+98.6,Keith,0,602FffJEffSJnWC8eHDIwv,35,0.542,0.335,7,-10.291,1,0.0383,0.38,0.0,0.0828,0.504,74.524,187400,4
+99,Toto,2,2R3E4xKmy7lyieBKONkIMT,54,0.482,0.471,10,-13.873,0,0.0334,0.181,0.00167,0.112,0.342,88.557,316053,4
+99 1/2,Carol Lynn Townes,7,6evtCeDaCwOFSXNiCdm0R1,24,0.762,0.845,10,-9.762,0,0.0859,0.264,0.319,0.219,0.648,119.203,242000,4
+99 Luftballons,Nena,0,4ZhPLoMzZwewHLLjV1J15c,73,0.575,0.555,4,-7.495,1,0.0453,0.103,1.3e-06,0.111,0.504,95.361,232467,4
+99 Miles From L.a.,Albert Hammond,9,3nFr4QFOvnYb7mh8mlGaOi,22,0.438,0.256,0,-14.583,0,0.029,0.828,0.000197,0.11,0.123,104.471,177166,4
+99 Problems,Tony Lucca,5,3FPJJ38O4Vqp5d00grSwCd,12,0.679,0.795,2,-4.166,1,0.0391,0.0227,0.0,0.139,0.871,83.022,143760,4
+99 Problems,JAY-Z,2,7sLpSWxQazJzDVG6YGzlVs,67,0.494,0.887,6,-4.297,0,0.398,0.00661,0.0,0.103,0.548,89.554,234627,4
+99 Worlds,Peter Wolf,7,4YOzKJAdIzFryLFeF6VYXy,5,0.648,0.913,0,-10.41,1,0.0363,0.202,6.13e-05,0.656,0.914,133.302,216107,4
+99.9% Sure (I've Never Been Here Before),Brian McComas,5,14ymPtb1n06KzSm0J9bmMZ,41,0.606,0.959,7,-3.412,1,0.0522,0.0714,0.0,0.236,0.734,116.014,193293,4
+992 Arguments,The O'Jays,5,7ycwZrSaXqhSaY5yeOZgdS,27,0.627,0.804,5,-11.43,0,0.0446,0.0107,5.1e-05,0.164,0.798,130.167,366373,4
+9th Wonder (Slicker This Year),Digable Planets,7,26q6YTrXt9l8qshIveiTX9,59,0.884,0.334,1,-18.943,0,0.228,0.0476,0.0588,0.107,0.571,98.315,261267,4
+@ MEH,Playboi Carti,3,15JRvf02KKGHKgC31jrpuh,68,0.764,0.512,1,-6.814,1,0.3,0.00158,0.0,0.0899,0.586,81.541,118500,4
+A Bad Goodbye,Clint Black With Wynonna,4,1XTgqedadpTqNod7SvpiP1,40,0.401,0.261,11,-10.409,1,0.0315,0.8,1.63e-06,0.215,0.192,70.805,219293,4
+A Banda (Ah Bahn-da),Herb Alpert & The Tijuana Brass,3,7ubd6wvhN4TKMwQUy6hR69,62,0.347,0.299,3,-14.462,1,0.0401,0.979,0.93,0.178,0.556,86.15,164547,4
+A Bay Bay,Hurricane Chris,0,2oWbOh3tLluqTdYL5OEDvs,51,0.577,0.668,6,-4.884,1,0.514,0.105,0.0,0.0924,0.702,60.709,257120,3
+A Beautiful Morning,The Rascals,0,3QwbKe0s8TcNclzXAXHeHy,52,0.503,0.484,5,-12.833,0,0.0311,0.399,0.0,0.345,0.8,122.203,151800,4
+A Beautiful Story,Sonny & Cher,5,5xOE1ynrGbFxlK0mL7gNib,10,0.474,0.328,7,-10.766,1,0.0338,0.737,0.0,0.128,0.602,159.172,172800,3
+A Better Love,Londonbeat,1,1fALXFVWhnXVME9MNCQmt1,19,0.616,0.6,9,-14.772,1,0.0331,0.0944,0.000121,0.336,0.792,95.743,240400,4
+A Big Hunk O' Love,Elvis Presley With The Jordanaires,0,4hkr7AcAr7IuKvQxGorXzW,49,0.569,0.823,0,-11.534,1,0.0376,0.615,0.76,0.555,0.936,93.023,129400,4
+A Bitter End,Deryl Dodd,8,2Z0NqDDYs2678XXdbi0vuv,19,0.595,0.418,9,-8.092,1,0.0308,0.568,1.27e-05,0.116,0.25,138.069,218980,4
+"A Boy Is A Gun,Tyler", The Creator,7,1nXZnTALNXiPlvXotqHm66,71,0.417,0.689,2,-8.302,0,0.178,0.575,0.0,0.496,0.505,79.568,210253,4
+A Boy Named Sue,Johnny Cash,0,5xMNjx7uqCzMpJZSo4Wq55,57,0.63,0.489,10,-12.144,1,0.18,0.77,0.0,0.381,0.796,101.876,233813,4
+A Brand New Me,Dusty Springfield,2,42iJbtyZ5osLlnk5L0aTVT,3,0.367,0.342,4,-12.168,1,0.0411,0.623,4.15e-06,0.438,0.393,145.943,204733,4
+A Breath Taking Guy,The Supremes,7,1ePIjPuiQvrLKKYJhW7dPh,4,0.607,0.517,2,-7.566,1,0.032,0.908,0.0,0.158,0.781,109.659,146560,4
+A Broken Wing,Jordin Sparks,6,7tthVOweK8QdUdVn0lCZLP,0,0.622,0.444,11,-4.281,1,0.0259,0.321,0.0,0.335,0.349,97.469,207629,3
+A Case Of You,James Wolpert,7,6YaB4TXX4s2AJreMQ6cuIj,25,0.376,0.219,8,-9.588,1,0.0388,0.832,0.0,0.0933,0.499,187.428,232661,4
+A Certain Girl,Warren Zevon,5,24tc3OZ7YRdtQofd23niCE,38,0.694,0.726,11,-12.987,1,0.0427,0.322,0.0,0.293,0.968,121.977,188200,4
+A Certain Girl,Ernie K-Doe,7,5VkOlvkvY7OGO5nobVRDLV,31,0.795,0.603,1,-10.36,1,0.0432,0.69,0.0,0.249,0.925,129.872,164093,4
+A Certain Smile,Johnny Mathis,2,76eNJQoJmN4mfsUW0q8HPv,44,0.233,0.337,5,-10.031,1,0.0307,0.854,1.53e-06,0.274,0.218,73.576,168293,4
+A Chance For Heaven,Christopher Cross,7,6Rd36fAvK6klQPYgx3534I,60,0.669,0.702,0,-13.647,0,0.0439,0.335,0.000545,0.0962,0.823,124.339,275507,4
+A Change Is Gonna Come,Adam Lambert,5,7IY0gMxuNTkzmPO9z1tUc5,1,0.34,0.569,9,-7.051,1,0.0308,0.0136,0.0,0.138,0.389,79.553,231903,3
+A Change Is Gonna Come,Sam Cooke,3,0KOE1hat4SIer491XKk4Pa,67,0.212,0.383,10,-10.071,1,0.0347,0.723,0.0,0.299,0.452,173.79,191160,3
+A Change Is Gonna Come & People Gotta Be Free/The Declaration,The 5th Dimension,5,12YYFvwwuYiw010ONgfYlW,59,0.361,0.69,9,-4.865,0,0.04,0.0272,0.000188,0.148,0.52,129.636,197080,4
+A City Girl Stole My Country Boy,Patti Page,8,5yzlxi4VFO8UkxepsL0guW,32,0.561,0.3,3,-13.995,1,0.0422,0.75,0.0,0.283,0.563,109.795,178867,4
+A Closer Walk,Pete Fountain,9,7vvB9xuUJVXEpMHawVD3ge,31,0.597,0.286,5,-15.209,1,0.026,0.412,0.488,0.0855,0.499,110.039,130693,4
+A Corner In The Sun,Walter Jackson,8,1DOQ4CSjYKvwQbFK0lGbj5,2,0.417,0.469,7,-10.513,1,0.0342,0.74,1.59e-05,0.181,0.513,79.141,140800,4
+A Cottage For Sale,Little Willie John,6,0acWbSJ5lsSe9GOFRtXkvy,4,0.312,0.33,5,-12.321,1,0.0298,0.571,1.49e-06,0.26,0.394,74.977,175440,4
+A Country Boy Can Survive (Y2K Version),Chad Brock With Hank Williams Jr. & George Jones,7,7KikvoI7Wvkqc2qqj1mMVu,0,0.576,0.375,7,-10.214,1,0.0329,0.0402,0.812,0.0414,0.282,75.005,237420,4
+A Cowboys Work Is Never Done,Sonny & Cher,0,3X1a60iOm7XAJ1ZT1w2TVq,35,0.61,0.315,8,-14.12,1,0.0342,0.517,4.42e-06,0.361,0.58,135.521,194733,4
+A Cross Stands Alone,Jimmy Witter,8,5ir1f5VeoXXRpc1hN0kDsK,40,0.425,0.0716,8,-18.692,0,0.0457,0.917,9.83e-05,0.174,0.348,115.208,160493,4
+A Day In My Life (Without You),Lisette Melendez,4,0p0BTRnRU4QWvXNn0xS0WM,33,0.606,0.947,6,-4.446,0,0.0371,0.000874,0.314,0.0514,0.789,119.104,235040,4
+A Day In The Life Of A Fool,Jack Jones,6,0SWzHIALsiEMlj7GTbVfSe,42,0.239,0.318,10,-9.685,0,0.028,0.649,0.000351,0.135,0.231,170.528,140133,4
+A Deeper Love/Pride In The Name Of Love,Clivilles & Cole,4,02VLaPjDwW5iCQOj9P7vMn,22,0.811,0.784,11,-8.203,1,0.0778,0.0728,4.7e-05,0.542,0.178,120.975,337400,4
+A Different Corner,George Michael,0,6khoye7kysa6cLGY0AO9dO,52,0.263,0.286,6,-10.34,1,0.0335,0.857,0.00898,0.105,0.151,99.001,243533,4
+A Different World,Bucky Covington,5,0E0B8a7LSVgbQL160oUnwO,56,0.62,0.686,9,-5.027,1,0.0276,0.0327,0.0,0.101,0.464,128.962,208573,4
+A Dollar Down,The Limeliters,5,4MYwuoHZRF7zcWH9zXUhDQ,3,0.492,0.483,0,-13.851,1,0.197,0.595,5.6e-06,0.0454,0.901,211.206,158093,4
+A Dose Of Rock 'N' Roll,Ringo Starr,2,1g24LmZ5xzNyoh5vQkqGGU,10,0.542,0.503,8,-13.868,1,0.034,0.223,0.00128,0.29,0.96,105.428,203907,4
+A Dream Goes On Forever,Todd Rundgren,6,0tiBROmRVHxKAtgI8Hg9Sa,29,0.602,0.375,0,-12.308,1,0.0329,0.114,1.86e-06,0.0815,0.815,91.202,145160,4
+A Dreams A Dream,Soul II Soul,8,6SGOR8yLKOxa6sB9p7mQPr,36,0.711,0.652,6,-13.49,0,0.0447,0.0269,0.00335,0.0565,0.544,103.258,338867,4
+A Face In The Crowd,Tom Petty,4,4tSZr210OTY6upjNYfEYUI,57,0.678,0.619,4,-13.386,0,0.0266,0.114,0.005,0.0609,0.803,105.577,239307,4
+A Feelin' Like That,Gary Allan,9,4zhiR8GdYCOShGhs0itUyo,32,0.57,0.814,8,-8.444,1,0.0387,0.000432,1.45e-05,0.0788,0.515,113.489,210640,4
+A Few Questions,Clay Walker,5,5aiToW71TQJlX0xQKNCnmw,24,0.532,0.498,7,-6.84,1,0.0307,0.413,0.0,0.107,0.148,140.073,227667,4
+A Fifth Of Beethoven,Walter Murphy & The Big Apple Band,0,1hR3TNe1neCWRQatSVOFfX,53,0.688,0.506,0,-13.311,0,0.0408,0.316,0.69,0.0611,0.784,108.753,182533,4
+A Fine Fine Boy,Darlene Love,5,6w5j6CHKVppZRanO9Z0Mhd,14,0.375,0.776,4,-6.035,0,0.0555,0.173,3.35e-06,0.155,0.467,146.741,165747,4
+A Fine Fine Day,Tony Carey,2,5091oN6DGFSX8vfZsJyJij,39,0.639,0.579,8,-9.326,1,0.0342,0.0591,0.00394,0.769,0.754,113.225,265600,4
+A Fool In Love,Ike & Tina Turner,2,6Srd24SS5VX3tKztnos6gk,36,0.615,0.479,7,-8.429,1,0.0644,0.588,0.000277,0.272,0.788,127.04,160627,4
+A Fool Never Learns,Andy Williams,1,78Uz5O2o00RpnNNlvOMl7K,15,0.542,0.706,5,-9.038,1,0.0318,0.778,1.21e-05,0.363,0.755,98.348,121787,4
+A Fool Such As I,Bob Dylan,5,1KFTXJslA3vdcSxE4k8azK,19,0.563,0.857,7,-7.618,1,0.0604,0.165,1.83e-05,0.134,0.687,118.29,163053,4
+A Friend In The City,Andy Kim,8,3z2ZSQZXaWAufdyv3xnuLe,40,0.556,0.722,9,-6.962,1,0.0331,0.485,0.000324,0.142,0.717,109.155,176440,4
+A Friend Of Mine Is Going Blind,John Dawson Read,7,2oIxHrSlPvqqrLdefXnji4,0,0.327,0.0845,6,-20.296,1,0.0326,0.907,0.000182,0.117,0.304,105.942,244320,4
+A Girl Has To Know,The G-Clefs,8,4bDfHzfDotB2o3y4AetBN0,1,0.486,0.129,3,-18.138,1,0.0367,0.802,0.0,0.19,0.492,89.93,158015,3
+A Girl In Trouble (Is A Temporary Thing),Romeo Void,3,6825ujIyyrnHiXOzTVlWFG,39,0.683,0.722,0,-11.77,0,0.0322,0.117,0.392,0.158,0.879,130.581,257333,4
+A Girl Like You,The Smithereens,3,4qz8PpznLcX5AtoUusIiAh,51,0.657,0.828,1,-9.344,1,0.0283,0.0892,0.0,0.0575,0.908,123.799,282867,4
+A Girl Like You,The Young Rascals,0,79d9LM5k2QfpkWYKVRe1fR,31,0.496,0.548,0,-8.613,0,0.0462,0.637,0.0,0.0925,0.554,137.754,170313,4
+A Girl's Work Is Never Done,The Chordettes,8,7KcB8PH8CeKvnLBFxODGlf,17,0.637,0.963,3,-5.324,1,0.217,0.785,0.000403,0.14,0.972,123.953,136053,4
+A Good Day To Run,Darryl Worley,7,3Ye4dPI87Y3SP3pH0EC3rC,39,0.566,0.794,6,-5.537,1,0.0298,0.395,1.09e-05,0.145,0.725,147.106,188333,4
+A Good Heart,Feargal Sharkey,7,4umQbcdBF3YVsNBvvnFLiX,60,0.653,0.884,10,-10.224,1,0.0444,0.417,0.0,0.318,0.762,104.647,281800,4
+A Great Big Sled,The Killers Featuring Toni Halliday,5,4PYTPrQZz2kt6KU1vNH9Ri,28,0.532,0.872,0,-3.869,1,0.0636,0.00223,0.0,0.283,0.299,127.959,262587,4
+A Groovy Kind Of Love,The Mindbenders,0,2xOEmK42jfYwj0biDzNlW2,33,0.444,0.502,11,-13.791,0,0.031,0.472,1.9e-05,0.115,0.484,98.789,121003,4
+A Guy Walks Into A Bar,Tyler Farr,5,16PNN9wK1LbedzcTp7y8y0,55,0.428,0.78,0,-3.472,1,0.0373,0.083,0.0,0.115,0.431,147.986,196000,4
+A Guy With A Girl,Blake Shelton,4,5sjIhQzNljMVrDklI91ezp,59,0.552,0.893,0,-4.593,1,0.0383,0.0158,0.0,0.105,0.777,163.948,189467,4
+A Happy Guy,Rick Nelson,8,0R9MMH16IjnOIZXiQ9uvdj,3,0.764,0.719,4,-11.735,1,0.0571,0.786,0.0,0.0502,0.948,121.232,135173,4
+A Hard Day's Night,The Beatles,0,5J2CHimS7dWYMImCHkEFaJ,67,0.59,0.805,0,-6.481,1,0.0371,0.137,0.0,0.0996,0.797,138.514,154200,4
+A Hard Day's Night,Ramsey Lewis Trio,2,5qoXJYckZrMKlcfmJaQoiZ,21,0.675,0.719,7,-11.786,1,0.0298,0.162,0.0125,0.891,0.961,126.852,297333,4
+A Hazy Shade Of Winter,Simon & Garfunkel,1,2GB8OypbvrvCee61FKx5dp,49,0.497,0.59,2,-11.203,0,0.0296,0.139,7.11e-06,0.378,0.969,142.027,137480,4
+A Heart In New York,Art Garfunkel,6,05iPg44iQftuEjHXoXAlvT,37,0.435,0.207,2,-18.939,0,0.034,0.831,0.00478,0.306,0.429,95.918,191800,4
+A Holly Jolly Christmas,Burl Ives,0,77khP2fIVhSW23NwxrRluh,60,0.683,0.375,0,-13.056,1,0.0303,0.579,0.0,0.076,0.888,140.467,135533,4
+A Horse With No Name,America,0,54eZmuggBFJbV7k248bTTt,78,0.654,0.506,11,-17.18,0,0.0535,0.686,0.0155,0.155,0.831,123.179,252240,4
+A House Is Not A Home,Glee Cast,6,3aiKybRCTBazAplseCewQc,35,0.266,0.354,5,-6.133,0,0.0318,0.728,0.0,0.123,0.134,106.3,282920,3
+A House Is Not A Home,Brook Benton,7,5Hcr7IkfNZ1FNmikY9MNly,19,0.362,0.295,8,-15.692,1,0.0362,0.811,0.000314,0.0986,0.306,74.333,181000,4
+A House Is Not A Home,Dionne Warwick,7,3gLe1SDGLShBTQr0BAwDKl,36,0.273,0.225,5,-13.69,1,0.033,0.902,3.04e-05,0.154,0.246,72.588,188493,4
+A House Of Love,Scott Garrett,9,1wGBPcneWPcEPAYjuILTkS,27,0.711,0.581,9,-12.917,0,0.0336,0.000528,0.000137,0.0519,0.855,119.917,211067,4
+"A House, A Car And A Wedding Ring",Dale Hawkins,8,2XTBQyBapzuWbx3ZByfOrn,32,0.475,0.603,9,-7.989,1,0.0421,0.486,0.0001,0.249,0.848,141.751,133373,4
+A Hundred Pounds Of Clay,Gene McDaniels,0,4s9qKAu0wMyIWVUB7Cuv3j,45,0.684,0.389,0,-10.933,1,0.035,0.604,0.0,0.369,0.824,129.06,142027,4
+A Hurricane Is Coming Tonite,Carol Douglas,8,0FPZDwCZWqKHowIZmB4UEB,3,0.646,0.769,1,-12.64,0,0.0308,0.0201,0.147,0.0707,0.973,129.327,239667,4
+A Kind Of Magic,Queen,4,1LFK84nUerBbYfFd1LmnTm,55,0.671,0.775,9,-5.873,1,0.0354,0.018,0.00283,0.121,0.695,130.121,264253,4
+A Kookie Little Paradise,Jo Ann Campbell,6,48du8kkhZrrVticj5sR4he,4,0.487,0.84,11,-7.136,0,0.0672,0.72,1.02e-05,0.148,0.776,83.642,174693,4
+A La Primera Persona,Alejandro Sanz,9,6mXHxE2BEafOgdWoFvc6mF,48,0.615,0.676,8,-5.154,1,0.0715,0.485,0.0,0.0634,0.259,121.026,301933,4
+A Lesson In Leavin',Dottie West,7,0ImxI6CSbQsrYdhv9C8eUO,43,0.767,0.476,11,-8.881,1,0.322,0.27,0.0,0.0619,0.964,75.069,180773,4
+A Letter From Betty,Bobby Vee,8,514dJooiPZvtIHrpYSDgK6,6,0.403,0.624,5,-10.352,1,0.0496,0.706,0.0,0.684,0.823,84.898,150240,4
+A Letter To An Angel,Jimmy Clanton,2,3gsR6howXi3YynMxLEZU63,35,0.346,0.268,3,-12.122,1,0.0324,0.858,5.63e-06,0.202,0.43,153.633,174413,3
+A Letter To Dad,Every Father's Teenage Son,9,5GVUjnTpU0IOwNzAIhSqRI,54,0.562,0.339,2,-12.66,1,0.0514,0.737,0.0,0.186,0.191,119.985,228000,4
+A Letter To Myself,The Chi-lites,3,3URnRabOOq4nEVUrlmdzJ9,27,0.49,0.492,9,-9.979,1,0.0367,0.538,0.0,0.157,0.42,130.66,338373,4
+A Letter To The Beatles,The Four Preps,8,5HzNmg65pUfriVQ4M88kSe,4,0.538,0.656,7,-11.705,1,0.0386,0.724,0.0,0.0973,0.911,145.289,180689,4
+A Lie,French Montana Featuring The Weeknd & Max B,7,1vVNlXi8gf8tZ7OhnEs4VE,50,0.516,0.792,1,-5.38,0,0.216,0.0235,0.0,0.404,0.524,121.189,226790,5
+A Life Of Illusion,Joe Walsh,3,19P4fwkPhE6yVAXApFWDoF,57,0.692,0.613,2,-10.735,1,0.0282,0.0407,0.0652,0.094,0.93,120.901,210533,4
+A Lifetime Of Loneliness,Jackie DeShannon,6,0tQ5o8C7OjPOLSDtfZ5231,10,0.272,0.318,5,-7.935,1,0.034,0.677,2.2e-06,0.0939,0.357,179.539,157453,4
+A Light That Never Comes,Linkin Park X Steve Aoki,6,3BnBKNItMng824sLx0pUfy,62,0.687,0.871,0,-5.531,1,0.0689,0.00225,0.00708,0.134,0.539,115.0,229439,4
+A Little Bit Like Magic,King Harvest,9,3atXF2eAOpkbcxLN1nGlW1,44,0.748,0.67,7,-8.97,1,0.041,0.415,0.0,0.17,0.965,129.375,139560,4
+A Little Bit Longer,Jonas Brothers,1,1C9CSFviMwp3kyZHmV09ed,45,0.306,0.617,0,-4.812,1,0.033,0.0228,0.0,0.231,0.291,156.362,205013,4
+"A Little Bit Me, A Little Bit You",The Monkees,0,4CeMCGrUZByXsrPUV7Qzsu,46,0.609,0.818,5,-4.62,1,0.0425,0.114,0.316,0.0999,0.922,78.955,168053,4
+A Little Bit More,Dr. Hook,1,0IyaUK4bo54AnnNVhS9RSW,57,0.298,0.419,7,-13.139,1,0.0351,0.586,1.81e-06,0.306,0.467,185.773,174733,4
+A Little Bit Now,The Dave Clark Five,6,4IQ0Qa0xJ5ZgbzZ2jyrxC0,51,0.712,0.508,7,-9.562,1,0.0343,0.441,1.13e-05,0.286,0.796,123.002,142425,4
+A Little Bit Now (A Little Bit Later),The Majors,6,14wJrdauNlJgWDr5QrOJ6E,1,0.496,0.458,10,-11.595,1,0.0483,0.77,2.37e-05,0.128,0.926,183.883,131973,4
+A Little Bit Of Ecstasy,Jocelyn Enriquez,5,2mh6vBBled0iSZ56uJju2A,37,0.495,0.764,6,-7.64,0,0.0618,0.0363,0.00208,0.315,0.691,130.012,248000,4
+A Little Bit Of Heaven,Ronnie Dove,1,5BwkPXxLhEvIdeqzZHobwQ,16,0.41,0.364,5,-10.183,1,0.0287,0.879,0.0167,0.162,0.434,90.372,168067,4
+A Little Bit Of Love (Is All It Takes),New Edition,3,5Xyvly56qugv3k5Y95eQ9t,10,0.723,0.859,5,-8.963,0,0.137,0.0608,1.26e-05,0.165,0.467,100.2,393990,4
+A Little Bit Of Soap,The Exciters,5,73tGO4JJKrMYtjCbq1v8Oa,44,0.605,0.548,10,-8.591,0,0.149,0.231,0.0,0.15,0.67,137.487,134667,4
+A Little Bit Of Soap,The Jarmels,1,73tGO4JJKrMYtjCbq1v8Oa,44,0.605,0.548,10,-8.591,0,0.149,0.231,0.0,0.15,0.67,137.487,134667,4
+A Little Bit Of Soap,Garnet Mimms,9,4ttkttWquh7SguprMGKnLR,19,0.566,0.68,3,-10.535,1,0.0803,0.508,0.0,0.0684,0.788,134.355,142333,4
+A Little Bit Of Soap,Paul Davis,5,4lgZJvM3yx4jdfRRUjDG3I,12,0.736,0.262,0,-13.234,1,0.0473,0.649,1.97e-06,0.148,0.738,126.596,152760,4
+A Little Bit Stronger,Sara Evans,3,5FIp4LrsffxiHLhmmpCbCx,62,0.536,0.65,2,-5.603,1,0.0337,0.282,1.16e-06,0.0876,0.288,147.93,301987,4
+A Little Bit of Heaven,Natalie Cole,8,0PDCewmZCp0P5s00bptcdd,73,0.685,0.623,8,-11.146,1,0.042,0.228,0.00234,0.0295,0.896,126.739,171960,4
+A Little Bitty Tear,Wanda Jackson,8,3fdMewsb6zb2Kdkl9KWZGc,11,0.63,0.368,0,-9.208,1,0.0325,0.84,0.0,0.321,0.865,132.93,138200,4
+A Little Bitty Tear,Burl Ives,0,3XhTHMleuyoQCP8jxOeIhD,18,0.58,0.209,0,-15.516,1,0.0464,0.896,0.243,0.116,0.831,72.103,125400,4
+A Little Dog Cried,Jimmie Rodgers,7,5wAp4WLK435brIzG2qVLQi,0,0.438,0.11,0,-26.549,1,0.0434,0.981,0.135,0.103,0.344,65.006,145965,4
+A Little Feeling (Called Love),Jack Scott,9,4YDV8fPzCCpghxuy0beu4P,2,0.476,0.164,2,-13.843,1,0.0303,0.576,0.000439,0.103,0.247,70.12,163733,4
+A Little Gasoline,Terri Clark,7,3YAYui2FXhYxjK88359km2,29,0.629,0.655,2,-3.798,1,0.0302,0.103,0.0,0.12,0.764,76.7,188640,4
+A Little Good News,Anne Murray,7,5dFkgiFjPIsY7HWxsAV5h3,36,0.609,0.471,0,-8.115,1,0.036,0.558,0.0,0.0277,0.546,71.217,188307,4
+A Little In Love,Cliff Richard,1,6IXSfTzUjEsKc9iOvDkIx4,29,0.682,0.674,7,-10.39,1,0.0274,0.0391,0.0,0.307,0.921,117.289,219533,4
+A Little Is Enough,Pete Townshend,7,1kTVJHll6cl8SyH2Op2EEr,24,0.669,0.684,3,-8.753,1,0.0483,0.356,0.00445,0.1,0.434,142.079,283000,4
+A Little Less Conversation,Elvis Presley vs JXL,4,4rr0gWiMrF4sOIefs3IEvZ,61,0.597,0.97,4,-5.972,0,0.0502,0.000385,0.205,0.133,0.717,114.999,211507,4
+A Little Less Conversation,Elvis Presley With The Jordanaires,6,3j4viUIDSuB4xfYYlp3Lpa,64,0.59,0.976,11,-4.866,0,0.0488,0.000154,0.293,0.155,0.686,114.996,213240,4
+"A Little Less Sixteen Candles, A Little More Touch Me",Fall Out Boy,6,4pmU8AtVu9qU40Xd9zjEfA,64,0.538,0.889,7,-3.586,1,0.0596,0.00704,0.0,0.312,0.696,133.044,169027,4
+A Little Love,Corey Hart,3,7rYipZC5OPXEdhK69Lc8JJ,15,0.644,0.856,0,-10.663,1,0.0526,0.0766,0.0,0.0813,0.542,121.055,252667,4
+A Little Love,Juice Newton,4,6K1b1cx8qPa6kFMPdtbdLE,41,0.609,0.791,9,-8.71,1,0.0317,0.114,0.0169,0.077,0.936,144.341,194733,4
+A Little More Country Than That,Easton Corbin,4,7LrZ3SczM7zlUkVlhevPp2,60,0.64,0.6,11,-8.534,1,0.0318,0.0795,1.5e-06,0.106,0.593,84.969,172227,4
+A Little More Love,Olivia Newton-John,0,2g5egJm0qwJPKgpblzIHlI,41,0.717,0.414,8,-14.855,1,0.0365,0.0294,0.00935,0.0864,0.495,100.178,207013,4
+A Little More Summertime,Jason Aldean,5,3esPcn43N0CytAtcY9V30C,51,0.482,0.823,9,-4.446,1,0.0661,0.0386,3.69e-05,0.0948,0.451,167.665,219547,4
+"A Little Party Never Killed Nobody (All We Got),Fergie", Q-Tip & GoonRock,7,3TGjbgGVcGCps2jN4feSLL,0,0.728,0.468,5,-8.117,0,0.134,0.126,0.000652,0.157,0.573,129.932,242300,4
+A Little Past Little Rock,Lee Ann Womack,4,0ieL9hQJOHdlnyeOoBv768,43,0.438,0.557,4,-7.388,1,0.0338,0.61,1.63e-05,0.163,0.295,172.004,256400,4
+A Little Rain Must Fall,The Epic Splendor,8,1bJRGgkcyQHXrnBRFCpaDb,26,0.3,0.755,11,-7.163,0,0.0615,0.0403,0.0113,0.0918,0.217,122.83,350569,4
+A Little Respect,Erasure,1,2RVQIq7bLi4Eu6xHPyQ46t,63,0.596,0.598,0,-13.409,1,0.0268,0.00808,3.07e-06,0.241,0.595,113.825,213373,4
+A Little Too Late,Toby Keith,5,5djhyxT7ZIzM1rP2XE2ygb,38,0.635,0.749,11,-5.815,1,0.0294,0.175,3.71e-05,0.139,0.628,100.95,248040,4
+A Little Too Much,Shawn Mendes,9,1T7AiFL9ruKKwlONN35Vh0,61,0.451,0.507,11,-6.24,1,0.0316,0.473,0.0,0.108,0.564,165.76,187027,4
+A Little Too Much,Clarence Henry,7,27Iit0kCpobHouAgwjU9zS,27,0.693,0.611,0,-8.333,1,0.0338,0.693,0.0,0.146,0.893,114.697,115800,4
+A Little Toy Balloon,Danny Williams,8,4HljpOZkfoUT97Ia7K3DFf,37,0.531,0.148,2,-21.015,0,0.0327,0.752,0.747,0.125,0.0589,95.778,179768,3
+A Little You,Freddie And The Dreamers,4,2lp6dr6gTMQJgI2Ny0kwYw,11,0.351,0.573,9,-10.993,1,0.0325,0.0868,0.0,0.421,0.766,73.361,129600,4
+A Lonely Man/The Man & The Woman (The Boy & The Girl),The Chi-lites,5,0cFlXjTxFdMGGPfLVpt3Wv,54,0.418,0.402,10,-12.942,1,0.0288,0.226,0.0,0.103,0.601,133.683,216280,4
+A Lonely Night,The Weeknd,6,0ifooM33X1iBxVYyOkSbXW,71,0.853,0.663,7,-6.955,0,0.0755,0.0431,8.71e-06,0.0891,0.864,113.998,220173,4
+"A Long Time, A Long Way To Go",Runt-Todd Rundgren,9,6r98WoKCYKZmpdHAH44N9P,10,0.335,0.226,0,-13.175,1,0.0264,0.945,0.0045,0.138,0.169,77.616,133200,4
+A Long Walk,Jill Scott,4,1CeizRCGEYPWooEeVfmyFL,57,0.713,0.541,6,-9.295,0,0.248,0.0617,0.000137,0.112,0.28,75.714,280973,4
+A Lot,21 Savage,1,2t8yVaLvJ0RenpXUIAC52d,81,0.837,0.636,1,-7.643,1,0.086,0.0395,0.00125,0.342,0.274,145.972,288624,4
+A Lot Of Things Different,Kenny Chesney,5,1Hy3tvcg6l5o4codLnOC8f,34,0.589,0.279,2,-13.693,1,0.0285,0.129,0.0192,0.149,0.212,74.847,283867,4
+A Love Bizarre,Sheila E.,1,5R6ol4f8WCUCWNrB7Ymf99,44,0.768,0.612,1,-13.381,1,0.0454,0.0217,0.0239,0.0513,0.878,113.798,738053,4
+A Love Of My Own,Carla Thomas,5,5RmFLhiJu0U2m28BeFC8Jy,23,0.244,0.346,0,-8.741,1,0.0302,0.813,0.00171,0.313,0.435,185.453,152240,3
+A Love She Can Count On,The Miracles,3,48n4F3hkCFyf6nVs79zctM,20,0.634,0.424,5,-10.18,1,0.0305,0.191,0.0,0.144,0.754,115.74,182667,3
+A Love So Fine,The Chiffons,3,2Z5rJNI4Wdxud3vwm42l4n,23,0.515,0.886,0,-3.494,1,0.0324,0.666,0.0,0.437,0.953,101.227,115480,4
+A Love Song,Kenny Rogers,4,4072P1aXhii6dNjsbn9PES,35,0.316,0.277,9,-13.753,1,0.0256,0.729,0.0,0.175,0.301,82.316,192400,4
+A Love That's Real,The Intruders,8,79qtqjD96u81j1cgGk0tGM,28,0.61,0.408,11,-14.103,0,0.0346,0.753,0.0,0.106,0.834,113.773,175200,4
+A Lover's Concerto,The Toys,0,1gcY3t8AODYm42HsxVPo8R,35,0.675,0.74,2,-5.551,1,0.052,0.633,0.0,0.149,0.836,123.651,158000,4
+A Lover's Concerto,Mrs. Miller,9,5Hife6QE6Hnq72Ims8CX96,5,0.703,0.466,7,-12.215,1,0.102,0.463,0.0,0.51,0.774,125.991,153533,4
+A Lover's Concerto,Sarah Vaughan,6,5n4Pz0tBeKQkZj5CubLHK6,43,0.537,0.493,8,-10.151,1,0.0413,0.738,0.0,0.089,0.536,112.677,168200,4
+A Lover's Holiday,Change,3,2DeAEzzTCLxrcsO60WuCka,35,0.932,0.608,6,-6.401,0,0.189,0.0476,0.0194,0.0526,0.776,115.88,237120,4
+A Lover's Prayer,Dion & The Belmonts,7,2tcrbhSlKCv6bciZEy1BGE,17,0.423,0.246,2,-11.049,1,0.0288,0.895,0.0,0.0877,0.213,141.076,140507,3
+A Lover's Question,Otis Redding,4,3pl0zws6JCFYUOuMJQNwB7,16,0.671,0.681,10,-9.12,0,0.181,0.211,2.56e-06,0.0452,0.96,162.678,155773,4
+A Lover's Question,Loggins & Messina,8,4uniE3cbok1zOTUC64G8Yq,17,0.645,0.473,0,-10.049,1,0.262,0.65,0.00686,0.0859,0.939,77.686,201627,4
+A Lover's Question,Ernestine Anderson,9,3y2T4X0ECN8LWG72gKIjFL,50,0.348,0.0156,10,-25.403,0,0.0375,0.957,0.0,0.144,0.152,107.577,158373,4
+A Lover's Question,Clyde McPhatter,0,6HBgCYResmsdmOufyHVoNB,38,0.67,0.436,0,-11.698,1,0.0554,0.887,1.71e-05,0.0609,0.951,83.023,150267,4
+A Lucky Guy,Rickie Lee Jones,6,0EaXP0e4iMKkivvSeZ7ZfC,16,0.559,0.308,1,-9.789,1,0.0316,0.232,0.00161,0.105,0.195,109.82,249613,3
+A Mama And A Papa,Ray Stevens,8,6BTDkjjSj74cjXjRUpPK2P,6,0.511,0.53,5,-14.084,1,0.0337,0.447,0.00578,0.0984,0.663,86.717,171640,4
+A Man Ain't Made Of Stone,Randy Travis,8,0zfROzbYJMHs9xz6XeDrRl,17,0.472,0.485,8,-8.412,1,0.0274,0.0655,1.76e-05,0.0801,0.277,138.788,213507,4
+A Man And A Half,Wilson Pickett,4,7II22fb2A8y90vqcLfb2jJ,17,0.621,0.606,10,-10.906,1,0.0333,0.0352,1.05e-05,0.13,0.805,114.683,172573,4
+A Man And A Woman,Tamiko Jones with Herbie Mann,8,3crqcvT6Jj8RvxQVOkf3VF,8,0.683,0.53,0,-14.829,1,0.0467,0.78,0.00445,0.132,0.916,141.326,135373,4
+A Man Holdin' On (To A Woman Lettin' Go),Ty Herndon,8,7Mdyk9k3tkXTecNg56RxbU,33,0.607,0.403,9,-7.95,1,0.0288,0.555,1.23e-06,0.0954,0.202,128.121,217160,4
+A Man I'll Never Be,Boston,3,0bjKbwEvZfU5epyZ3aZm1y,44,0.418,0.587,0,-9.611,1,0.0272,0.0562,6.64e-06,0.0548,0.485,106.664,396173,4
+A Man Needs A Woman,James Carr,6,2wvbpeNktYt72dKETJrT5C,39,0.595,0.55,10,-5.03,1,0.0422,0.517,0.0,0.078,0.801,101.397,120587,4
+A Man Who Was Gonna Die Young,Eric Church,8,4tLNKzcRv95bWCtwNpH4w6,41,0.511,0.0971,11,-16.561,1,0.0442,0.951,0.0,0.106,0.397,134.936,193787,4
+A Man Without Love (Quando M'innamoro),Engelbert Humperdinck,1,6o3bB8y9zVG7Azbl6gqbVv,0,0.684,0.552,2,-6.328,1,0.0262,0.626,0.0219,0.0923,0.81,107.66,211304,4
+A Matter Of Trust,Billy Joel,0,6J212smZzpeOCYQ9DITMSC,56,0.738,0.662,2,-8.371,1,0.0268,0.0589,4.54e-05,0.306,0.88,110.304,248747,4
+A Mess Of Blues,Elvis Presley With The Jordanaires,3,4dNfypQwue0e46rQTdBU1Q,42,0.645,0.505,0,-11.434,1,0.0318,0.763,4.6e-05,0.139,0.862,117.257,161067,4
+A Milli,Lil Wayne,0,7dPONWvVY9j5MUdHUIKHVS,0,0.666,0.688,6,-8.521,0,0.291,0.0413,0.00112,0.213,0.75,151.575,221840,4
+A Million And One,Vic Dana,7,7qykdbkxp5BN1EBpRdOLfs,34,0.336,0.313,0,-11.763,1,0.0282,0.704,0.000162,0.265,0.43,80.685,149880,4
+A Million And One,Dean Martin,4,1DTydXUp7Y4InWSM38rLuI,25,0.203,0.299,10,-13.979,1,0.0313,0.912,0.000128,0.186,0.423,75.574,175227,4
+A Million Dreams,P!nk,8,0oagwWkGlBoACUuKvTmqZV,66,0.312,0.499,7,-6.282,1,0.0397,0.272,0.0,0.0901,0.191,148.173,273640,4
+A Million Miles Away,The Plimsouls,8,6YOhnujJCZwPnPHWIFSXiW,32,0.251,0.949,7,-4.658,1,0.063,0.0978,0.0051,0.928,0.564,152.935,240133,4
+A Million To One,Brian Hyland,8,5cfhjwlnKG5TkCUWdUNCct,1,0.373,0.229,7,-16.776,1,0.0312,0.78,0.000201,0.112,0.399,145.027,161693,4
+A Million To One,Five Stairsteps & Cubie,6,6xfcGSs4rj9hq6WiYNyyPv,16,0.257,0.227,2,-10.981,0,0.0295,0.884,0.0,0.226,0.323,185.087,148143,3
+A Million To One,Jimmy Charles and The Revelletts,0,2HWaoy5exkRIulp61fOvQj,25,0.285,0.199,10,-16.101,1,0.0328,0.72,0.0,0.254,0.454,102.838,152360,3
+A Million To One/Young Love,Donny Osmond,2,2EMbzZQTDR9lr94U8aZyRY,34,0.145,0.637,5,-4.411,1,0.0403,0.427,1.21e-06,0.316,0.347,171.892,186507,3
+A Minute Of Your Time,Tom Jones,4,1du0k5dlEtZM6wYlQMZAhs,18,0.288,0.477,9,-7.457,1,0.0302,0.497,0.0,0.126,0.552,154.052,176173,4
+A Miracle,Frankie Avalon,7,1USwd0VpMKlgfMYmdrJJvq,5,0.457,0.317,5,-10.69,1,0.0289,0.687,0.0,0.0711,0.216,94.441,138006,3
+A Moment Like This,Kelly Clarkson,0,4kvdX9zzsix7jYHsRVkVUH,56,0.414,0.572,8,-3.918,1,0.0311,0.163,0.0,0.115,0.16,145.184,228280,4
+A Mother For My Children,The Whispers,9,55eqxcMFb92snDL5ays5Uf,14,0.421,0.72,3,-9.071,1,0.217,0.11,5.85e-05,0.0557,0.787,197.535,194093,4
+A Mover La Colita,Artie The 1 Man Party,6,4eOfIfkwvZhvYEzMT6OI5s,15,0.846,0.73,11,-7.868,0,0.0521,0.00122,0.712,0.0591,0.734,130.047,184613,4
+A Must To Avoid,Herman's Hermits,0,2rYKu9ogqK1BjYLt1bMsGt,23,0.51,0.71,4,-5.849,1,0.0281,0.0636,0.0,0.173,0.865,135.083,115240,4
+A Natural Man,Lou Rawls,1,1UhY3dJlChFoC9dOkD4ZzO,44,0.765,0.63,7,-7.883,0,0.0406,0.716,3.12e-06,0.0889,0.893,111.982,221960,4
+A New Day Has Come,Celine Dion,2,2FTZeRHQ4gRPViPMpWL9uX,68,0.691,0.64,8,-5.087,1,0.0384,0.0247,5.24e-06,0.2,0.452,101.991,210227,4
+A Night To Remember,Joe Diffie,3,7rGFyfE73J6lkEvFnCHucC,38,0.61,0.83,9,-4.772,1,0.0343,0.0452,0.000211,0.163,0.566,90.024,178533,4
+A Night To Remember,Shalamar,4,2xsXNMfcKLQxL5sQq4v7gH,52,0.863,0.738,10,-6.314,0,0.0428,0.0658,0.000234,0.0969,0.947,108.851,299360,4
+A Nightmare On My Street,D.J. Jazzy Jeff & The Fresh Prince,1,1ugkqjRKTAX3kExAR4QgQz,33,0.74,0.819,4,-5.77,0,0.211,0.032,0.0,0.556,0.704,170.345,298640,4
+A Part Of Me,Jimmy Clanton,3,3TeCzKlTPHU700TzO6TTGV,13,0.534,0.224,7,-6.242,1,0.0313,0.38,0.0,0.0852,0.686,111.802,171053,3
+A Part Of You,Brenda & The Tabulations,9,4M7TYUKxKVHD7xPDf6lzaY,3,0.383,0.491,5,-10.099,1,0.0266,0.621,0.00924,0.0609,0.707,167.267,208707,3
+A Passion Play (Edit #8),Jethro Tull,7,3vFl8RqdSGRjDFjp08WYkd,11,0.425,0.509,5,-10.428,1,0.0459,0.0362,0.0365,0.234,0.771,129.564,208213,4
+A Penny For Your Thoughts,Tavares,3,4JC90rQSqwMAhekHuu2hCj,41,0.537,0.469,0,-7.941,1,0.0324,0.6,0.0,0.109,0.363,136.536,270067,4
+A Perfect Love,Frankie Avalon,4,1OnzfZTZGZPjayArD35MFZ,16,0.541,0.338,7,-10.589,1,0.0291,0.789,1.42e-06,0.138,0.613,126.047,141010,4
+A Piece Of Paper,Gladstone,4,4VvFtKjFavMXyFAcXXnWr8,0,0.373,0.464,2,-6.176,1,0.0318,0.833,2.08e-05,0.104,0.462,153.431,226480,3
+A Place In The Sun,Pablo Cruise,4,0pvQtJzaIcBJelSZo3PeDw,37,0.692,0.673,7,-13.069,1,0.0302,0.0814,8.81e-05,0.0967,0.852,117.678,284200,4
+A Place In The Sun,Stevie Wonder,0,0tURbnatc9qCxlYpXuPK8I,54,0.561,0.447,1,-11.389,1,0.0544,0.279,0.0,0.319,0.729,117.784,172960,4
+A Prayer And A Juke Box,Little Anthony And The Imperials,8,13VnT52RksrtePXc8w9NAC,6,0.423,0.301,7,-14.698,1,0.0327,0.674,0.0,0.086,0.468,102.852,149400,1
+A Promise I Make,Dakota Moon,6,6dWbvrb0xygIlstvZxDhDJ,35,0.711,0.481,0,-8.135,0,0.0242,0.273,0.0,0.0952,0.392,90.118,267280,4
+A Public Affair,Jessica Simpson,1,1gFMesXcHHtIUhwzxYFOtz,44,0.735,0.86,11,-3.878,0,0.0339,0.00525,0.000192,0.404,0.835,124.052,201467,4
+A Question Of Temperature,The Balloon Farm,3,2ef2BQYEzbAZnyOupvZgLJ,18,0.514,0.928,4,-6.691,0,0.0758,0.00638,0.00423,0.354,0.738,141.907,160040,4
+A Quiet Place,Garnet Mimms & The Enchanters,7,0F4y2dXS9MxisNOO8DksUt,44,0.689,0.378,7,-12.22,0,0.0398,0.751,0.0,0.24,0.75,105.775,144307,4
+A Ray Of Hope,The Rascals,2,7osQgwNLoDtLFoZJ4Rwkqq,18,0.454,0.656,0,-9.422,1,0.0328,0.587,1.66e-05,0.116,0.82,102.124,226213,4
+A Real Fine Place To Start,Sara Evans,3,6O2lo7245XfRbIfpL5yRLJ,40,0.585,0.789,8,-2.834,1,0.041,0.00143,0.00087,0.141,0.208,120.953,238733,4
+A Real Mother For Ya,Johnny Guitar Watson,4,27QTVCKEfq41PjPKQVa7vW,44,0.86,0.666,3,-8.492,1,0.0375,0.0756,0.00973,0.0501,0.473,98.296,304533,4
+A Rock 'N' Roll Fantasy,The Kinks,2,5cDPuvRjbVRcmpE8ds4394,23,0.47,0.498,5,-10.748,1,0.0394,0.321,0.0,0.249,0.53,109.546,299640,4
+A Rockin' Good Way (To Mess Around And Fall In Love),Dinah Washington & Brook Benton,0,4ydSzWwxqtNdP4VPfQe8bf,50,0.788,0.52,3,-10.837,1,0.0528,0.845,2.94e-05,0.178,0.96,130.224,148227,4
+A Rose By Any Other Name,Teena Marie Featuring Gerald Levert,9,5czO1qonoydMKYqyEqWVL3,33,0.693,0.704,6,-4.465,0,0.0506,0.753,0.0,0.121,0.514,128.288,327160,4
+A Rose Is Still A Rose,Aretha Franklin,2,3pi27Gt4NetgWmEMFOCjBQ,40,0.631,0.793,8,-7.551,0,0.251,0.212,0.0,0.0441,0.826,175.814,266667,4
+A Satisfied Mind,Bobby Hebb,3,5trFoWc3DxknotgAxtYkFl,18,0.501,0.435,8,-13.8,0,0.0421,0.625,9.3e-05,0.191,0.663,113.321,163493,4
+A Scottish Soldier (Green Hills of Tyrol),Andy Stewart,6,4TnYIJn7a81Gwwg1sHhFrI,0,0.387,0.461,3,-7.257,1,0.0547,0.891,0.0,0.151,0.551,76.575,209533,3
+A Shot In The Dark,Henry Mancini And His Orchestra,9,0jTnxF0sEvQvsIFyiwi8xN,20,0.487,0.497,4,-9.532,0,0.039,0.157,0.889,0.205,0.455,119.176,152587,4
+A Shoulder To Cry On,Tommy Page,2,5YRjPuBxgb9GaOfEvYCzHo,41,0.52,0.523,4,-8.78,0,0.0238,0.482,0.0,0.138,0.315,96.151,202307,4
+A Sign Of The Times,Petula Clark,1,6EdGkH1mk7dKIgc3CKgo7F,26,0.532,0.708,10,-9.162,1,0.0339,0.551,0.0,0.318,0.887,138.49,177067,4
+A Simple Game,Four Tops,8,79OrkKwVCBIzzGAw6XyfUj,23,0.623,0.758,5,-5.911,0,0.0409,0.134,0.0,0.0948,0.641,108.016,176973,4
+A Simple Man,Lobo,5,0vAznfkkR0f2bOe28EeCId,31,0.722,0.763,0,-11.099,1,0.0444,0.0752,0.000336,0.072,0.852,79.509,190013,4
+A Sky Full Of Stars,Coldplay,0,0FDzzruyVECATHXKHFs9eJ,84,0.545,0.675,6,-6.474,1,0.0279,0.00617,0.00197,0.209,0.162,124.97,267867,4
+A Song For Mama,Boyz II Men,0,6FuJokk9FHx0E00SZ8ib8X,50,0.569,0.44,7,-8.948,1,0.035,0.471,0.0,0.143,0.151,75.001,303373,4
+A Song For You,Andy Williams,8,6elsVYsbdVvjOGL7aK4zqe,10,0.415,0.291,4,-14.969,1,0.0369,0.838,0.00424,0.0829,0.117,118.009,188067,4
+A Song I'd Like To Sing,Kris Kristofferson & Rita Coolidge,4,2BR7FF7KdaL1ygxVJ39Iad,44,0.529,0.263,10,-14.748,1,0.0276,0.823,0.0753,0.108,0.422,110.059,226147,4
+A Song Of Joy (Himno A La Alegria),Miguel Rios,1,2ev5cqhY4qE0ekhbjiOPvQ,24,0.188,0.485,2,-8.362,1,0.0319,0.301,7.43e-05,0.148,0.398,82.189,286267,4
+A Song That Never Comes,Mama Cass Elliot,9,5HxyKXGBYEd8AmzLpFrQUu,28,0.457,0.468,1,-14.251,1,0.0352,0.34,4.6e-06,0.0514,0.813,131.157,148333,4
+A Star Is Born (A Love Has Died),Mark Dinning,6,4z2XPrpHz1raJibarWFY7Z,57,0.699,0.282,7,-7.65,1,0.0374,0.798,1.23e-06,0.0981,0.359,79.776,159293,4
+A Steel Guitar And A Glass Of Wine,Paul Anka,1,54xxVmu4bycyQ7psgJdzrh,39,0.692,0.595,5,-10.899,1,0.0433,0.111,0.0,0.398,0.967,127.006,135133,4
+A Stranger In Your Town,The Shacklefords,6,52VntYFgmfMS1OwFVg1632,17,0.483,0.643,6,-6.397,1,0.0491,0.0339,0.0,0.105,0.585,204.121,161560,4
+A String Of Trumpets,The Trumpeteers,6,3fVa7fH15tabGnbeYLEMlY,0,0.627,0.751,5,-5.203,0,0.0516,0.647,0.359,0.109,0.952,145.214,110267,4
+A Summer Song,Chad & Jeremy,0,51FeytYQARk2UoFCDBZ3RG,45,0.599,0.403,9,-12.737,1,0.0299,0.754,0.000314,0.131,0.523,124.013,158413,4
+A Sunday Kind Of Love,Lenny Welch,9,41e6vJgJdd3J9mqw19vNZS,19,0.194,0.261,3,-15.696,1,0.0303,0.798,0.0,0.0885,0.298,182.036,150200,3
+A Sunday Kind Of Love,Jan & Dean,9,431aT3Q4oZ4EbJcVsMWwX2,4,0.573,0.614,5,-9.359,1,0.0314,0.724,2.79e-05,0.141,0.961,113.219,135627,4
+A Sweet Woman Like You,Joe Tex,2,2ZAziniVKKou2xrgbJOMfp,7,0.438,0.253,8,-14.026,1,0.0385,0.731,0.0,0.0361,0.691,89.251,157400,4
+A Swingin' Safari,Billy Vaughn And His Orchestra,1,67dN68PBuUplLJA2VoWfsB,35,0.544,0.527,3,-11.573,0,0.0938,0.697,0.972,0.0731,0.717,76.03,135667,4
+A Symphony For Susan,The Arbors,5,65t1qUTFzrl94IxuDq7oQa,16,0.485,0.412,7,-9.79,1,0.0268,0.794,0.0,0.713,0.521,100.356,155147,4
+A Taste Of Honey,Tony Bennett,9,6m6s3MapXf4go7fmDJv3IP,16,0.391,0.237,0,-9.567,1,0.0288,0.834,0.0,0.104,0.362,98.253,174667,3
+A Taste Of Honey,Martin Denny and His Orchestra,4,50EX6KApU1bJEo3MONIOsh,34,0.541,0.0662,0,-23.821,0,0.0326,0.836,0.407,0.099,0.186,75.737,166693,4
+A Taste Of Honey,The Victor Feldman Quartet,8,4ainalWU9LwPSEN1ulHsX3,26,0.46,0.416,4,-15.103,1,0.0426,0.409,0.894,0.116,0.584,154.006,461493,4
+A Tear,Gene McDaniels,3,4fY55Qe6xoGJS6LKgyRSqz,16,0.614,0.328,7,-8.232,1,0.0281,0.58,0.0,0.139,0.486,108.68,129960,4
+A Tear Fell,Ray Charles,4,6yMGxqKj0218mFR5KqsMRq,61,0.19,0.323,7,-12.405,1,0.0303,0.626,2.17e-06,0.176,0.281,94.34,219560,4
+A Teenager Feels It Too,Denny Reed,9,6KSK0rTYgnh3mrOwL47fB7,0,0.639,0.399,5,-11.387,1,0.0308,0.78,0.0,0.217,0.891,124.292,126787,4
+A Teenager In Love,Dion & The Belmonts,0,0QGwOFQChzflLAmPq5NwKo,61,0.555,0.377,1,-9.123,1,0.0295,0.671,0.0,0.128,0.619,78.986,158253,4
+A Texan And A Girl From Mexico,Anita Bryant,8,3EuvD1nYu70RGuCIkbgp4s,2,0.307,0.199,9,-14.518,1,0.0308,0.843,2.63e-05,0.107,0.194,83.473,213253,4
+A Thing Of The Past,The Shirelles,4,3Zb3CJR5ywHIWLPIVcrZr4,12,0.578,0.222,0,-14.149,1,0.0313,0.611,0.0,0.586,0.737,112.876,159293,4
+A Thousand Bad Times,Post Malone,2,2J0NXdHr6MYvKDSxB7k3V2,66,0.632,0.732,6,-3.498,1,0.092,0.105,1.15e-05,0.111,0.317,159.0,221173,4
+A Thousand Miles,Vanessa Carlton,0,4w1lzcaoZ1IC2K5TwjalRP,77,0.56,0.825,11,-3.862,1,0.0379,0.323,0.0,0.161,0.268,94.931,237493,4
+A Thousand Miles Away,The Heartbeats,9,6ofvy4eMivKYNRi4EaDlsF,39,0.461,0.271,7,-10.441,1,0.0606,0.846,0.0,0.12,0.425,166.282,148040,5
+A Thousand Shadows,The Seeds,7,49wmhN7AAF7acdnDYlN8dj,13,0.515,0.6,9,-10.669,0,0.035,0.602,0.0,0.162,0.577,140.271,152227,4
+A Thousand Stars,Kathy Young With The Innocents,0,5iunW48Iw3XplzupX36sYp,0,0.802,0.298,0,-18.272,1,0.04,0.859,0.155,0.108,0.359,98.512,190093,3
+A Thousand Years,Christina Perri,3,6lanRgr6wXibZr8KgzXxBl,80,0.421,0.407,10,-7.445,1,0.0267,0.309,0.000961,0.11,0.161,139.028,285120,3
+A Thousand Years (Part 2),Christina Perri Featuring Steve Kazee,5,6lanRgr6wXibZr8KgzXxBl,80,0.421,0.407,10,-7.445,1,0.0267,0.309,0.000961,0.11,0.161,139.028,285120,3
+A Thousand Years,Sawyer Fredericks,9,1xbtFabmTCcxN0gozYj2AZ,16,0.433,0.406,5,-6.264,1,0.0279,0.297,0.0,0.0841,0.39,147.96,169837,3
+A Time To Love-A Time To Cry (Petite Fleur),Lou Johnson,5,1xMS6olQo7XtoJg833vu0n,2,0.626,0.533,9,-11.872,1,0.0388,0.369,0.0317,0.103,0.927,83.197,204227,4
+A Touch Of Pink,Jerry Wallace,9,61wCVx5B4X8nM64dM3Bln8,38,0.575,0.151,10,-23.438,1,0.0331,0.951,0.0679,0.226,0.559,113.328,180547,4
+A Tribute To A King,William Bell,8,2Ej7FgxsCf7UjGO2pOvYOO,20,0.555,0.362,2,-8.042,1,0.0344,0.531,0.0,0.109,0.399,142.33,172627,4
+A Trick Of The Night,Bananarama,7,5uDWIr8Nr8uSgDlPX3XfeY,23,0.606,0.64,4,-7.469,0,0.0257,0.11,0.0,0.351,0.603,109.654,278175,4
+A Very Special Love Song,Charlie Rich,1,6AUQVVamUbyLZ5neJNiq5n,30,0.402,0.41,7,-8.464,1,0.0258,0.931,0.0658,0.132,0.313,77.957,164733,4
+A View To A Kill,Duran Duran,0,6I4snLrVOrJsLdd43isc27,61,0.706,0.814,1,-5.405,1,0.0569,0.0159,0.0,0.262,0.778,125.472,217693,4
+A Voice In The Choir,Al Martino,7,55Z0KHofKqhOMIOygAVXxm,56,0.519,0.481,2,-9.796,1,0.0283,0.308,1.05e-05,0.121,0.48,109.246,166907,4
+A Walk In The Black Forest,Horst Jankowski,1,3msjvrkCvIzUNJHULcAafN,43,0.701,0.38,2,-11.756,1,0.0294,0.611,0.728,0.233,0.783,106.284,169680,4
+A Walkin' Miracle,The Essex Featuring Anita Humes,1,49c763ZySFmD7XCCGZyEqf,18,0.762,0.584,4,-8.349,1,0.0463,0.817,0.0,0.163,0.895,132.534,139093,4
+A Well Respected Man,The Kinks,1,5e3isD5st7PGYzSJuoRSIV,58,0.53,0.873,4,-5.105,0,0.118,0.297,0.0,0.0521,0.583,162.154,161587,4
