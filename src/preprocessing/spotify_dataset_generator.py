@@ -87,7 +87,7 @@ class SpotifyDatasetGenerator:
             track_ids[i] = track_id
             song_popularities[i] = popularity
             # Sleep to avoid rate limit
-            time.sleep(5)
+            time.sleep(0.5)
         track_ids_series = pd.Series(track_ids, dtype=str, name="track_id")
         song_popularities_series = pd.Series(
             song_popularities, dtype=int, name="popularity"
@@ -124,7 +124,7 @@ class SpotifyDatasetGenerator:
             track_ids = df.iloc[i : i + 100]["track_id"].tolist()
             audio_features_list = self.sp.audio_features(track_ids)
             # Sleep to avoid rate limit
-            time.sleep(5)
+            time.sleep(0.5)
             for j, track_id in enumerate(track_ids):
                 audio_features[track_id] = audio_features_list[j]
 
