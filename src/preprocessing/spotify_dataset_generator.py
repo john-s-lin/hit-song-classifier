@@ -4,9 +4,10 @@ import os
 import pandas as pd
 import re
 import sys
+import time
 
 # Set logging level
-logging.basicConfig(stream=sys.stdout, level=logging.INFO)
+logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
@@ -57,7 +58,7 @@ class SpotifyDatasetGenerator:
             popularity = response["tracks"]["items"][0]["popularity"]
         # If it's a bad query, simplify the query
         else:
-            search_query = title + artist
+            search_query = f"{title} {artist}"
             response = self.sp.search(q=search_query, type="track")
             try:
                 track_id = response["tracks"]["items"][0]["id"]
@@ -85,6 +86,8 @@ class SpotifyDatasetGenerator:
             )
             track_ids[i] = track_id
             song_popularities[i] = popularity
+            # Sleep to avoid rate limit
+            time.sleep(5)
         track_ids_series = pd.Series(track_ids, dtype=str, name="track_id")
         song_popularities_series = pd.Series(
             song_popularities, dtype=int, name="popularity"
@@ -120,6 +123,8 @@ class SpotifyDatasetGenerator:
         for i in range(0, len(df), 100):
             track_ids = df.iloc[i : i + 100]["track_id"].tolist()
             audio_features_list = self.sp.audio_features(track_ids)
+            # Sleep to avoid rate limit
+            time.sleep(5)
             for j, track_id in enumerate(track_ids):
                 audio_features[track_id] = audio_features_list[j]
 
@@ -161,7 +166,8 @@ class SpotifyDatasetGenerator:
         Returns:
             DataFrame: Billboard data with labels
         """
-        return dd.read_csv(filename)
+        ddf = pd.read_csv(filename, on_bad_lines="skip", dtype=str)
+        return ddf.drop_duplicates(subset=["song", "artist"])
 
 
 class BillboardDatasetCleaner:
@@ -219,7 +225,11 @@ class BillboardDatasetCleaner:
         df = pd.read_csv(filename)
         df_subset = df.sample(subset_size, random_state=RANDOM_SEED)
         df_subset["class"] = 10
-        songs_list = df_subset[["title", "artist.name", "class"]].values.tolist()
+        songs_list = [
+            row
+            for row in df_subset[["title", "artist.name", "class"]].values.tolist()
+            if len(row) == 3
+        ]
         return [",".join(map(str, row)) + "\n" for row in songs_list]
 
     def __clean_element_name(self, *args) -> str:
