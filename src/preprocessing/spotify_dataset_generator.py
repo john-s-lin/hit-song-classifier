@@ -1,4 +1,5 @@
 import dotenv
+import glob
 import logging
 import os
 import pandas as pd
@@ -19,10 +20,13 @@ dotenv.load_dotenv()
 SPOTIPY_CLIENT_ID = os.environ.get("SPOTIPY_CLIENT_ID")
 SPOTIPY_CLIENT_SECRET = os.environ.get("SPOTIPY_CLIENT_SECRET")
 
+CURR_NUM = 5
 # Initialize target datasets
 TARGET_FILE = "data/all_classified_billboard_songs1.csv"
-TARGET_CLEANED_FILE = TARGET_FILE.split(".csv")[0] + "_clean.csv"
-SPOTIFY_DATASET_FILE = "data/spotify_enhanced_dataset.csv"
+# TARGET_CLEANED_FILE = TARGET_FILE.split(".csv")[0] + "_clean.csv"
+TARGET_CLEANED_FILE = f"data/bb_subset_clean_{CURR_NUM}.csv"
+INTERMEDIATE_DATASET_FILE = f"data/intermediate/bb_subset_id_{CURR_NUM}.csv"
+SPOTIFY_DATASET_FILE = f"data/spotify_enhanced_dataset_{CURR_NUM}.csv"
 MILLION_SONG_SUBSET_FILE = "data/million_songs_subset.csv"
 
 RANDOM_SEED = 0
@@ -130,8 +134,9 @@ class SpotifyDatasetGenerator:
 
         features_list = []
         for id_, features in audio_features.items():
-            features["id"] = id_
-            features_list.append(features)
+            if features is not None:
+                features["id"] = id_
+                features_list.append(features)
 
         audio_features_df = pd.DataFrame(
             features_list,
@@ -247,24 +252,63 @@ class BillboardDatasetCleaner:
 
 
 def main():
-    if not os.path.exists(TARGET_CLEANED_FILE):
-        logging.info(f"Cleaning {TARGET_FILE}...")
-        bb_cleaner = BillboardDatasetCleaner()
-        bb_cleaner.clean_raw_billboard_dataset(TARGET_FILE)
+    # if not os.path.exists(TARGET_CLEANED_FILE):
+    #     logging.info(f"Cleaning {TARGET_FILE}...")
+    #     bb_cleaner = BillboardDatasetCleaner()
+    #     bb_cleaner.clean_raw_billboard_dataset(TARGET_FILE)
 
-    if not os.path.exists(SPOTIFY_DATASET_FILE):
-        logging.info(f"Creating {SPOTIFY_DATASET_FILE}...")
-        sp_generator = SpotifyDatasetGenerator()
-        df = sp_generator.get_cleaned_billboard_dataset(TARGET_CLEANED_FILE)
-        df_with_track_id = sp_generator.drop_rows_if_empty_track_id(
-            sp_generator.create_columns_track_id_popularity(df)
-        )
-        df_with_audio_features = sp_generator.create_columns_audio_features(
-            df_with_track_id
-        )
-        df_with_audio_features.drop(columns=["id"]).to_csv(
-            SPOTIFY_DATASET_FILE, single_file=True, index=False
-        )
+    # if not os.path.exists(SPOTIFY_DATASET_FILE):
+    #     logging.info(f"Creating {SPOTIFY_DATASET_FILE}...")
+    #     sp_generator = SpotifyDatasetGenerator()
+    #     df = sp_generator.get_cleaned_billboard_dataset(TARGET_CLEANED_FILE)
+    #     df_with_track_id = sp_generator.drop_rows_if_empty_track_id(
+    #         sp_generator.create_columns_track_id_popularity(df)
+    #     )
+    #     df_with_track_id.to_csv(INTERMEDIATE_DATASET_FILE, single_file=True, index=False)
+    #     df_with_audio_features = sp_generator.create_columns_audio_features(
+    #         df_with_track_id
+    #     )
+    #     df_with_audio_features.drop(columns=["id"]).to_csv(
+    #         SPOTIFY_DATASET_FILE, single_file=True, index=False
+    #     )
+
+    # Get list of files which match data/bb_subset_clean_*.csv
+    bb_subset = glob.glob("data/bb_subset_clean_*.csv")
+
+    # Get list of files which match data/intermediate/bb_subset_id_*.csv
+    intermediate_files = glob.glob("data/intermediate/bb_subset_id_*.csv")
+
+    # Get list of files which match data/spotify_enhanced_dataset_*.csv
+    spotify_enhanced = glob.glob("data/spotify_enhanced_dataset_*.csv")
+
+    for bb_subset_file in bb_subset:
+        bb_subset_num = bb_subset_file.split("_")[-1].split(".")[0]
+        sp_filename = f"data/spotify_enhanced_dataset_{bb_subset_num}.csv"
+
+        if not os.path.exists(sp_filename) or sp_filename not in spotify_enhanced:
+            logging.info(f"{sp_filename} not found. Creating...")
+            sp_generator = SpotifyDatasetGenerator()
+            bb_id_filename = f"data/intermediate/bb_subset_id_{bb_subset_num}.csv"
+
+            if (
+                not os.path.exists(bb_id_filename)
+                or bb_id_filename not in intermediate_files
+            ):
+                logging.info(f"{bb_id_filename} not found. Creating...")
+                df = sp_generator.get_cleaned_billboard_dataset(bb_subset_file)
+                df_with_track_id = sp_generator.drop_rows_if_empty_track_id(
+                    sp_generator.create_columns_track_id_popularity(df)
+                )
+                df_with_track_id.to_csv(bb_id_filename, single_file=True, index=False)
+
+            df_intermediate = dd.read_csv(bb_id_filename)
+            df_with_audio_features = sp_generator.create_columns_audio_features(
+                df_intermediate
+            )
+            df_with_audio_features.drop(columns=["id"]).to_csv(
+                sp_filename, single_file=True, index=False
+            )
+            time.sleep(300)
 
 
 if __name__ == "__main__":
