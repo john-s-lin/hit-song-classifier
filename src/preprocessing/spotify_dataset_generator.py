@@ -5,16 +5,16 @@ import os
 import pandas as pd
 import re
 import shutil
+import spotipy
 import sys
 import time
+
+from dask import dataframe as dd
+from spotipy.oauth2 import SpotifyClientCredentials
 
 # Set logging level
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 
-import spotipy
-from spotipy.oauth2 import SpotifyClientCredentials
-
-from dask import dataframe as dd
 
 # Load environment variables from .env
 dotenv.load_dotenv()
@@ -28,7 +28,7 @@ TEMP_DIR = "data/temp"
 BB_SUBSET_PREFIX = f"{TEMP_DIR}/bb_subset_clean"
 INTERMEDIATE_SUBSET_PREFIX = f"{TEMP_DIR}/bb_subset_id"
 SPOTIFY_SUBSET_PREFIX = f"{TEMP_DIR}/spotify_enhanced_dataset"
-SPOTIFY_DATASET_FILE = f"data/spotify_enhanced_dataset.csv"
+SPOTIFY_DATASET_FILE = "data/spotify_enhanced_dataset.csv"
 MILLION_SONG_SUBSET_FILE = "data/million_songs_subset.csv"
 
 RANDOM_SEED = 0
@@ -161,7 +161,8 @@ class SpotifyDatasetGenerator:
         )
 
         return dd.from_pandas(
-            df.merge(audio_features_df, left_on="track_id", right_on="id"), chunksize=1000
+            df.merge(audio_features_df, left_on="track_id", right_on="id"),
+            chunksize=1000,
         )
 
     def get_cleaned_billboard_dataset(self, filename: str) -> dd:
@@ -286,7 +287,7 @@ def split_billboard_cleaned_dataset():
     shard_file_glob = f"{BB_SUBSET_PREFIX}_*.csv"
     bb_cleaned_shards = glob.glob(shard_file_glob)
     if len(bb_cleaned_shards) == 0:
-        logging.info(f"Shards do not exist. Splitting...")
+        logging.info("Shards do not exist. Splitting...")
         df = pd.read_csv(TARGET_CLEANED_FILE, on_bad_lines="skip")
         split_dfs = [df[i : i + 1000] for i in range(0, df.shape[0], 1000)]
         for i, df in enumerate(split_dfs):
@@ -341,7 +342,7 @@ def combine_spotify_dataset_shards():
     shard_file_glob = f"{SPOTIFY_SUBSET_PREFIX}_*.csv"
     sp_enhanced_shards = glob.glob(shard_file_glob)
     if len(sp_enhanced_shards) > 0:
-        logging.info(f"Shards already exist. Combining...")
+        logging.info("Shards already exist. Combining...")
         sp_enhanced_df_list = [
             pd.read_csv(file, on_bad_lines="skip") for file in sp_enhanced_shards
         ]
