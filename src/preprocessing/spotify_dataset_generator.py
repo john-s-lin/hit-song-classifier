@@ -4,6 +4,7 @@ import logging
 import os
 import pandas as pd
 import re
+import shutil
 import sys
 import time
 
@@ -20,13 +21,14 @@ dotenv.load_dotenv()
 SPOTIPY_CLIENT_ID = os.environ.get("SPOTIPY_CLIENT_ID")
 SPOTIPY_CLIENT_SECRET = os.environ.get("SPOTIPY_CLIENT_SECRET")
 
-CURR_NUM = 5
 # Initialize target datasets
 TARGET_FILE = "data/all_classified_billboard_songs1.csv"
-# TARGET_CLEANED_FILE = TARGET_FILE.split(".csv")[0] + "_clean.csv"
-TARGET_CLEANED_FILE = f"data/bb_subset_clean_{CURR_NUM}.csv"
-INTERMEDIATE_DATASET_FILE = f"data/intermediate/bb_subset_id_{CURR_NUM}.csv"
-SPOTIFY_DATASET_FILE = f"data/spotify_enhanced_dataset_{CURR_NUM}.csv"
+TARGET_CLEANED_FILE = TARGET_FILE.split(".csv")[0] + "_clean.csv"
+TEMP_DIR = "data/temp"
+BB_SUBSET_PREFIX = f"{TEMP_DIR}/bb_subset_clean"
+INTERMEDIATE_SUBSET_PREFIX = f"{TEMP_DIR}/bb_subset_id"
+SPOTIFY_SUBSET_PREFIX = f"{TEMP_DIR}/spotify_enhanced_dataset"
+SPOTIFY_DATASET_FILE = f"data/spotify_enhanced_dataset.csv"
 MILLION_SONG_SUBSET_FILE = "data/million_songs_subset.csv"
 
 RANDOM_SEED = 0
@@ -251,64 +253,112 @@ class BillboardDatasetCleaner:
         return output
 
 
-def main():
-    # if not os.path.exists(TARGET_CLEANED_FILE):
-    #     logging.info(f"Cleaning {TARGET_FILE}...")
-    #     bb_cleaner = BillboardDatasetCleaner()
-    #     bb_cleaner.clean_raw_billboard_dataset(TARGET_FILE)
+def create_cleaned_billboard_dataset():
+    """Creates cleaned Billboard dataset"""
+    if not os.path.exists(TARGET_CLEANED_FILE):
+        logging.info(f"Cleaning {TARGET_FILE}...")
+        bb_cleaner = BillboardDatasetCleaner()
+        bb_cleaner.clean_raw_billboard_dataset(TARGET_FILE)
+    else:
+        logging.info(f"{TARGET_CLEANED_FILE} already exists.")
 
-    # if not os.path.exists(SPOTIFY_DATASET_FILE):
-    #     logging.info(f"Creating {SPOTIFY_DATASET_FILE}...")
-    #     sp_generator = SpotifyDatasetGenerator()
-    #     df = sp_generator.get_cleaned_billboard_dataset(TARGET_CLEANED_FILE)
-    #     df_with_track_id = sp_generator.drop_rows_if_empty_track_id(
-    #         sp_generator.create_columns_track_id_popularity(df)
-    #     )
-    #     df_with_track_id.to_csv(INTERMEDIATE_DATASET_FILE, single_file=True, index=False)
-    #     df_with_audio_features = sp_generator.create_columns_audio_features(
-    #         df_with_track_id
-    #     )
-    #     df_with_audio_features.drop(columns=["id"]).to_csv(
-    #         SPOTIFY_DATASET_FILE, single_file=True, index=False
-    #     )
 
+def create_spotify_dataset():
+    """Creates Spotify dataset"""
+    if not os.path.exists(SPOTIFY_DATASET_FILE):
+        logging.info(f"Creating {SPOTIFY_DATASET_FILE}...")
+
+        split_billboard_cleaned_dataset()
+        create_spotify_df_with_id_shards()
+        create_spotify_df_with_audio_features_shards()
+        combine_spotify_dataset_shards()
+
+    else:
+        logging.info(f"{SPOTIFY_DATASET_FILE} already exists.")
+
+
+def split_billboard_cleaned_dataset():
+    """Splits Billboard dataset into 1000 row shards"""
+    if not os.path.exists(TEMP_DIR):
+        os.mkdir(TEMP_DIR)
+
+    # Check if shards exist
+    shard_file_glob = f"{BB_SUBSET_PREFIX}_*.csv"
+    bb_cleaned_shards = glob.glob(shard_file_glob)
+    if len(bb_cleaned_shards) == 0:
+        logging.info(f"Shards do not exist. Splitting...")
+        df = pd.read_csv(TARGET_CLEANED_FILE, on_bad_lines="skip")
+        split_dfs = [df[i : i + 1000] for i in range(0, df.shape[0], 1000)]
+        for i, df in enumerate(split_dfs):
+            df.to_csv(f"{BB_SUBSET_PREFIX}_{i}.csv", index=False)
+
+
+def create_spotify_df_with_id_shards():
+    """Creates intermediate datasets from shards with Spotify track ID"""
     # Get list of files which match data/bb_subset_clean_*.csv
-    bb_subset = glob.glob("data/bb_subset_clean_*.csv")
-
-    # Get list of files which match data/intermediate/bb_subset_id_*.csv
-    intermediate_files = glob.glob("data/intermediate/bb_subset_id_*.csv")
-
-    # Get list of files which match data/spotify_enhanced_dataset_*.csv
-    spotify_enhanced = glob.glob("data/spotify_enhanced_dataset_*.csv")
-
-    for bb_subset_file in bb_subset:
-        bb_subset_num = bb_subset_file.split("_")[-1].split(".")[0]
-        sp_filename = f"data/spotify_enhanced_dataset_{bb_subset_num}.csv"
-
-        if not os.path.exists(sp_filename) or sp_filename not in spotify_enhanced:
-            logging.info(f"{sp_filename} not found. Creating...")
+    bb_subset = glob.glob(f"{BB_SUBSET_PREFIX}_*.csv")
+    for i, bb_subset_file in enumerate(bb_subset):
+        # Check if intermediate dataset exists
+        intermediate_dataset_file = f"{INTERMEDIATE_SUBSET_PREFIX}_{i}.csv"
+        if not os.path.exists(intermediate_dataset_file):
+            logging.info(f"Creating {intermediate_dataset_file}...")
             sp_generator = SpotifyDatasetGenerator()
-            bb_id_filename = f"data/intermediate/bb_subset_id_{bb_subset_num}.csv"
+            df = sp_generator.get_cleaned_billboard_dataset(bb_subset_file)
+            df_with_track_id = sp_generator.drop_rows_if_empty_track_id(
+                sp_generator.create_columns_track_id_popularity(df)
+            )
+            df_with_track_id.to_csv(
+                intermediate_dataset_file, single_file=True, index=False
+            )
+        else:
+            logging.info(f"{intermediate_dataset_file} already exists.")
 
-            if (
-                not os.path.exists(bb_id_filename)
-                or bb_id_filename not in intermediate_files
-            ):
-                logging.info(f"{bb_id_filename} not found. Creating...")
-                df = sp_generator.get_cleaned_billboard_dataset(bb_subset_file)
-                df_with_track_id = sp_generator.drop_rows_if_empty_track_id(
-                    sp_generator.create_columns_track_id_popularity(df)
-                )
-                df_with_track_id.to_csv(bb_id_filename, single_file=True, index=False)
 
-            df_intermediate = dd.read_csv(bb_id_filename)
+def create_spotify_df_with_audio_features_shards():
+    """Creates Spotify dataset from shards with audio features"""
+    # Get list of intermediate shards
+    intermediate_subset = glob.glob(f"{INTERMEDIATE_SUBSET_PREFIX}_*.csv")
+    for i, intermediate_subset_file in enumerate(intermediate_subset):
+        # Check if Spotify dataset exists
+        spotify_dataset_file = f"{SPOTIFY_SUBSET_PREFIX}_{i}.csv"
+        if not os.path.exists(spotify_dataset_file):
+            logging.info(f"Creating {spotify_dataset_file}...")
+            sp_generator = SpotifyDatasetGenerator()
+            df_with_track_id = dd.read_csv(intermediate_subset_file)
             df_with_audio_features = sp_generator.create_columns_audio_features(
-                df_intermediate
+                df_with_track_id
             )
-            df_with_audio_features.drop(columns=["id"]).to_csv(
-                sp_filename, single_file=True, index=False
+            df_with_audio_features.to_csv(
+                spotify_dataset_file, single_file=True, index=False
             )
-            time.sleep(300)
+        else:
+            logging.info(f"{spotify_dataset_file} already exists.")
+
+
+def combine_spotify_dataset_shards():
+    """Combines Spotify dataset shards into one file"""
+    # Check if shards exist
+    shard_file_glob = f"{SPOTIFY_SUBSET_PREFIX}_*.csv"
+    sp_enhanced_shards = glob.glob(shard_file_glob)
+    if len(sp_enhanced_shards) > 0:
+        logging.info(f"Shards already exist. Combining...")
+        sp_enhanced_df_list = [
+            pd.read_csv(file, on_bad_lines="skip") for file in sp_enhanced_shards
+        ]
+        sp_enhanced_df = pd.concat(sp_enhanced_df_list, axis=0, ignore_index=True)
+        sp_enhanced_df.to_csv(SPOTIFY_DATASET_FILE, index=False)
+
+
+def _delete_temp_files():
+    """Deletes temporary files"""
+    logging.info("Deleting temporary files...")
+    shutil.rmtree(TEMP_DIR)
+
+
+def main():
+    create_cleaned_billboard_dataset()
+    create_spotify_dataset()
+    _delete_temp_files()
 
 
 if __name__ == "__main__":
