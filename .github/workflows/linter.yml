@@ -26,5 +26,5 @@ jobs:
 
       - name: Linting with Flake8
         run: |
-          flake8 --max-line-length=100 $(git ls-files "*.py")
-          flake8_nb --max-line-length=100 $(git ls-files "*.ipynb")
+          flake8 --max-line-length=100 --extend-ignore E203 $(git ls-files "*.py")
+          flake8_nb --max-line-length=100 --extend-ignore E203 $(git ls-files "*.ipynb")
