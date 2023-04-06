@@ -9,8 +9,8 @@ import spotipy
 import sys
 import time
 
-from pathlib import Path
 from dask import dataframe as dd
+from pathlib import Path
 from spotipy.oauth2 import SpotifyClientCredentials
 
 # Set logging level
@@ -23,15 +23,20 @@ SPOTIPY_CLIENT_ID = os.environ.get("SPOTIPY_CLIENT_ID")
 SPOTIPY_CLIENT_SECRET = os.environ.get("SPOTIPY_CLIENT_SECRET")
 
 # Initialize target datasets
-TARGET_FILE = "../../data/all_classified_billboard_songs1.csv"
-TARGET_CLEANED_FILE = TARGET_FILE.split(".csv")[0] + "_clean.csv"
-TARGET_REDUCED_FILE = TARGET_CLEANED_FILE.split(".csv")[0] + "_reduced.csv"
-TEMP_DIR = "../../data/temp"
+TARGET_FILE = (
+    Path(__file__).parents[2].joinpath("data/all_classified_billboard_songs1.csv")
+)
+TARGET_CLEANED_FILE = str(TARGET_FILE.resolve()).split(".csv")[0] + "_clean.csv"
+TEMP_DIR = Path(__file__).parents[2].joinpath("data/temp")
 BB_SUBSET_PREFIX = f"{TEMP_DIR}/bb_subset_clean"
 INTERMEDIATE_SUBSET_PREFIX = f"{TEMP_DIR}/bb_subset_id"
 SPOTIFY_SUBSET_PREFIX = f"{TEMP_DIR}/spotify_enhanced_dataset"
-SPOTIFY_DATASET_FILE = "../../data/spotify_enhanced_dataset.csv"
-MILLION_SONG_SUBSET_FILE = "../../data/million_songs_subset.csv"
+SPOTIFY_DATASET_FILE = (
+    Path(__file__).parents[2].joinpath("data/spotify_enhanced_dataset.csv")
+)
+MILLION_SONG_SUBSET_FILE = (
+    Path(__file__).parents[2].joinpath("data/million_songs_subset.csv")
+)
 
 RANDOM_SEED = 0
 
@@ -280,30 +285,6 @@ def create_spotify_dataset():
         logging.info(f"{SPOTIFY_DATASET_FILE} already exists.")
 
 
-def reduce_classified_billboard_dataset(
-    filename: str, subset_size: int = 3000, class_value: int = 0
-) -> None:
-    """Returns list of songs with random sampling of a given class removed
-
-    Args:
-        filename (str): filename
-        subset_size (int): subset size
-        class_value (int): class to be reduced to subset
-
-    Returns:
-        list: list of unclassified songs
-    """
-    logging.info("Creating dataset reduced by class value...")
-    df = pd.read_csv(filename, on_bad_lines="skip")
-    class_subset = df[df["class"] == class_value].sample(
-        subset_size, random_state=RANDOM_SEED
-    )
-    new_df = pd.concat([df[df["class"] != class_value], class_subset])
-
-    new_filename = filename.split(".csv")[0] + "_reduced.csv"
-    new_df.to_csv(new_filename, index=False)
-
-
 def split_billboard_cleaned_dataset():
     """Splits Billboard dataset into 1000 row shards"""
     if not os.path.exists(TEMP_DIR):
@@ -378,15 +359,13 @@ def combine_spotify_dataset_shards():
 
 def _delete_temp_files():
     """Deletes temporary files"""
-    logging.info("Deleting temporary files...")
-    dirpath = Path(TEMP_DIR)
-    if dirpath.exists() and dirpath.is_dir():
-        shutil.rmtree(dirpath)
+    if os.path.exists(TEMP_DIR):
+        logging.info("Deleting temporary files...")
+        shutil.rmtree(TEMP_DIR)
 
 
 def main():
     create_cleaned_billboard_dataset()
-    reduce_classified_billboard_dataset(filename=TARGET_CLEANED_FILE, subset_size=3000)
     create_spotify_dataset()
     _delete_temp_files()
 
