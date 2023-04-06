@@ -357,6 +357,23 @@ def combine_spotify_dataset_shards():
         sp_enhanced_df.to_csv(SPOTIFY_DATASET_FILE, index=False)
 
 
+def regularize_spotify_dataset_distribution(
+    filename: Path, labels: list[int], n: int = 3000
+) -> None:
+    """
+    Regularizes Spotify dataset distribution by undersampling majority class
+    """
+    df = pd.read_csv(filename, on_bad_lines="skip")
+    for label in labels:
+        df_label = df[df["class"] == label]
+        if len(df_label) > n:
+            df_label = df_label.sample(n=n, random_state=RANDOM_SEED)
+            df = df[df["class"] != label]
+            df = pd.concat([df, df_label], axis=0, ignore_index=True)
+    new_filename = f"{str(filename).split('.csv')[0]}_regularized.csv"
+    df.to_csv(new_filename, index=False)
+
+
 def _delete_temp_files():
     """Deletes temporary files"""
     if os.path.exists(TEMP_DIR):
@@ -368,6 +385,7 @@ def main():
     create_cleaned_billboard_dataset()
     create_spotify_dataset()
     _delete_temp_files()
+    regularize_spotify_dataset_distribution(SPOTIFY_DATASET_FILE, [0, 10], 3000)
 
 
 if __name__ == "__main__":
