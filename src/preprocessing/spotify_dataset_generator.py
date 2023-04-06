@@ -8,7 +8,6 @@ import shutil
 import spotipy
 import sys
 import time
-import pyspark
 
 from pathlib import Path
 from dask import dataframe as dd
