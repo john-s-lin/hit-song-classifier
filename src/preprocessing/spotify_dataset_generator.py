@@ -363,15 +363,18 @@ def regularize_spotify_dataset_distribution(
     """
     Regularizes Spotify dataset distribution by undersampling majority class
     """
-    df = pd.read_csv(filename, on_bad_lines="skip")
-    for label in labels:
-        df_label = df[df["class"] == label]
-        if len(df_label) > n:
-            df_label = df_label.sample(n=n, random_state=RANDOM_SEED)
-            df = df[df["class"] != label]
-            df = pd.concat([df, df_label], axis=0, ignore_index=True)
     new_filename = f"{str(filename).split('.csv')[0]}_regularized.csv"
-    df.to_csv(new_filename, index=False)
+    if not os.path.exists(new_filename):
+        df = pd.read_csv(filename, on_bad_lines="skip")
+        for label in labels:
+            df_label = df[df["class"] == label]
+            if len(df_label) > n:
+                df_label = df_label.sample(n=n, random_state=RANDOM_SEED)
+                df = df[df["class"] != label]
+                df = pd.concat([df, df_label], axis=0, ignore_index=True)
+        df.to_csv(new_filename, index=False)
+    else:
+        logging.info(f"{new_filename} already exists.")
 
 
 def _delete_temp_files():
