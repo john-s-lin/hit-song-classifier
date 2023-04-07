@@ -153,7 +153,7 @@ def cross_validator(train_data: DataFrame) -> CrossValidatorModel:
 
     # Define the estimator
     lr = LinearSVC()
-    one_vs_rest = OneVsRest(lr)
+    one_vs_rest = OneVsRest(classifier=lr)
 
     # Define the parameter grid
     param_grid = (
