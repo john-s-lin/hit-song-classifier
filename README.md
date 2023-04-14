@@ -1,13 +1,13 @@
 # hit-song-classifier
 
-SOEN-471 Group Project: Using classification to predict song rankings from the [Million Song Dataset](http://millionsongdataset.com/)
+Using classification to predict song rankings from the [Million Song Dataset](http://millionsongdataset.com/) and [Spotify](https://developer.spotify.com/documentation/web-api)
 
-| Group 22           | @GitHub             | ID       |
-| ------------------ | ------------------- | -------- |
-| John Lin           | @john-s-lin         | 40176227 |
-| Sephora Maltais    | @SephoraM           | 40151723 |
-| Steven Markandu    | @smarkandu          | 23740137 |
-| William Chittavong | @William-Chittavong | 40048632 |
+| Codeowners         | @GitHub             |
+| ------------------ | ------------------- |
+| John Lin           | @john-s-lin         |
+| Sephora Maltais    | @SephoraM           |
+| Steven Markandu    | @smarkandu          |
+| William Chittavong | @William-Chittavong |
 
 ## Rules
 
