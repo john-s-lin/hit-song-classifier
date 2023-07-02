@@ -1,6 +1,6 @@
 dask==2023.6.1
 kaggle==1.5.13
-matplotlib==3.6.2
+matplotlib==3.7.1
 numpy==1.24.2
 pandas==2.0.3
 pyspark==3.3.2
