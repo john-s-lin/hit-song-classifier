@@ -1,4 +1,4 @@
-dask==2023.6.1
+dask==2023.7.1
 kaggle==1.5.13
 matplotlib==3.7.1
 numpy==1.25.2
