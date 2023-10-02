@@ -1,9 +1,9 @@
-dask==2023.9.0
+dask==2023.9.3
 kaggle==1.5.16
-matplotlib==3.7.2
-numpy==1.25.2
-pandas==2.1.0
-pyspark==3.4.1
+matplotlib==3.8.0
+numpy==1.26.0
+pandas==2.1.1
+pyspark==3.5.0
 python-dotenv==1.0.0
 requests==2.31.0
 spotipy==2.23.0
