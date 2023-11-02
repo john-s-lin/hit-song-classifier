@@ -1,7 +1,7 @@
 dask==2023.10.1
 kaggle==1.5.16
 matplotlib==3.8.1
-numpy==1.26.0
+numpy==1.26.1
 pandas==2.1.2
 pyspark==3.5.0
 python-dotenv==1.0.0
