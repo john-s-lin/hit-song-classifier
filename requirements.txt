@@ -1,5 +1,5 @@
 dask==2023.12.1
-kaggle==1.5.16
+kaggle==1.6.4
 matplotlib==3.8.2
 numpy==1.26.2
 pandas==2.1.4
